@@ -12,7 +12,7 @@ viene fornito il contesto.
 
 Come detto innanzi, questa fase può corrispondere alla prima fase del
 processo nel caso il dato ancora non esista e, quindi, si parte dalla
-definizione di un’ontologia o comunque da un modello dati del dominio,
+definizione di un’ontologia o comunque di un modello dati del dominio,
 cioè dalla definizione sintattica e semantica dei dati in termini di
 entità rappresentate, loro attributi e associazioni (cosiddetta fase di
 modellazione).
