@@ -1,3 +1,5 @@
+.. _par-7-2-1:
+
 Elenchi delle categorie e modalità di ricerca
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
