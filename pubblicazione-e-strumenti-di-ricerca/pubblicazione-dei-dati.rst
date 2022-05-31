@@ -1,4 +1,6 @@
- Pubblicazione dei dati
+.. _par-7-1:
+
+Pubblicazione dei dati
 ˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 
 
