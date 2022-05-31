@@ -28,12 +28,12 @@ I vocabolari fanno sì che invece di utilizzare nei dati le etichette,
 queste possano essere referenziate dagli identificatori univoci
 assegnati, in modo che, se le etichette dovessero cambiare, il
 riferimento non deve essere adeguato, riducendo l’onere di manutenzione
-per i titolari di dati. In più, siccome gli URI possono essere
+per i titolari di dati. Considerato, inoltre, che gli URI possono essere
 deferenziati (v. par. :ref:`par-7-1-3`), ciò consente di risolvere l’etichetta
 in qualsiasi lingua supportata dal vocabolario controllato.
 
 AgID rende disponibili i vocabolari controllati definiti nell’ambito
-della rete Ontopia [1]_ e, per i dati territoriali, il Sistema di
+della rete Ontopia [1]_ e, per i dati territoriali, del Sistema di
 Registri INSPIRE Italia (v. box “Risorse utili”).
 
 **Integrazione con altri dati -** L’arricchimento dei dati può essere
