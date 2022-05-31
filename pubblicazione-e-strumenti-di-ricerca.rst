@@ -1,5 +1,7 @@
- Pubblicazione e strumenti di ricerca
--------------------------------------
+.. _cap-7:
+
+Pubblicazione e strumenti di ricerca
+------------------------------------
 
 L’art. 9 del Decreto contiene le previsioni normative relative alle
 modalità per facilitare la ricerca di dati e documenti resi disponibili
