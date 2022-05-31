@@ -1,3 +1,5 @@
+.. _par-7-1-2:
+
 Elementi architetturali
 ^^^^^^^^^^^^^^^^^^^^^^^
 
