@@ -1,5 +1,7 @@
- Pubblicazione
-^^^^^^^^^^^^^^
+.. _par-5-1-7:
+
+Pubblicazione
+^^^^^^^^^^^^^
 
 Prima di procedere alla pubblicazione è necessario creare i metadati,
 definire le politiche di accesso e il modello di licenza da applicare e
