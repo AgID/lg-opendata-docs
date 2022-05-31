@@ -19,7 +19,7 @@ o di trasporto.
 Considerato che **il valore economico di tale tipologia di dati dipende
 dall’immediata disponibilità dell’informazione e dagli aggiornamenti
 regolari**, come indicato nel Decreto, i dati dinamici, oltre ad essere
-coerenti con le indicazioni generali di cui al paragrafo :ref:`par-4-1`, DEVONO
+coerenti con le indicazioni generali di cui alle presenti Linee Guida, DEVONO
 essere resi **disponibili per il riutilizzo immediatamente dopo la
 raccolta tramite API adeguate e, ove possibile, attraverso download in
 blocco**. Per ulteriori dettagli e indicazioni su tali modalità si
@@ -54,11 +54,7 @@ include uno specifico risultato atteso sull’aumento del numero di dati
 dinamici nell’ambito dell’obiettivo teso a favorire la condivisione dei
 dati tra le PA e il loro riutilizzo da parte di cittadini e imprese.
 
-Per l’identificazione dei dati dinamici, attraverso i
-metadati, nel catalogo nazionale di cui all’art. 9 del Decreto, anche ai
-fini del calcolo dell’indicatore per la misurazione del risultato atteso
-di cui sopra, indicazioni specifiche sono incluse nella guida operativa
-sui cataloghi.
+Anche ai fini del calcolo dell’indicatore per la misurazione del risultato atteso di cui sopra, nei metadati documentati nel catalogo nazionale di cui all’art. 9 del Decreto è necessario indicare che si tratta di dati dinamici. A tale proposito, indicazioni specifiche sono incluse nella guida operativa sui cataloghi..
 
 
 .. topic:: Risorse utili
