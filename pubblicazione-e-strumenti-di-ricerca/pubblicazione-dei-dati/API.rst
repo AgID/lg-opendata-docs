@@ -48,6 +48,8 @@ Digitale Nazionale Dati per l’interoperabilità dei sistemi informativi e
 delle basi di dati*\ ” adottate con la Determinazione di AgID n.
 627/2021 [2]_.
 
+La coerenza con le Linee Guida suddette garantisce anche l’adempimento di quanto previsto nella bozza di Regolamento UE relativa ai dati di elevato valore (v. par. :ref:`par-4-3`), in particolare con la previsione di cui all’art. 3(2) circa le condizioni di utilizzo delle API e i criteri di qualità del servizio.
+
 Considerato che, come evidenziato dalla Direttiva, è, in generale,
 vantaggioso riutilizzare e condividere i dati tramite un impiego
 adeguato di API, perché possono aiutare gli sviluppatori e le start-up a
