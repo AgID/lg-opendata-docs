@@ -108,9 +108,7 @@ evidenziati in rosso.
    livelli di apertura
 
 
-\* Per i formati *txt* e *html*, il documento evidenzia che tali formati
-dovrebbero essere valutati con tre stelle, poiché i dati potrebbero
-essere progettati per essere leggibili dalla macchina. Tuttavia, viene
+\* Il documento evidenzia che i formati *txt* e *html* dovrebbero essere valutati con tre stelle, poiché i dati potrebbero essere progettati per essere leggibili dalla macchina. Tuttavia, viene
 assegnata solo una stella perché questi formati non erano
 originariamente concepiti per rappresentare contenuti leggibili dalla
 macchina ma solo dall’uomo. La rappresentazione di contenuti leggibili
