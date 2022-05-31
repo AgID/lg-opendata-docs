@@ -11,12 +11,12 @@ dati generati da sensori sono solitamente considerati dati dinamici*\ ”.
 Oltre a tali ultimi dati, esempi di dati dinamici sono i dati
 ambientali, relativi al traffico, satellitari o meteorologici.
 
-I dati dinamici sono uno dei tipi di dati più preziosi dal punto di
+I dati dinamici sono una delle tipologie più preziose dal punto di
 vista commerciale, in quanto possono essere utilizzati per prodotti e
 servizi che forniscono informazioni in tempo reale, come app di viaggio
 o di trasporto.
 
-Siccome **il valore economico di tale tipologia di dati dipende
+Considerato che **il valore economico di tale tipologia di dati dipende
 dall’immediata disponibilità dell’informazione e dagli aggiornamenti
 regolari**, come indicato nel Decreto, i dati dinamici, oltre ad essere
 coerenti con le indicazioni generali di cui al paragrafo :ref:`par-4-1`, DEVONO
