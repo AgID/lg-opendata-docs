@@ -164,8 +164,7 @@ valutati.
 |                                   | “Amministrazione trasparente”?    |
 +-----------------------------------+-----------------------------------+
 
-L’analisi dei vincoli e, quindi, la verifica se il dato che si sta
-valutando può essere o meno reso disponibile per il riutilizzo possono
+L’analisi dei vincoli e, quindi, la verifica sulla possibilità di rendere disponibili i dati per il riutilizzo possono
 essere ulteriormente supportate prendendo in considerazione l’elenco dei
 documenti esclusi dall’applicazione del Decreto riportato nel par.
 :ref:`par-1-2`. Se il dato o documento rientra tra uno di quelli dell’elenco di
