@@ -3,8 +3,8 @@
 Qualità dei dati
 ˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 
-Il miglioramento della qualità dei dati, e la maggiore diffusione delle
-tecniche di misurazione, dipende da vari fattori tra cui l’adesione a
+Il miglioramento della qualità dei dati e la maggiore diffusione delle
+tecniche di misurazione dipendono da vari fattori tra cui l’adesione a
 modelli di qualità condivisi.
 
 Per determinare la bontà dei dati è necessario definire delle misure
@@ -48,7 +48,7 @@ Il passo successivo è quantificare queste caratteristiche in termini di
 misure, individuando delle soglie che consentano di discriminare la
 bontà o meno di un dato rispetto alla caratteristica in esame. La fase
 di valutazione della qualità dei dati è importante in tutti i sistemi
-informativi indipendentemente dall’apertura dei dati. Con l’adozione di
+informativi indipendentemente dalla loro apertura. Con l’adozione di
 politiche di apertura dei dati, la qualità dei dati assume un ruolo
 ancora più rilevante in quanto elemento per la certificazione della
 bontà dei dati forniti e soprattutto dell’appropriatezza rispetto
