@@ -8,7 +8,7 @@ dinamici” come “\ documenti informatici, soggetti ad aggiornamenti
 frequenti o in tempo reale, in particolare a causa della loro volatilità
 o rapida obsolescenza\ ”**. La Direttiva ribadisce, inoltre, che “\ *i
 dati generati da sensori sono solitamente considerati dati dinamici*\ ”.
-Oltre a tali ultimi dati, esempi di dati dinamici sono i dati
+Esempi di dati dinamici sono, quindi, i dati
 ambientali, relativi al traffico, satellitari o meteorologici.
 
 I dati dinamici sono una delle tipologie più preziose dal punto di
