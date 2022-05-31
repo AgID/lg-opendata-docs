@@ -139,7 +139,7 @@ manipolazione.
     Nel caso in cui, per soddisfare richieste di apertura, rendere disponibili i dati per il riutilizzo comporti attività che vanno al di là della semplice manipolazione che implicherebbero difficoltà sproporzionate, il titolare dei dati non ha l’obbligo di adeguare i documenti o crearne nuovi o fornire estratti di documenti, motivando, attraverso un apposito provvedimento, le difficoltà sproporzionate anche indicando le attività sui dati che eccedono la semplice manipolazione.
 
 Quanto indicato in questo paragrafo è valido per tutte le
-tipologie di dati, così come i requisiti definiti negli altri capitoli.
+tipologie di dati.
 Il Decreto individua particolari tipi di dati quali i dati dinamici, le
 serie di dati di elevato valore e i dati della ricerca per i quali, nei
 paragrafi successivi, saranno fornite specifiche indicazioni
