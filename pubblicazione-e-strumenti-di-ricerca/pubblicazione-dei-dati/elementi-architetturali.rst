@@ -11,7 +11,7 @@ agli utenti. Si distinguono due livelli: livello di front-end e livello
 infrastrutturale. Il livello di front-end consiste di una parte di
 presentazione che può essere sia un sito Web, sia una sezione in un sito
 esistente. In questa parte rientrano tutti quegli strumenti che
-consentono di (i) dare massima visibilità ai dati disponibili e (ii) di
+consentono di dare massima visibilità ai dati disponibili e di
 interagire in maniera “user-friendly” con gli utenti stessi, per esempio
 per capire quali dati sono di loro interesse, quali nuovi dati sono
 richiesti, quali suggerimenti vogliono dare per migliorare anche la
