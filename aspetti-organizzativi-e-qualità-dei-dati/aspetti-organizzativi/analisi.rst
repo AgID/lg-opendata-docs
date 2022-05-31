@@ -13,8 +13,7 @@ dati” (v. par. :ref:`par-5-3`) si identificano alcune misure e un metodo di
 valutazione, basati sugli standard ISO di riferimento.
 
 **Bonifica** - Generalmente l’analisi della qualità del dato può
-richiedere una fase di bonifica, vale a dire un miglioramento della
-qualità dei dati eliminando errori e criticità attraverso processi
+richiedere una fase di bonifica, vale a dire un miglioramento che può essere ottenuto eliminando errori e criticità attraverso processi
 basati sui dati, tramite il confronto con il mondo reale o il confronto
 incrociato (matching) con altri dataset, oppure adottando processi di
 bonifica basati sui processi che hanno la caratteristica di analizzare
