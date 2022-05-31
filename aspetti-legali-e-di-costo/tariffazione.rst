@@ -5,7 +5,7 @@ Tariffazione
 
 Ferma restando la condivisione dei dati tra pubbliche amministrazioni
 per finalità istituzionali, che avviene esclusivamente a titolo
-gratuito, come previsto dall’art. 50 del **CAD**, il Decreto stabilisce
+gratuito, salvo per la prestazione di elaborazioni aggiuntive, come previsto dall’art. 50 del **CAD**, il Decreto stabilisce
 come regola preminente che **i dati siano resi disponibili
 gratuitamente**; tuttavia, è possibile richiedere per il riutilizzo dei
 dati i costi marginali sostenuti effettivamente per la riproduzione, la
