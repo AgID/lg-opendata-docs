@@ -79,7 +79,7 @@ questo caso è data dall’aggiunta di una componente semantica all’interno
 della configurazione del CMS stesso.
 
 **Utilizzo di piattaforme esterne.** Viene utilizzata una piattaforma
-che integra già funzionalità per la catalogazione, visualizzazione,
+che include funzionalità per la catalogazione, visualizzazione,
 ricerca e interrogazione dei dati. In alcuni casi queste piattaforme
 sono disponibili in modalità «\ *as a service*\ ». 
 
