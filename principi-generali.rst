@@ -7,7 +7,7 @@ tra i soggetti destinatari di cui al par. :ref:`par-1-3`, rendano
 disponibili per il riutilizzo i propri dati, e relativi metadati, nel
 rispetto delle regole tecniche definite con le presenti Linee Guida.
 
-Questo capitolo definisce, quindi, le modalità e i formati per i dati da rendere disponibili come dati di tipo aperto e, in
+Questo capitolo definisce le modalità e i formati per i dati da rendere disponibili come dati di tipo aperto e, in
 particolare, per le specifiche categorie di dati individuate da
 Direttiva e Decreto, ovvero dati dinamici, dati della ricerca e serie di
 dati di elevato valore (di cui, rispettivamente, agli artt. 6 commi 5 e
