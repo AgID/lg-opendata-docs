@@ -3,7 +3,7 @@
 Ruoli e responsabilità
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Per attuare il processo è necessario definire una chiara data
+Per attuare il processo è necessario definire innanzitutto una chiara data
 *governance* interna con l’individuazione di ruoli e relative
 responsabilità e integrare le sue fasi sia verticalmente, rispetto ai
 processi interni già consolidati, che orizzontalmente rispetto alle
@@ -22,7 +22,7 @@ strumentali.
 Un ruolo essenziale per l’organizzazione di uffici e risorse per il
 processo di apertura e di riutilizzo dei dati può essere svolto
 dall’\ **ufficio del Responsabile per la transizione digitale** (RTD)
-istituito dall’art. 17 del **CAD**, che ha la responsabilità della
+istituito con l’art. 17 del **CAD**, che ha la responsabilità della
 transizione alla modalità operativa digitale e che risponde direttamente
 all’organo di vertice politico o, in assenza di questo, a quello
 amministrativo dell’ente.
@@ -73,7 +73,7 @@ dati, per la definizione delle interfacce di accesso ai dati, per la
 promozione di applicazioni sviluppate a partire dai dati pubblicati,
 fornendo anche nel caso esempi di servizi dimostrativi attraverso cui
 incentivare il riutilizzo. Alcuni membri del team (per es., esperti di
-tecnologie Web, esperti GIS, esperti di tecnologie e strumenti per i
+tecnologie web, esperti GIS, esperti di tecnologie e strumenti per i
 Linked Data) possono occuparsi della gestione del processo di apertura
 del dato dal punto di vista IT.
 
