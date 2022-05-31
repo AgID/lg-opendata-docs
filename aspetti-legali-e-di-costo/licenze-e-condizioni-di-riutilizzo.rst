@@ -1,5 +1,7 @@
+.. _par-6-1:
+
 Licenze e condizioni di riutilizzo
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 
 Una delle caratteristiche dei dati di tipo aperto - come previsto nella
 definizione data dal CAD all’art. 1 comma 1 lettera l-ter - è quella di
