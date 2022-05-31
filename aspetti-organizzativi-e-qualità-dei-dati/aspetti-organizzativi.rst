@@ -8,8 +8,7 @@ e una serie di attività di analisi ed elaborazione finalizzati al
 miglioramento della qualità e dell’accesso al dato stesso
 
 Nella :ref:`Figura <processo-preparazione-dati>` che segue è rappresentato un possibile percorso di
-preparazione dei dati per garantire la produzione e la pubblicazione di
-dati (aperti) di qualità, necessariamente elastico per l’applicazione
+preparazione dei dati per garantirne la produzione e la pubblicazione di qualità, necessariamente elastico per l’applicazione
 alle diverse realtà amministrative.
 
 La rappresentazione di tale percorso è un adattamento dell’analogo
@@ -23,7 +22,7 @@ Data**.
 
 Alcune fasi indicate nel percorso possono non essere considerate stante
 il possibile diverso punto di partenza che porterà alla pubblicazione
-dei dati. Se, cioè, per esempio, si tratta di produrre un nuovo dato,
+dei dati. Se, per esempio, si tratta di produrre un nuovo dato,
 quindi non ancora esistente, le attività di ricognizione e di analisi
 possono essere by-passate e la prima fase da considerare potrà essere
 quella della modellazione, oltre alla definizione di priorità e del
