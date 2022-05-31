@@ -1,5 +1,7 @@
+.. _par-5-1:
+
 Aspetti organizzativi
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 
 Un dato destinato alla pubblicazione è frutto di una catena di processi
 e una serie di attività di analisi ed elaborazione finalizzati al
