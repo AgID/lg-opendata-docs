@@ -1,5 +1,7 @@
+.. _par-4-6:
+
 Metadati
-˜˜˜˜˜˜˜
+˜˜˜˜˜˜˜˜
 
 La metadatazione ricopre un ruolo essenziale laddove i dati sono esposti
 a utenti terzi e a software. I metadati, infatti, consentono una
