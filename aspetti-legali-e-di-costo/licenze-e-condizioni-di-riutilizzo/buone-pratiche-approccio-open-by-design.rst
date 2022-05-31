@@ -1,3 +1,5 @@
+.. _par-6-1-2:
+
 Buone pratiche: approccio “open by design”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
