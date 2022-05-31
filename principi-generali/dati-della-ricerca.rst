@@ -32,7 +32,7 @@ ricerca.
 
 Nel processo di identificazione dei dati della ricerca da rendere
 disponibili per il riutilizzo è necessario tenere conto della protezione
-dei dati personale, degli interessi commerciali, dei diritti di
+dei dati personali, degli interessi commerciali, dei diritti di
 proprietà intellettuale [1]_ e dei diritti di proprietà
 industriale [2]_.
 
@@ -45,10 +45,9 @@ disposizione [4]_.
 
 **Findable** (Reperibile) - Il primo requisito da rispettare per
 garantire il riutilizzo dei dati è di rendere i dati reperibili da
-macchine ed essere umani. Per fare questo, i metadati, più dettagliati
-possibile, dovrebbero essere disponibili online attraverso una risorsa
-consultabile e a dati e metadati dovrebbe essere assegnato un
-identificatore persistente.
+macchine ed essere umani. Per fare questo, dovrebbero essere resi disponibili i metadati attraverso una risorsa
+consultabile online e dovrebbe essere assegnato un
+identificatore persistente a dati e metadati.
 
 .. topic:: **REQUISITO 10**: dlgs36-2006/opendata/req/research/findable
 
