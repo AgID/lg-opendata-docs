@@ -1,5 +1,7 @@
+.. _par-7-2:
+
 Strumenti per la ricerca
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 
 Il Decreto individua come strumenti per la ricerca dei dati il
 **catalogo nazionale dei dati aperti**\  [1]_ e, per i dati
