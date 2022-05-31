@@ -1,5 +1,7 @@
- Aspetti legali e di costo
---------------------------
+.. _cap-6:
+
+Aspetti legali e di costo
+-------------------------
 
 Gli articoli 7 e 8 del Decreto prevedono disposizioni specifiche su
 tariffazione e licenze standard da adottare per il riutilizzo dei dati.
