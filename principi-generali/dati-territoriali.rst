@@ -14,7 +14,7 @@ Il Decreto non include particolari disposizioni su tali dati, se non il
 rimando alla disciplina specifica definita in applicazione della
 Direttiva 2007/2/CE conosciuta come Direttiva INSPIRE [**INSPIRE-DIR**]
 e recepita in Italia con il decreto legislativo 27 gennaio 2010, n. 32
-[**D-LGS-32-2010**].
+[**D-LGS-32-2010**] o i requisiti specifici per la categoria “Dati geospaziali” prevista nell’ambito dei dati di elevato valore (v. par. :ref:`par-4-3`).
 
 .. topic:: **REQUISITO 14**: dlgs36-2006/opendata/req/spatial/inspire
 
