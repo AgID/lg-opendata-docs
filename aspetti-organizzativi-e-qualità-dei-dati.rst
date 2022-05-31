@@ -5,7 +5,7 @@ Aspetti organizzativi e qualità dei dati
 
 Il Decreto non contiene specifiche disposizioni sugli aspetti
 organizzativi e di qualità dei dati. Si ritiene utile, però, riportare
-opportune indicazioni, molte delle quali già presenti nelle *Linee Guida
+opportune indicazioni, alcune delle quali già presenti nelle *Linee Guida
 per la valorizzazione del patrimonio informativo pubblico*\  [1]_,
 sebbene organizzate diversamente e ove necessario integrate e/o riviste,
 come raccomandazioni su tali aspetti che sono cruciali per un processo
