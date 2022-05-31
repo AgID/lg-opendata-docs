@@ -1,5 +1,7 @@
+.. _par-4-1:
+
 Requisiti comuni
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 
 Sulla base dell’art. 1 del Decreto, le presenti linee guida si applicano
 ai “\ *documenti contenenti*\ **dati
