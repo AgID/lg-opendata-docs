@@ -5,12 +5,12 @@ Documentazione
 
 Una fase molto importante nel processo di preparazione dei dati è la
 definizione di sintassi (cioè struttura) e semantica (cioè contenuto).
-Questo, oltre a migliorare l’interoperabilità e la qualità e a
+Questo, oltre a migliorare l’interoperabilità, la qualità e a
 facilitarne l’elaborazione, aumenta anche il valore dei dati stessi,
 poiché l’interpretazione errata dei dati diventa meno probabile quando
 viene fornito il contesto.
 
-Come detto innanzi, questa fase può corrispondere alla prima fase del
+Come detto innanzi, questa fase può corrispondere alla prima del
 processo nel caso il dato ancora non esista e, quindi, si parte dalla
 definizione di un’ontologia o comunque di un modello dati del dominio,
 cioè dalla definizione sintattica e semantica dei dati in termini di
