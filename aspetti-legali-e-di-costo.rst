@@ -13,7 +13,7 @@ applicare ai dati aperti e l’eventuale apposizione di costi marginali
 sostenuti effettivamente per la riproduzione, la messa a disposizione e
 la divulgazione dei dati, nonché per l’anonimizzazione di dati personali
 o per le misure adottate per proteggere le informazioni commerciali a
-carattere riservato.
+carattere riservato. In determinati casi è possibile anche determinare tariffe superiori ai costi marginali.
 
 Altre indicazioni riguardano il principio di non discriminazione e gli
 accordi di esclusiva tra enti pubblici e partner privati, da evitare,
