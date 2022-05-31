@@ -81,9 +81,7 @@ della configurazione del CMS stesso.
 **Utilizzo di piattaforme esterne.** Viene utilizzata una piattaforma
 che integra già funzionalità per la catalogazione, visualizzazione,
 ricerca e interrogazione dei dati. In alcuni casi queste piattaforme
-sono disponibili in modalità «\ *as a service*\ ». Gli strumenti di
-questo tipo più utilizzati sono CKAN, DKAN, Socrata. Essi si prestano
-anche per essere facilmente integrati con portali già esistenti.
+sono disponibili in modalità «\ *as a service*\ ». 
 
 .. topic:: **Raccomandazione 15**: dlgs36-2006/opendata/rec/publication/portals
 
