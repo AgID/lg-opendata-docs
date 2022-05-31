@@ -80,8 +80,8 @@ Per quanto riguarda le imprese pubbliche, sono da considerare:
    -  estrazione di gas e prospezione o estrazione di carbone o di altri
       combustibili solidi;
 
--  quelle che agiscono in qualità di ‘\ *operatore di servizio
-   pubblico*\ ’, definito dall’art. 2 del Regolamento (CE) n. 1370/2007
+-  quelle che agiscono in qualità di "\ *operatore di servizio
+   pubblico*\ ", definito dall’art. 2 del Regolamento (CE) n. 1370/2007
    come “\ *un’impresa o un gruppo di imprese di diritto pubblico o
    privato che fornisce servizi di trasporto pubblico di passeggeri o
    qualsiasi ente pubblico che presta servizi di trasporto pubblico di
