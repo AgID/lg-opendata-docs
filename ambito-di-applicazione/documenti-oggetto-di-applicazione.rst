@@ -1,7 +1,7 @@
 .. _par-1-1:
 
 Documenti oggetto di applicazione
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 
 **Le presenti Linee Guida si applicano**:
 
