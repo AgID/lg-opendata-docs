@@ -59,7 +59,7 @@ i formati dei dati e dei metadati e le modalità tecniche di diffusione.
 
 Nel momento in cui è stata completata la redazione delle presenti linee
 guida, è stata avviata dalla Commissione Europea la consultazione
-pubblica sugli atti di esecuzione di sua competenza [1]_. Siccome non si
+pubblica sugli atti di esecuzione di sua competenza [1]_. Visto che non si
 può fare riferimento ancora ad atti adottati ufficialmente ed entrati in
 vigore, vengono di seguito definiti requisiti e raccomandazioni sulla
 base delle prescrizioni più generali presenti nel Decreto e nella bozza
@@ -68,7 +68,7 @@ essere applicati dopo l’entrata in vigore degli atti di esecuzione della
 Commissione Europea insieme alle specifiche indicazioni che in quegli
 atti sono riportate.
 
-Nel caso in cui, gli atti di esecuzione di cui sopra dovessero essere
+Nel caso in cui gli atti di esecuzione di cui sopra dovessero essere
 emanati prima dell’adozione delle presenti Linee Guida, questo paragrafo
 sarà modificato e aggiornato sulla base del contenuto degli atti della
 Commissione Europea nella versione ufficiale. In ogni caso, ove si
@@ -101,10 +101,10 @@ Le amministrazioni titolari di dati di elevato valore devono designare
 un punto di contatto per domande e questioni relative alle API al fine
 di garantire la disponibilità e il mantenimento delle API stesse e, in
 definitiva, la pubblicazione regolare ed efficace dei set di dati di
-alto valore (art. 3(4) bozza di Regolamento).
+alto valore (cfr. art. 3(4) bozza di Regolamento).
 
 Nei metadati che documentano i dati di cui al presente paragrafo dovrà
-essere indicato che si tratta di dati di elevato valore (art. 3(5) bozza
+essere indicato che si tratta di dati di elevato valore (cfr. art. 3(5) bozza
 di Regolamento). Indicazioni specifiche su come implementare tale
 disposizione saranno fornite nelle guide operative relative ai profili
 nazionali di metadati (v. par. :ref:`par-4-6`). Ulteriori indicazioni sui
