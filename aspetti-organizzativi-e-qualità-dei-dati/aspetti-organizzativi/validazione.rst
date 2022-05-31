@@ -4,7 +4,7 @@ Validazione
 ^^^^^^^^^^^
 
 La validazione dei dati è una parte essenziale di qualsiasi attività di
-gestione dei dati, prima che questi vengano pubblicati e utilizzati.
+gestione dei dati stessi, prima che questi vengano pubblicati e utilizzati.
 
 Essa viene definita come “\ *un’attività volta a verificare se il valore
 di un dato proviene dall’insieme dato (finito o infinito) di valori
