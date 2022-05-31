@@ -21,7 +21,7 @@ normalizzata*\ ”. I vocabolari controllati assegnano ad ogni concetto un
 identificatore univoco e persistente (URI), in modo che quel concetto
 venga referenziato in maniera non ambigua, e garantiscono, inoltre, la
 gestione in modo coerente delle diverse versioni. Possono essere
-associate anche etichette, definizioni e descrizioni anche in diverse
+associate, oltre alle etichette, definizioni e descrizioni anche in diverse
 lingue.
 
 I vocabolari fanno sì che invece di utilizzare nei dati le etichette,
@@ -76,7 +76,7 @@ quindi, contenuto informativo aggiuntivo (inferenza).
 
 Alcune delle fasi indicate nel percorso di cui alla :ref:`Figura <processo-preparazione-dati>` possono
 essere comuni al processo di produzione dei Linked Open Data. Tale
-processo è caratterizzato da altre fasi, non rappresentate nel percorso
+processo è caratterizzato da altre specifiche fasi, non rappresentate nel percorso
 comune, ma dettagliate nelle Linee Guida citate innanzi a cui si
 rimanda, come già raccomandato in precedenza. È importante notare che
 nella pratica si ritiene a volte necessario passare da modelli di
