@@ -127,4 +127,4 @@ procedura definita.
 
 
 .. [1]
-   Indice PA https://indicepa.gov.it
+   v. https://indicepa.gov.it/ipa-portale/consultazione/responsabile-transizione-digitale/ricerca-responsabile-transizione-digitale
