@@ -1,7 +1,7 @@
 .. _par-1-3:
 
 Soggetti destinatari
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~
 
 I destinatari delle presenti Linee Guida sono quelli individuati dal
 Decreto e innanzi già citati, ovvero le pubbliche amministrazioni, gli
