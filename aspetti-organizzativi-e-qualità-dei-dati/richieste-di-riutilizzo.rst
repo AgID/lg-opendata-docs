@@ -26,7 +26,9 @@ disciplinate dall’art. 5 del Decreto. Sulla base di tali disposizioni di
 seguito viene indicata la procedura da seguire per le richieste e
 l’evasione delle stesse.
 
-.. topic:: **REQUISITO 18**: dlgs36-2006/opendata/req/organization/requests
+.. admonition:: must
+
+    **REQUISITO 18**: dlgs36-2006/opendata/req/organization/requests
 
     In caso di richieste di riutilizzo di dati DEVE essere seguita la procedura di esame ed evasione di dette richieste definita nelle presenti Linee Guida, salvo che il titolare dei dati non abbia individuato una propria specifica analoga procedura. Sono tenute comunque a definire termini e modalità di riutilizzo dei dati le imprese pubbliche, gli istituti di istruzione, le organizzazioni che svolgono attività di ricerca, le organizzazioni che finanziano la ricerca, il DIS, l’AISE e l’AISI.
     In ogni caso, DEVONO essere rispettati i termini temporali previsti dal Decreto.
