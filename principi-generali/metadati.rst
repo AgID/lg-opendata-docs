@@ -26,7 +26,9 @@ secondo la procedura prevista dal medesimo articolo, la guida operativa
 di cui sopra potrà essere aggiornata o modificata ogni qualvolta sarà
 necessario.
 
-.. topic:: **REQUISITO 15**: dlgs36-2006/opendata/req/md/dcat-ap-it
+.. admonition:: must
+
+      **REQUISITO 15**: dlgs36-2006/opendata/req/md/dcat-ap-it
 
       I dati, con esclusione di quelli territoriali, resi disponibili per il riutilizzo devono essere documentati attraverso metadati conformi al profilo DCAT-AP_IT definito con la guida operativa per i cataloghi dati.
 
@@ -39,7 +41,9 @@ la Determinazione del DG di AgID n. 50/2022. Tale profilo è coerente con
 con il Regolamento (CE) n. 1205/2008 relativo ai metadati.
 
 
-.. topic:: **REQUISITO 16**: dlgs36-2006/opendata/req/md/rndt
+.. admonition:: must
+
+      **REQUISITO 16**: dlgs36-2006/opendata/req/md/rndt
 
       I dati territoriali resi disponibili per il riutilizzo devono essere documentati esclusivamente attraverso metadati conformi alle “Linee Guida recanti regole tecniche per la definizione e l’aggiornamento del contenuto del Repertorio Nazionale dei Dati Territoriali” e le relative guide operative.
 
