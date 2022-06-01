@@ -23,6 +23,16 @@ indicazioni, seppure non vincolanti, perché non disciplinati dalle norme
 indicate, su aspetti organizzativi e qualità dei dati.
 
 
+.. toctree::
+  :maxdepth: 3
+  :caption: Indice dei contenuti
+
+  ambito-di-applicazione/documenti-oggetto-di-applicazione.rst
+  ambito-di-applicazione/documenti-esclusi-dallapplicazione.rst
+  ambito-di-applicazione/soggetti-destinatari.rst
+
+
+
 .. topic:: Risorse utili
   :class: useful-docs
 
@@ -32,12 +42,4 @@ indicate, su aspetti organizzativi e qualità dei dati.
 
   - :mimetype:`application/pdf` `Piano nazionale di digitalizzazione del patrimonio culturale – Linee Guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale, Ministero della Cultura (in fase di consultazione) <https://partecipa.gov.it/uploads/decidim/attachment/file/59/M1C3_1.1.1_3_Linee_guida_Circolazione_riuso_immagini_Consultazione.pdf>`_
   
-  
-.. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
-
-  ambito-di-applicazione/documenti-oggetto-di-applicazione.rst
-  ambito-di-applicazione/documenti-esclusi-dallapplicazione.rst
-  ambito-di-applicazione/soggetti-destinatari.rst
-
+ 
