@@ -36,7 +36,7 @@ monitoraggio e coinvolgimento con gli utenti finali**, fasi non
 rappresentate nel percorso ma ugualmente importanti per un’ulteriore
 ottimizzazione dei dati basata sulle effettive esigenze degli utenti.
 
-.. figure:: ./media/processo-preparazione-dati.png
+.. figure:: ../media/processo-preparazione-dati.png
    :name: processo-preparazione-dati
    :alt: La figura mostra il processo di preparazione dei dati.
 
