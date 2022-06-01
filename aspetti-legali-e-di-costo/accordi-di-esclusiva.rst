@@ -1,7 +1,7 @@
 .. _par-6-4:
 
 Accordi di esclusiva
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~
 
 Si devono evitare, per quanto possibile, accordi di esclusiva tra enti
 pubblici e partner privati, facendo in modo, sulla base dell’art. 11 del
