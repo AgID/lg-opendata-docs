@@ -87,22 +87,12 @@ Guida per la valorizzazione del patrimonio informativo pubblico*\  [5]_,
 il cui ultimo aggiornamento risale al 2017 in quanto non più previste
 dal CAD, mantenendo le indicazioni pertinenti e ancora valide.
 
-.. [1]
+.. [1] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52020DC0066&from=IT
 
-   https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52020DC0066&from=IT
+.. [2] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52020PC0767&from=IT
 
-.. [2]
+.. [3] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52022PC0068&from=IT
 
-   https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52020PC0767&from=IT
+.. [4] https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pubblica_amministrazione_2021-2023.pdf
 
-.. [3]
-
-   https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52022PC0068&from=IT
-
-.. [4]
-
-   https://www.agid.gov.it/sites/default/files/repository_files/piano_triennale_per_linformatica_nella_pubblica_amministrazione_2021-2023.pdf
-
-.. [5]
-
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html
+.. [5] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html
