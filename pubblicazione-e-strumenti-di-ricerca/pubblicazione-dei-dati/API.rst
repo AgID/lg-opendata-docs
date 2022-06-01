@@ -32,7 +32,9 @@ Le API che il Decreto indica di utilizzare per rendere disponibili dati
 dinamici e serie di dati di elevato valore DEVONO essere sviluppate e
 pubblicate in conformità con le Linee Guida citate innanzi.
 
-.. topic:: **REQUISITO 27**: dlgs36-2006/opendata/req/publication/api
+.. admonition:: must
+
+    **REQUISITO 27**: dlgs36-2006/opendata/req/publication/api
 
     Le API sviluppate per rendere disponibili i dati per il riutilizzo devono essere conformi alle “Linee Guida sull’interoperabilità tecnica delle Pubbliche Amministrazioni” e le “Linee Guida Tecnologie e standard per la sicurezza dell’interoperabilità tramite API dei sistemi informatici”, adottate con la Determinazione di AgID n. 547/2021.
 
@@ -59,7 +61,9 @@ patrimonio di dati spesso inutilizzato, è fortemente raccomandato
 l’utilizzo di API per rendere disponibili per il riutilizzo anche quelle
 tipologie di dati per le quali il Decreto non prevede tale disposizione.
 
-.. topic:: **Raccomandazione 14**: dlgs36-2006/opendata/rec/publication/api
+.. admonition:: should
+
+    **Raccomandazione 14**: dlgs36-2006/opendata/rec/publication/api
 
     Ove possibile, si raccomanda di utilizzare API conformi al Requisito 27 per rendere disponibili per il riutilizzo tutte le tipologie di dati, non solo quelli dinamici e/o di elevato valore.
 
@@ -72,7 +76,9 @@ accettando la nomenclatura in uso a livello europeo e più in generale
 nel contesto internazionale, si utilizza il termine generico API per
 indicare indifferentemente le Web API, i web service e le API REST.
 
-.. topic:: **REQUISITO 28**: dlgs36-2006/opendata/req/publication/inspire-ns
+.. admonition:: must
+
+    **REQUISITO 28**: dlgs36-2006/opendata/req/publication/inspire-ns
 
     Nel caso di dati territoriali, il Requisito 27 è attuato attraverso l’implementazione dei servizi di rete di cui all’art. 11 della Direttiva 2007/2/CE, del Regolamento (CE) n. 976/2009 e delle relative linee guida tecniche.
 
