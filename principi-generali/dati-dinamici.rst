@@ -1,7 +1,7 @@
 .. _par-4-2:
 
 Dati dinamici
-˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~
 
 Il Decreto definisce, all’art. 2 comma 1 lettera c-sexies), **i “dati
 dinamici” come “\ documenti informatici, soggetti ad aggiornamenti
