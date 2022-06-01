@@ -1,5 +1,5 @@
 Linee Guida
-˜˜˜˜˜˜˜˜˜˜
+˜˜˜˜˜˜˜˜˜˜˜
 
 **[LG-CONS]** *Linee Guida sulla formazione, gestione e conservazione
 dei documenti informatici*, adottate con la Determinazione AgID n.
