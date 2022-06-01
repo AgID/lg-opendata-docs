@@ -85,7 +85,9 @@ gratuitamente** (a meno di alcune eccezioni indicate di seguito nel
 Requisito 7) e **attraverso API**, oltre che, ove possibile, opportuno e
 necessario, anche **attraverso download in blocco**.
 
-.. topic:: **REQUISITO 7**: dlgs36-2006/opendata/req/hvd/free
+.. admonition:: must
+
+    **REQUISITO 7**: dlgs36-2006/opendata/req/hvd/free
 
     Le serie di dati di elevato valore, individuate da specifici atti di esecuzione della Commissione Europea, devono essere messe a disposizione gratuitamente ad eccezione di quelle:
     -	in possesso delle imprese pubbliche qualora ciò determini una distorsione della concorrenza nei pertinenti mercati, se così previsto dagli atti di esecuzione di cui sopra;
@@ -93,7 +95,9 @@ necessario, anche **attraverso download in blocco**.
     -	che, in possesso degli enti pubblici, generano utili per coprire una parte sostanziale dei costi inerenti allo svolgimento dei compiti di servizio pubblico e la loro messa a disposizione gratuita avrebbe un impatto sostanziale sul bilancio di tali enti. In tal caso la possibile esenzione dall’obbligo di mettere a disposizione gratuitamente le serie di dati di valore elevato deve durare per un periodo non superiore ai due anni dall’entrata in vigore del pertinente atto di esecuzione della Commissione Europea.
 
 
-.. topic:: **REQUISITO 8**: dlgs36-2006/opendata/req/hvd/api
+.. admonition:: must
+
+    **REQUISITO 8**: dlgs36-2006/opendata/req/hvd/api
 
     Le serie di dati di elevato valore devono essere messe a disposizione per il riutilizzo attraverso API coerenti con il Requisito 27 e attraverso download in blocco.
 
