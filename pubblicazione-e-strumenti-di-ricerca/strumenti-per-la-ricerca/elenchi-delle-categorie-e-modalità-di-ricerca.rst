@@ -30,7 +30,15 @@ categoria tematica** (con riferimento ai temi DCAT-AP [1]_), ai propri
 dataset pubblicati nel portale nazionale. Un esempio di URL da inserire
 nel proprio sito istituzionale è il seguente:
 
-https://dati.gov.it/view-dataset?holder_name=%22Regione%20Autonoma%20della%20Sardegna%22&groups=ambiente
+.. admonition:: example
+   :class: admonition-example display-page
+
+   .. role:: link-themes-data
+      :class: link-themes-data
+
+   `Titolo interno al box`:link-themes-data:
+
+    https://dati.gov.it/view-dataset?holder_name=%22Regione%20Autonoma%20della%20Sardegna%22&groups=ambiente
 
 dove l’amministrazione titolare è la Regione Autonoma della Sardegna e
 la categoria è “ambiente”.
