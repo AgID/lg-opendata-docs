@@ -119,7 +119,9 @@ pratiche e pertanto non sono consigliati dagli autori del documento.
 
     Nel caso in cui un dato sia disponibile in più formati, almeno uno di essi deve essere coerente con il REQUISITO 1.
 
-.. admonition:: **Raccomandazione 1**: dlgs36-2006/opendata/rec/common/lod
+.. admonition:: may
+
+    **Raccomandazione 1**: dlgs36-2006/opendata/rec/common/lod
 
     Si raccomanda un percorso graduale verso la produzione nativa di Linked Open Data – LOD (livello cinque stelle).
 
