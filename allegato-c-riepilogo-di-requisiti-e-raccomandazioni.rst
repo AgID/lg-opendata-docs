@@ -1,6 +1,5 @@
-**Allegato C**
-Riepilogo di requisiti e raccomandazioni
-----------------------------------------
+**Allegato C** - Riepilogo di requisiti e raccomandazioni
+---------------------------------------------------------
 
 Di seguito l’elenco dei requisiti e delle raccomandazioni definiti nelle
 presenti Linee Guida. Per ciascuno di essi, oltre al numero e al testo,
