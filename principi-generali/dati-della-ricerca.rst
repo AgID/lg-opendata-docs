@@ -1,7 +1,7 @@
 .. _par-4-4:
 
 Dati della ricerca
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~
 
 I **dati della ricerca** sono definiti dal Decreto come **“\ documenti
 informatici, diversi dalle pubblicazioni scientifiche, raccolti o
