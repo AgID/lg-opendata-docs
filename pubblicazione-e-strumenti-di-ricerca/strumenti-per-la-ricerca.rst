@@ -92,7 +92,7 @@ portali europei.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  strumenti-per-la-ricerca/elenchi-delle-categorie-e-modalità-di-ricerca.rst
+  strumenti-per-la-ricerca/elenchi-delle-categorie-e-modalità-di-ricerca.rst
 
 
 .. [1]
