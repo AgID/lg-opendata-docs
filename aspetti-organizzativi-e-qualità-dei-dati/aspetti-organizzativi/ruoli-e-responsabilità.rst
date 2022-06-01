@@ -48,7 +48,9 @@ Ministri, dall’altra, per le questioni connesse alla trasformazione
 digitale delle pubbliche amministrazioni, come ribadito anche nella
 citata Circolare n. 3/2018.
 
-.. topic:: **Raccomandazione 4**: dlgs36-2006/opendata/req/organization/rtd
+.. admonition:: should
+
+    **Raccomandazione 4**: dlgs36-2006/opendata/req/organization/rtd
 
     SI RACCOMANDA di demandare al Responsabile per la transizione digitale (RTD) il compito di costituire un gruppo di lavoro dedicato al processo di apertura dei dati e all’implementazione delle presenti Linee Guida all’interno dell’organizzazione dell’Ente.
     Il RTD deve essere comunque coinvolto in tutto il suddetto processo.
@@ -60,7 +62,9 @@ governo del processo di apertura dei dati**, rimandando all’autonomia
 organizzativa di ciascun ente la previsione di eventuali altre strutture
 e figure, oltre all’individuazione dei compiti da assegnare ad essi.
 
-.. topic:: **Raccomandazione 5**: dlgs36-2006/opendata/req/organization/wg
+.. admonition:: should
+
+    **Raccomandazione 5**: dlgs36-2006/opendata/req/organization/wg
 
     SI RACCOMANDA di costituire, all’interno dell’organizzazione dell’Ente, un apposito gruppo di lavoro dedicato al processo di apertura dei dati anche per l’applicazione delle presenti Linee Guida, prevedendo, ove possibile, le strutture e le figure adatte e necessarie a tale scopo.
 
