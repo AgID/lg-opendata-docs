@@ -55,6 +55,7 @@ aperto** come da definizione fornita all’art. 1 comma 1 lettera l-ter)
 del **CAD**.
 
 .. admonition:: must
+   
    **REQUISITO 1**: dlgs36-2006/opendata/req/common/guidelines
 
    I soggetti di cui al par. :ref:`par-1-3` devono rendere disponibili i documenti e i dati di cui al par. :ref:`par-1-1` per il riutilizzo a fini commerciali e non commerciali secondo quanto indicato nelle presenti Linee Guida.
