@@ -1,5 +1,5 @@
 Acronimi
-˜˜˜˜˜˜˜
+~~~~~~~~
 
 Di seguito si riportano gli ACRONIMI che sono utilizzati nelle presenti
 Linee Guida.
