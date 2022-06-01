@@ -32,7 +32,19 @@ quelle indicate agli ultimi due punti.
 
 I requisiti, inoltre, saranno rappresentati nel modo seguente:
 
+.. admonition:: must
+
+   **REQUISITO x**: dlgs36-2006/opendata/req/xxx/yyy
+
+    Testo del requisito.
+
 mentre le raccomandazioni nel modo seguente:
+
+.. admonition:: should
+
+   **Raccomandazione x**: dlgs36-2006/opendata/rec/xxx/yyy
+
+    Testo della raccomandazione.
 
 Quando, su alcuni aspetti specifici, esistono già documenti (norme,
 regole tecniche, linee guida, manuali, materiali vari) che
