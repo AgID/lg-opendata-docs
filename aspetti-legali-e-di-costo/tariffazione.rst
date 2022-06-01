@@ -13,7 +13,9 @@ messa a disposizione e la divulgazione dei dati, nonché per
 l’anonimizzazione di dati personali o per le misure adottate per
 proteggere le informazioni commerciali a carattere riservato.
 
-.. topic:: **REQUISITO 22**: dlgs36-2006/opendata/req/conditions/marginal-costs
+.. admonition:: must
+
+    **REQUISITO 22**: dlgs36-2006/opendata/req/conditions/marginal-costs
 
     I dati devono essere resi disponibili per il riutilizzo gratuitamente, salvo eventuale applicazione dei costi marginali effettivamente sostenuti per la riproduzione, la messa a disposizione e la divulgazione dei dati, nonché per l’anonimizzazione di dati personali o per le misure adottate per proteggere le informazioni commerciali a carattere riservato.
 
@@ -50,7 +52,9 @@ ovvero:
 Nei tre casi appena indicati, può essere applicato quanto indicato nel
 Requisito 23 che segue.
 
-.. topic:: **REQUISITO 23**: dlgs36-2006/opendata/req/conditions/reasonable-return
+.. admonition:: must
+
+    **REQUISITO 23**: dlgs36-2006/opendata/req/conditions/reasonable-return
 
     Nel caso in cui sia richiesto il pagamento di un corrispettivo, il totale delle entrate provenienti dalla fornitura e dall’autorizzazione al riutilizzo dei documenti in un esercizio contabile non può superare i costi marginali del servizio reso (comprendenti i costi di raccolta, produzione, riproduzione, diffusione, archiviazione dei dati, conservazione e gestione dei diritti e, ove applicabile, di anonimizzazione dei dati personali e delle misure adottate per proteggere le informazioni commerciali a carattere riservato), maggiorati di un utile ragionevole sugli investimenti.
 
@@ -82,7 +86,9 @@ delle tariffe.
 Nei casi indicati ai precedenti punti 2. e 3., vale quanto indicato nel
 Requisito 24 che segue.
 
-.. topic:: **REQUISITO 24**: dlgs36-2006/opendata/req/conditions/parameters
+.. admonition:: must
+
+    **REQUISITO 24**: dlgs36-2006/opendata/req/conditions/parameters
 
     L’importo totale delle tariffe deve essere calcolato in base a parametri oggettivi, trasparenti e verificabili ed è determinato secondo il criterio del costo marginale del servizio con decreti dei Ministri competenti, di concerto con il Ministro dell’economia e delle finanze sentita l’Agenzia per l’Italia digitale.
 
@@ -127,11 +133,15 @@ dell’Agenzia delle Entrate, in formato elaborabile, su base
 convenzionale, secondo modalità, tempi e costi da stabilire con
 provvedimento del direttore dell’Agenzia delle Entrate.
 
-.. topic:: **REQUISITO 25**: dlgs36-2006/opendata/req/conditions/local
+.. admonition:: must
+
+    **REQUISITO 25**: dlgs36-2006/opendata/req/conditions/local
 
     Nel caso di enti territoriali ed enti e organismi pubblici diversi da quelli indicati, gli importi delle tariffe, calcolati sulla base dei criteri indicati innanzi, e le relative modalità di versamento sono determinati con disposizioni o atti deliberativi dell’ente titolare, sentita l’Agenzia per l’Italia Digitale.
 
-.. topic:: **REQUISITO 26**: dlgs36-2006/opendata/req/conditions/publication
+.. admonition:: must
+
+    **REQUISITO 26**: dlgs36-2006/opendata/req/conditions/publication
 
     Le condizioni applicabili al riutilizzo dei dati e l’effettivo ammontare delle tariffe applicate, compresa la base di calcolo utilizzata per tali tariffe e gli elementi presi in considerazione nel calcolo di tali tariffe, devono essere pubblicati sui siti istituzionali di pubbliche amministrazioni, organismi di diritto pubblico e imprese pubbliche competenti, previa comunicazione ad AgID.
 
