@@ -19,6 +19,12 @@ Le presenti Linee Guida, emesse ai sensi dell'art. 12 del decreto legislativo n.
   gruppo-di-lavoro.rst
   prefazione.rst
   introduzione.rst
+
+
+.. toctree::
+  :numbered:
+  :maxdepth: 3
+  
   ambito-di-applicazione.rst
   normativa-di-riferimento.rst
   terminologia.rst
