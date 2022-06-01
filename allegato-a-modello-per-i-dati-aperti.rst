@@ -1,6 +1,5 @@
-**Allegato A**
-Modello per i dati aperti
--------------------------
+**Allegato A** - Modello per i dati aperti
+------------------------------------------
 
 Il modello da considerare per produrre e pubblicare dati aperti è quello
 noto come modello a cinque stelle rappresentato in :ref:`Figura <modello-5stelle>`, che
