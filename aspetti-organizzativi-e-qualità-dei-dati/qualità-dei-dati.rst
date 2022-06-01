@@ -1,7 +1,7 @@
 .. _par-5-3:
 
 Qualità dei dati
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~
 
 Il miglioramento della qualità dei dati e la maggiore diffusione delle
 tecniche di misurazione dipendono da vari fattori tra cui l’adesione a
