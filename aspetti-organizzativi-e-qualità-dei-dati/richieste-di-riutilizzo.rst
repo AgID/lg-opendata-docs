@@ -1,7 +1,7 @@
 .. _par-5-2:
 
 Richieste di riutilizzo
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~~~~
 
 L’apertura dei dati può essere un’operazione conseguente anche ad una
 esplicita richiesta da parte di un soggetto interessato. La Direttiva
