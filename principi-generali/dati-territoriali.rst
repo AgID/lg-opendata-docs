@@ -16,7 +16,9 @@ Direttiva 2007/2/CE conosciuta come Direttiva INSPIRE [**INSPIRE-DIR**]
 e recepita in Italia con il decreto legislativo 27 gennaio 2010, n. 32
 [**D-LGS-32-2010**] o i requisiti specifici per la categoria “Dati geospaziali” prevista nell’ambito dei dati di elevato valore (v. par. :ref:`par-4-3`).
 
-.. topic:: **REQUISITO 14**: dlgs36-2006/opendata/req/spatial/inspire
+.. admonition:: must
+
+      **REQUISITO 14**: dlgs36-2006/opendata/req/spatial/inspire
 
       Nel caso di dati territoriali, devono essere applicate le regole tecniche adottate nell’ambito del framework definito in applicazione della Direttiva 2007/2/CE e relativo decreto di recepimento, D. Lgs. n. 32/2010, oltre che di tutte le altre norme ad essi collegate.
 
