@@ -13,7 +13,9 @@ rispetto dei Requisiti 20 e 21 definiti innanzi.
 Il Decreto prevede, inoltre, quanto indicato nel seguente
 Requisito 31.
 
-.. topic:: **REQUISITO 31**: dlgs36-2006/opendata/req/publication/categories
+.. admonition:: must
+
+    **REQUISITO 31**: dlgs36-2006/opendata/req/publication/categories
 
     I destinatari delle presenti Linee Guida devono pubblicare e aggiornare annualmente sui propri siti istituzionali gli elenchi delle categorie di dati detenuti ai fini del riutilizzo attraverso collegamenti ipertestuali al portale nazionale dati.gov.it.
 
@@ -83,7 +85,9 @@ che include funzionalità per la catalogazione, visualizzazione,
 ricerca e interrogazione dei dati. In alcuni casi queste piattaforme
 sono disponibili in modalità «\ *as a service*\ ». 
 
-.. topic:: **Raccomandazione 15**: dlgs36-2006/opendata/rec/publication/portals
+.. admonition:: should
+
+    **Raccomandazione 15**: dlgs36-2006/opendata/rec/publication/portals
 
     SI RACCOMANDA di non creare tanti portali diversi per singole iniziative ma, ove possibile, di raccordarle per facilitare il reperimento e il riutilizzo dei dati da parte degli utenti finali.
 
