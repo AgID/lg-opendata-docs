@@ -103,7 +103,7 @@ essere utilizzati; se questo non è possibile allora si possono
 utilizzare quelli evidenziati in giallo, mentre sono da escludere quelli
 evidenziati in rosso.
 
-.. figure:: ./media/formati-dati-aperti.png
+.. figure:: ../media/formati-dati-aperti.png
    :name: formati-dati-aperti
    :alt: La figura mostra i formati più comuni per i dati aperti e relativi
    livelli di apertura.
