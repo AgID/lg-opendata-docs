@@ -1,5 +1,5 @@
- Terminologia
--------------
+Terminologia
+------------
 
 .. toctree::
   :maxdepth: 3
