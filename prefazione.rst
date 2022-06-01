@@ -21,10 +21,6 @@ per la valorizzazione del patrimonio informativo pubblico [2]_.
 Le presenti linee guida possono essere aggiornate periodicamente secondo
 le modalità di cui all’art. 5 del Regolamento innanzi citato.
 
-.. [1]
-    v.
-   https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5376.html
+.. [1] v. https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5376.html
 
-.. [2]
-    v.
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html
+.. [2] v. https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html
