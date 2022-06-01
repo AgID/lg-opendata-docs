@@ -1,5 +1,5 @@
 Note di lettura del documento
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Conformemente alle norme *ISO/IEC Directives, Part 3* per la stesura dei
 documenti tecnici le presenti Linee Guida utilizzeranno le parole chiave
