@@ -1,6 +1,5 @@
-**Allegato B**
-Standard di riferimento e formati aperti
-----------------------------------------
+**Allegato B** - Standard di riferimento e formati aperti
+---------------------------------------------------------
 
 **1. Standard di riferimento**
 
