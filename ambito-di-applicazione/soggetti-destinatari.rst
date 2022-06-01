@@ -102,8 +102,6 @@ Per quanto riguarda le imprese private, sono da considerare:
 -  in generale, i gestori di servizi pubblici in relazione ai servizi di
    pubblico interesse.
 
-|image0|
-
 
 .. [1]
     Alcuni organismi o categorie possono corrispondere a pubbliche
