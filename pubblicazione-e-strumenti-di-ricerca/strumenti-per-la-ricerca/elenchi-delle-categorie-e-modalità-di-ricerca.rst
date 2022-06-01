@@ -36,7 +36,7 @@ nel proprio sito istituzionale è il seguente:
    .. role:: link-themes-data
       :class: link-themes-data
 
-   `Titolo interno al box`:link-themes-data:
+   `Esempio di URL`:link-themes-data:
 
     https://dati.gov.it/view-dataset?holder_name=%22Regione%20Autonoma%20della%20Sardegna%22&groups=ambiente
 
