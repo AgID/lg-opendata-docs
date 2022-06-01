@@ -19,7 +19,9 @@ come da definizione, sono diversi dagli articoli scientifici, in cui si
 riportano e si commentano le conclusioni della ricerca scientifica
 sottostante.
 
-.. topic:: **REQUISITO 9**: dlgs36-2006/opendata/req/research/free
+.. admonition:: must
+
+    **REQUISITO 9**: dlgs36-2006/opendata/req/research/free
 
     I dati della ricerca DEVONO essere resi disponibili gratuitamente per il riutilizzo per fini commerciali o non commerciali.
 
@@ -49,7 +51,9 @@ macchine ed essere umani. Per fare questo, dovrebbero essere resi disponibili i 
 consultabile online e dovrebbe essere assegnato un
 identificatore persistente a dati e metadati.
 
-.. topic:: **REQUISITO 10**: dlgs36-2006/opendata/req/research/findable
+.. admonition:: must
+
+     **REQUISITO 10**: dlgs36-2006/opendata/req/research/findable
 
       Per rendere i dati reperibili è necessario:
      -	documentare i dati con metadati dettagliati secondo il Requisito 15 e il Requisito 16;
@@ -61,7 +65,9 @@ identificatore persistente a dati e metadati.
 **Accessible** (Accessibile) - Deve essere possibile per essere umani e
 macchine accedere ai dati attraverso protocolli standard e aperti.
 
-.. topic:: **REQUISITO 11**: dlgs36-2006/opendata/req/research/accessible
+.. admonition:: must
+
+      **REQUISITO 11**: dlgs36-2006/opendata/req/research/accessible
 
       Per rendere i dati accessibili è necessario:
       -	consentire l’accesso a dati e metadati a partire dall’identificatore univoco e persistente assegnato;
@@ -72,7 +78,9 @@ macchine accedere ai dati attraverso protocolli standard e aperti.
 poter essere combinati con altri dati e/o strumenti. Per questo, devono
 essere conformi a formati e standard riconosciuti.
 
-.. topic:: **REQUISITO 12**: dlgs36-2006/opendata/req/research/interoperable
+.. admonition:: must
+
+    **REQUISITO 12**: dlgs36-2006/opendata/req/research/interoperable
 
       Per rendere i dati interoperabili è necessario:
       -	fornire i dati in formato aperto secondo i requisiti definiti nelle presenti Linee Guida;
@@ -87,7 +95,9 @@ combinati anche in contesti diversi. Ai dati, inoltre, bisogna assegnare
 una licenza chiara e accessibile in modo che si possa capire che tipo di
 riutilizzo è consentito.
 
-.. topic:: **REQUISITO 13**: dlgs36-2006/opendata/req/research/reusable
+.. admonition:: must
+
+    **REQUISITO 13**: dlgs36-2006/opendata/req/research/reusable
 
       Per rendere i dati riusabili è necessario:
       -	rendere disponibili dati accurati e ben descritti con molti attributi pertinenti;
@@ -133,7 +143,9 @@ Decreto con riferimento alle banche dati pubbliche, gestite a livello
 istituzionale o su base tematica, necessarie per l’archiviazione dei
 dati della ricerca da rendere disponibili per il riutilizzo.
 
-.. topic:: **Raccomandazione 3**: dlgs36-2006/opendata/req/research/fair
+.. admonition:: should
+
+    **Raccomandazione 3**: dlgs36-2006/opendata/req/research/fair
 
       Ove possibile, i principi FAIR dovrebbero essere seguiti e applicati per tutte le tipologie di dati, non solo per quelli della ricerca.
 
