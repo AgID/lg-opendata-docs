@@ -70,7 +70,7 @@ Nella figura che segue è rappresentato lo schema di coordinamento e
 integrazione tra i due cataloghi nazionali e la loro interazione con i
 portali europei.
 
-.. figure:: ./media/interoperabilità-cataloghi.png
+.. figure:: /media/interoperabilità-cataloghi.png
    :name: interoperabilità-cataloghi
    :alt: La figura mostra lo schema di coordinamento e integrazione tra i due cataloghi nazionali e la loro interazione con i portali europei.
 
