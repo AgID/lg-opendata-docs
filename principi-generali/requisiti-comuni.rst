@@ -74,7 +74,7 @@ Come detto, il Decreto si applica ai **documenti pubblici** nella
 **disponibilità** degli enti indicati al par. :ref:`par-1-3` e che presentino
 le caratteristiche dei **dati di tipo aperto** indicate innanzi.
 
-.. figure:: ./media/tipi-dati.png
+.. figure:: ../media/tipi-dati.png
    :name: tipi-dati
    :alt: La figura mostra le tipologie di dati pubblici.
 
