@@ -20,7 +20,9 @@ Il portale nazionale include i metadati, conformi al profilo DCAT-AP_IT,
 che descrivono i dati aperti delle amministrazioni secondo quanto
 indicato al par. :ref:`par-4-6`.
 
-.. topic:: **REQUISITO 29**: dlgs36-2006/opendata/req/publication/od-portal
+.. admonition:: must
+
+    **REQUISITO 29**: dlgs36-2006/opendata/req/publication/od-portal
 
     Le amministrazioni sono tenute a inserire e a mantenere aggiornati nel portale dati.gov.it, attraverso le modalità di alimentazione previste dal catalogo, i metadati dei dati, ad esclusione di quelli territoriali.
 
@@ -30,7 +32,9 @@ rimangono presso il titolare del dato che conserva la responsabilità
 della loro correttezza, tenuta, gestione, aggiornamento e divulgazione a
 livello nazionale.
 
-.. topic:: **REQUISITO 30**: dlgs36-2006/opendata/req/publication/rndt
+.. admonition:: must
+
+    **REQUISITO 30**: dlgs36-2006/opendata/req/publication/rndt
 
     I dati territoriali devono essere documentati esclusivamente presso il Repertorio Nazionale dei Dati Territoriali (RNDT) che, in maniera automatizzata, si occupa dell’allineamento con il portale nazionale dei dati aperti dati.gov.it.
 
