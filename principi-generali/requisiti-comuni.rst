@@ -105,11 +105,9 @@ evidenziati in rosso.
 
 .. figure:: ../media/formati-dati-aperti.png
    :name: formati-dati-aperti
-   :alt: La figura mostra i formati più comuni per i dati aperti e relativi
-   livelli di apertura.
+   :alt: La figura mostra i formati più comuni per i dati aperti e relativi livelli di apertura.
 
-   Formati più comuni per i dati aperti e relativi
-   livelli di apertura
+   Formati più comuni per i dati aperti e relativi livelli di apertura
 
 
 \* Il documento evidenzia che i formati *txt* e *html* dovrebbero essere valutati con tre stelle, poiché i dati potrebbero essere progettati per essere leggibili dalla macchina. Tuttavia, viene
