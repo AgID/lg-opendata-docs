@@ -77,6 +77,7 @@ le caratteristiche dei **dati di tipo aperto** indicate innanzi.
 .. figure:: ../media/tipi-dati.png
    :name: tipi-dati
    :alt: La figura mostra le tipologie di dati pubblici.
+   :align: "center"
 
    Tipi di dato pubblico
 
