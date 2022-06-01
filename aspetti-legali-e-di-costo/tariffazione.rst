@@ -1,7 +1,7 @@
 .. _par-6-2:
 
 Tariffazione
-˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~
 
 Ferma restando la condivisione dei dati tra pubbliche amministrazioni
 per finalità istituzionali, che avviene esclusivamente a titolo
