@@ -53,7 +53,9 @@ fonte), che consentano, pertanto, a chiunque di accedere liberamente a
 dati e contenuti, nonché di utilizzarli, modificarli e condividerli
 liberamente e per qualsiasi finalità.
 
-.. topic:: **Raccomandazione 8**: dlgs36-2006/opendata/rec/licenses/attribution
+.. admonition:: should
+
+    **Raccomandazione 8**: dlgs36-2006/opendata/rec/licenses/attribution
 
     SI RACCOMANDA di restringere le condizioni di cui alla licenza apposta ai dati alla sola attribuzione.
 
@@ -88,7 +90,9 @@ criticità, oltre che pratica nel caso di uso di fonti diverse
 diversamente licenziate, anche rispetto alla compatibilità con l’attuale
 normativa.
 
-.. topic:: **Raccomandazione 9**: dlgs36-2006/opendata/rec/conditions/more-conditions
+.. admonition:: should
+
+    **Raccomandazione 9**: dlgs36-2006/opendata/rec/conditions/more-conditions
 
     SI RACCOMANDA di limitare l’uso di licenze con condizioni ulteriori rispetto alla sola attribuzione solo ai casi strettamente necessari.
 
@@ -186,7 +190,9 @@ Tutte le ulteriori licenze Creative Commons sono classificabili come:
 
 -  licenze che **NON consentono l’uso commerciale**.
 
-.. topic:: **REQUISITO 19**: dlgs36-2006/opendata/req/conditions/nd-nc-licenses
+.. admonition:: must
+
+    **REQUISITO 19**: dlgs36-2006/opendata/req/conditions/nd-nc-licenses
 
     I titolari dei dati disponibili per il riutilizzo NON DEVONO:
     -	utilizzare licenze che non consentano opere derivate o uso commerciale;
@@ -212,7 +218,9 @@ l’affidabilità dello stesso (a tutela, peraltro, anche del
 riutilizzatore), l’unica condizione - in linea generale - ammissibile
 sia la “attribuzione”.
 
-.. topic:: **Raccomandazione 10**: dlgs36-2006/opendata/rec/conditions/sa
+.. admonition:: should
+
+    **Raccomandazione 10**: dlgs36-2006/opendata/rec/conditions/sa
 
     SI RACCOMANDA di limitare l’uso della clausola di “condivisione” (“share-alike” - SA) solo ai casi in cui sia motivatamente necessaria ovvero previa verifica di impossibilità di rilascio con licenza CC BY 4.0, ad esempio, in ragione dell’uso non altrimenti gestibile di una fonte già rilasciata con licenza SA).
 
@@ -233,11 +241,15 @@ opera creativa, ove ne ricorrano i presupposti, e la tutela del cd
 banca dati, anche magari non creativa, da una estrazione totale o
 sostanziale.
 
-.. topic:: **Raccomandazione 11**: dlgs36-2006/opendata/rec/conditions/cc
+.. admonition:: should
+
+    **Raccomandazione 11**: dlgs36-2006/opendata/rec/conditions/cc
 
     SI RACCOMANDA di non utilizzare le licenze Creative Commons precedenti alla 4.0, in cui tali diritti sui generis non erano citati/previsti (2.5), o erano richiamati come meramente rinunciati (3.0).
 
-.. topic:: **Raccomandazione 12**: dlgs36-2006/opendata/rec/conditions/iodl
+.. admonition:: should
+
+    **Raccomandazione 12**: dlgs36-2006/opendata/rec/conditions/iodl
 
     SI RACCOMANDA di evitare quelle licenze che – per quanto ben impostate – presentano forti caratteristiche di localizzazione, anch’esse potenzialmente costituenti elementi di ambiguità in caso di riuso e mashup (come la IODL).
 
@@ -251,17 +263,23 @@ riferimento ad una licenza unica aperta, che garantisca la libertà di
 riutilizzo, che sia internazionalmente riconosciuta e che consenta di
 attribuire la paternità dei dataset (attribuire la fonte).**
 
-.. topic:: **REQUISITO 20**: dlgs36-2006/opendata/req/conditions/ccby4
+.. admonition:: must
+
+    **REQUISITO 20**: dlgs36-2006/opendata/req/conditions/ccby4
 
     Per i nuovi dati aperti nativi, salvo quanto precisato nel Requisito 21, DEVE essere applicata la licenza CC-BY nell’ultima versione disponibile (al momento della stesura delle presenti linee guida, la 4.0), presupponendo altresì l’attribuzione automatica di tale licenza nel caso di applicazione del principio “open data by default”, di cui all’articolo 52 del CAD.
 
-.. topic:: **REQUISITO 21**: dlgs36-2006/opendata/req/conditions/no-ccby4
+.. admonition:: must
+
+    **REQUISITO 21**: dlgs36-2006/opendata/req/conditions/no-ccby4
 
     L’adozione, qualora possibile e/o previsto, di una licenza diversa dalla CC-BY 4.0 DEVE essere formalmente motivata, anche alla luce dei principi espressi dalla Direttiva, salvo che sia stata adottata una licenza altrettanto compatibile come la CDLA 2.0 permissive e/o una licenza universalmente compatibile, o meglio un “waiwer”, come la CC0.
     L’adozione di una licenza diversa da CC-BY 4.0, CC0 o altra altrettanto compatibile non è applicabile per le serie di dati di elevato valore.
 
 
-.. topic:: **Raccomandazione 13**: dlgs36-2006/opendata/rec/conditions/update
+.. admonition:: should
+
+    **Raccomandazione 13**: dlgs36-2006/opendata/rec/conditions/update
 
     SI RACCOMANDA ai titolari che hanno già pubblicato set di dati con licenze diverse da quelle sopra richiamate, incluse versioni della CC-BY precedente alla 4.0, di valutare il rinnovo della licenza, adeguandola alle indicazioni suddette, individuando nel caso le ragioni eventualmente impedienti tale aggiornamento.
 
