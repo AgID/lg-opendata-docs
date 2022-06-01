@@ -1,7 +1,7 @@
 .. _par-1-2:
 
 Documenti esclusi dall’applicazione
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Coerentemente con quanto disposto dal Decreto, **le presenti Linee Guida
 non si applicano ai documenti**:
