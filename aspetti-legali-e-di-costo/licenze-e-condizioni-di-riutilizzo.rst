@@ -202,7 +202,7 @@ Tutte le ulteriori licenze Creative Commons sono classificabili come:
 La maggior parte delle licenze suindicate sono raffigurate nella Figura
 seguente.
 
-.. figure:: ./media/licenze.png
+.. figure:: ../media/licenze.png
    :name: licenze
    :alt: La figura mostra le licenze più comuni.
 
