@@ -25,11 +25,15 @@ raccolta tramite API adeguate e, ove possibile, attraverso download in
 blocco**. Per ulteriori dettagli e indicazioni su tali modalità si
 rimanda al par. :ref:`par-7-1-1`.
 
-.. topic:: **REQUISITO 5**: dlgs36-2006/opendata/req/dynamic/api
+.. admonition:: must
+
+    **REQUISITO 5**: dlgs36-2006/opendata/req/dynamic/api
 
     I dati dinamici devono essere messi a disposizione per il riutilizzo attraverso API coerenti con il REQUISITO 27.
 
-.. topic:: **Raccomandazione 2**: dlgs36-2006/opendata/rec/dynamic/bulk
+.. admonition:: should
+
+    **Raccomandazione 2**: dlgs36-2006/opendata/rec/dynamic/bulk
 
     Ove possibile, opportuno o necessario, si raccomanda di rendere disponibili i dati dinamici anche attraverso download in blocco.
 
@@ -42,7 +46,9 @@ termine e tali restrizioni tecniche devono essere definiti attraverso un
 apposito provvedimento in modo, però, da non compromettere lo
 sfruttamento del potenziale economico e sociale dei dati.
 
-.. topic:: **REQUISITO 6**: dlgs36-2006/opendata/req/dynamic/release
+.. admonition:: must
+
+    **REQUISITO 6**: dlgs36-2006/opendata/req/dynamic/release
 
     I dati dinamici devono essere resi disponibili per il riutilizzo immediatamente dopo la raccolta.
     Se, per motivi di capacità finanziarie o tecniche, ciò non sia possibile, allora i dati dinamici possono essere resi disponibili per il riutilizzo entro un termine e/o con temporanee restrizioni tecniche, tali, però, da non pregiudicare indebitamente lo sfruttamento del loro potenziale economico e sociale.
