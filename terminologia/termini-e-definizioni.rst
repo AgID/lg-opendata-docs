@@ -1,5 +1,5 @@
 Termini e definizioni
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~~
 
 Ai fini del presente documento, oltre alle definizioni pertinenti di cui
 all’art. 2 del Decreto, si applicano le seguenti definizioni:
