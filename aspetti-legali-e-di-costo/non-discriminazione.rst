@@ -1,7 +1,7 @@
 .. _par-6-3:
 
 Non discriminazione
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~
 
 Il Decreto stabilisce che le condizioni poste per il riutilizzo (v. par.
 :ref:`par-6-1`) non devono comportare discriminazioni per categorie analoghe di
