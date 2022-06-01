@@ -130,11 +130,4 @@ non si applicano ai documenti**:
 
 
 
-.. [1]
-    Il Considerando (65) della Direttiva indica alcuni esempi di enti
-   culturali che devono essere esclusi dall’applicazione della Direttiva
-   stessa, ovvero orchestre, teatri lirici, compagnie di ballo e teatri,
-   compresi gli archivi che ne fanno parte, in virtù della loro
-   specificità di «arti dello spettacolo» e del fatto che quasi tutto il
-   loro materiale è soggetto a diritti di proprietà intellettuale di
-   terzi.
+.. [1] Il Considerando (65) della Direttiva indica alcuni esempi di enti culturali che devono essere esclusi dall’applicazione della Direttiva stessa, ovvero orchestre, teatri lirici, compagnie di ballo e teatri, compresi gli archivi che ne fanno parte, in virtù della loro specificità di «arti dello spettacolo» e del fatto che quasi tutto il loro materiale è soggetto a diritti di proprietà intellettuale di terzi.
