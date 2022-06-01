@@ -86,9 +86,11 @@ caratteristiche indicate innanzi, si può fare riferimento all’allegato
 A, che riporta il modello a 5 stelle per i dati aperti, e l’allegato B,
 che descrive i formati più comuni.
 
-.. admonition:: **REQUISITO 2**: dlgs36-2006/opendata/req/common/3stars
+.. admonition:: must
+   
+   **REQUISITO 2**: dlgs36-2006/opendata/req/common/3stars
 
-    I dati devono essere resi disponibili in formato aperto e leggibile meccanicamente ad un livello di almeno 3 stelle nella classificazione del modello di cui all’allegato A.
+   I dati devono essere resi disponibili in formato aperto e leggibile meccanicamente ad un livello di almeno 3 stelle nella classificazione del modello di cui all’allegato A.
 
 Ulteriori elementi per la scelta del formato da utilizzare si possono
 rinvenire nella figura seguente tratta dal documento “\ **Data.europa.eu
@@ -117,7 +119,9 @@ macchina ma solo dall’uomo. La rappresentazione di contenuti leggibili
 automaticamente in questi formati non soddisfa, quindi, le migliori
 pratiche e pertanto non sono consigliati dagli autori del documento.
 
-.. admonition:: **REQUISITO 3**: dlgs36-2006/opendata/req/common/more-formats
+.. admonition:: must
+
+    **REQUISITO 3**: dlgs36-2006/opendata/req/common/more-formats
 
     Nel caso in cui un dato sia disponibile in più formati, almeno uno di essi deve essere coerente con il REQUISITO 1.
 
@@ -138,7 +142,9 @@ provvedimento, l’ente titolare DEVE motivare le difficoltà
 sproporzionate indicando le attività sui dati che eccedono la semplice
 manipolazione.
 
-.. admonition:: **REQUISITO 4**: dlgs36-2006/opendata/req/common/no-od
+.. admonition:: must
+
+    **REQUISITO 4**: dlgs36-2006/opendata/req/common/no-od
 
     Nel caso in cui, per soddisfare richieste di apertura, rendere disponibili i dati per il riutilizzo comporti attività che vanno al di là della semplice manipolazione che implicherebbero difficoltà sproporzionate, il titolare dei dati non ha l’obbligo di adeguare i documenti o crearne nuovi o fornire estratti di documenti, motivando, attraverso un apposito provvedimento, le difficoltà sproporzionate anche indicando le attività sui dati che eccedono la semplice manipolazione.
 
