@@ -5,7 +5,7 @@ Sono riportati di seguito gli atti normativi di riferimento del presente
 documento.
 
 Legislazione nazionale ed europea
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **[**\ **CAD]** Decreto legislativo 7 marzo 2005, n. 82 recante
 “\ *Codice dell’amministrazione digitale*\ ”
@@ -40,7 +40,7 @@ Consiglio, del 14 marzo 2007, che istituisce un’Infrastruttura per
 l’informazione territoriale nella Comunità europea (INSPIRE).
 
 Linee Guida
-˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~
 
 **[LG-CONS]** *Linee Guida sulla formazione, gestione e conservazione
 dei documenti informatici*, adottate con la Determinazione AgID n.
