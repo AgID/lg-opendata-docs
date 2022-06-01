@@ -68,3 +68,11 @@ di queste tipologie:
    l’interoperabilità in un contesto superiore.
 
 Tale sezione è rappresentata come segue:
+
+.. topic:: Risorse utili
+  :class: useful-docs
+
+  - :mimetype:`text/html` `titolo-documento + link`_
+
+  - :mimetype:`application/pdf` `titolo-documento + link`_
+
