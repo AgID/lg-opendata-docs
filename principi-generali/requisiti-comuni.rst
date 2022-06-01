@@ -54,7 +54,7 @@ Tali indicazioni rappresentano le caratteristiche dei **dati di tipo
 aperto** come da definizione fornita all’art. 1 comma 1 lettera l-ter)
 del **CAD**.
 
-.. admonition:: REQUISITO 1: dlgs36-2006/opendata/req/common/guidelines
+.. admonition:: **REQUISITO 1**: dlgs36-2006/opendata/req/common/guidelines
 
     I soggetti di cui al par. :ref:`par-1-3` devono rendere disponibili i documenti e i dati di cui al par. :ref:`par-1-1` per il riutilizzo a fini commerciali e non commerciali secondo quanto indicato nelle presenti Linee Guida.
 
@@ -84,7 +84,7 @@ caratteristiche indicate innanzi, si può fare riferimento all’allegato
 A, che riporta il modello a 5 stelle per i dati aperti, e l’allegato B,
 che descrive i formati più comuni.
 
-.. topic:: **REQUISITO 2**: dlgs36-2006/opendata/req/common/3stars
+.. admonition:: **REQUISITO 2**: dlgs36-2006/opendata/req/common/3stars
 
     I dati devono essere resi disponibili in formato aperto e leggibile meccanicamente ad un livello di almeno 3 stelle nella classificazione del modello di cui all’allegato A.
 
@@ -115,11 +115,11 @@ macchina ma solo dall’uomo. La rappresentazione di contenuti leggibili
 automaticamente in questi formati non soddisfa, quindi, le migliori
 pratiche e pertanto non sono consigliati dagli autori del documento.
 
-.. topic:: **REQUISITO 3**: dlgs36-2006/opendata/req/common/more-formats
+.. admonition:: **REQUISITO 3**: dlgs36-2006/opendata/req/common/more-formats
 
     Nel caso in cui un dato sia disponibile in più formati, almeno uno di essi deve essere coerente con il REQUISITO 1.
 
-.. topic:: **Raccomandazione 1**: dlgs36-2006/opendata/rec/common/lod
+.. admonition:: **Raccomandazione 1**: dlgs36-2006/opendata/rec/common/lod
 
     Si raccomanda un percorso graduale verso la produzione nativa di Linked Open Data – LOD (livello cinque stelle).
 
@@ -134,7 +134,7 @@ provvedimento, l’ente titolare DEVE motivare le difficoltà
 sproporzionate indicando le attività sui dati che eccedono la semplice
 manipolazione.
 
-.. topic:: **REQUISITO 4**: dlgs36-2006/opendata/req/common/no-od
+.. admonition:: **REQUISITO 4**: dlgs36-2006/opendata/req/common/no-od
 
     Nel caso in cui, per soddisfare richieste di apertura, rendere disponibili i dati per il riutilizzo comporti attività che vanno al di là della semplice manipolazione che implicherebbero difficoltà sproporzionate, il titolare dei dati non ha l’obbligo di adeguare i documenti o crearne nuovi o fornire estratti di documenti, motivando, attraverso un apposito provvedimento, le difficoltà sproporzionate anche indicando le attività sui dati che eccedono la semplice manipolazione.
 
