@@ -38,9 +38,11 @@ caratteristiche, delle 15 previste dallo Standard ISO/IEC 25012, ovvero:
    attributi, è del “giusto tempo” (è aggiornato) rispetto al
    procedimento cui si riferisce.
 
-   .. topic:: **Raccomandazione 7**: dlgs36-2006/opendata/req/organization/quality
+.. admonition:: should
 
-        SI RACCOMANDA di garantire, per tutti i dati in generale e per quelli resi disponibili per il riutilizzo, in particolare, il rispetto almeno delle quattro caratteristiche di qualità dei dati, delle 15 previste dallo Standard ISO/IEC 25012 (ovvero accuratezza, coerenza, completezza e attualità), come da indicazioni della Determinazione Commissariale n. 68/2013 di AgID.
+      **Raccomandazione 7**: dlgs36-2006/opendata/req/organization/quality
+
+      SI RACCOMANDA di garantire, per tutti i dati in generale e per quelli resi disponibili per il riutilizzo, in particolare, il rispetto almeno delle quattro caratteristiche di qualità dei dati, delle 15 previste dallo Standard ISO/IEC 25012 (ovvero accuratezza, coerenza, completezza e attualità), come da indicazioni della Determinazione Commissariale n. 68/2013 di AgID.
         Per la misura delle suddette caratteristiche, fare riferimento allo Standard ISO/IEC 25024.
 
 
