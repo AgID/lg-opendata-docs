@@ -1,7 +1,7 @@
 .. _par-4-3:
 
 Serie di dati di elevato valore
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La Direttiva e, quindi, il Decreto hanno introdotto la tipologia di
 **serie di dati denominati “di elevato valore” definiti come quei
