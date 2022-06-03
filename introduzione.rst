@@ -7,16 +7,16 @@ per fare in modo che i dati possano circolare a beneficio di tutti,
 imprese, ricercatori, amministrazioni pubbliche e cittadini. Molteplici
 sono le iniziative che l’UE sta portando avanti in tale direzione; tra le altre, la
 Strategia Europea per i dati [1]_ e la costruzione di spazi di dati
-comuni e interoperabili, le proposte relative al Data Governance
-Act [2]_, avente ad oggetto la facilitazione della condivisione tra
-settori e Stati Membri, e al Data Act [3]_, finalizzato ad introdurre
+comuni e interoperabili, il Regolamento relativo alla governcance dei dati (Data Governance
+Act) [2]_, avente ad oggetto la facilitazione della condivisione tra
+settori e Stati Membri, e la proposta relativa al Data Act [3]_, finalizzato ad introdurre
 norme armonizzate per l’accesso equo ai dati e il loro utilizzo.
 
 In questo contesto si pone anche la Direttiva (UE) 2019/1024, cosiddetta
 Direttiva Open Data, relativa all’apertura dei dati e al riutilizzo
 dell'informazione del settore pubblico con cui viene aggiornata e
 modificata la normativa precedente, definita a livello europeo sin dal
-2003 con la prima Direttiva PSI. Modifiche resesi necessarie a seguito
+2003 con la prima Direttiva PSI. Le modifiche si sono rese necessarie a seguito
 della crescita esponenziale della quantità di dati, compresi i dati
 pubblici, alla produzione e raccolta di nuovi tipi di dati, insieme ad
 un’evoluzione costante delle tecnologie per l’analisi, lo sfruttamento e
@@ -89,7 +89,7 @@ dal CAD, mantenendo le indicazioni pertinenti e ancora valide.
 
 .. [1] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52020DC0066&from=IT
 
-.. [2] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52020PC0767&from=IT
+.. [2] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32022R0868&from=EN
 
 .. [3] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52022PC0068&from=IT
 
