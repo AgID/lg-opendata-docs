@@ -39,7 +39,7 @@ Registri INSPIRE Italia (v. box “Risorse utili”).
 **Integrazione con altri dati -** L’arricchimento dei dati può essere
 ottenuto, come detto, anche integrando informazioni da sorgenti esterne
 rendendo in questo modo i dati di origine più significativi e fruibili.
-Il valore aggiunto è ottenuto per esempio producendo i dati mashup già
+Il valore aggiunto è ottenuto, per esempio, producendo i dati mashup già
 citati in precedenza.
 
 **Linked Open Data** - Come detto, il collegamento (linking) dei dati
