@@ -5,7 +5,7 @@ Dati territoriali
 
 I dati territoriali sono definiti dal CAD come “\ *i dati che attengono,
 direttamente o indirettamente, a una località o a un’area geografica
-specifica*\ ” (art. 1 c. 1 lettera i-sexies)), in linea con l’analoga
+specifica*\ ” (cfr. art. 1 c. 1 lettera i-sexies)), in linea con l’analoga
 definizione presente all’art. 3 punto 2) della Direttiva
 [**INSPIRE-DIR**]. Nel presente documento il termine “dati geospaziali”
 è utilizzato come sinonimo di “dati territoriali”.
@@ -58,11 +58,11 @@ le altre:
 
 -  specifiche tecniche per l’illuminazione pubblica [13]_.
 
-Sono fatte salve tutte le altre norme, non esplicitamente citate in
+Sono fatte salve tutte le altre norme applicabili ai dati territoriali, non esplicitamente citate in
 questo paragrafo (come la `legge n.
 132/2016 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;132~art2>`__
 relativamente al Sistema Informativo Nazionale Ambientale (SINA) e alla
-rete SINANET), applicabili ai dati territoriali.
+rete SINANET).
 
 Stante quanto rappresentato innanzi, per l’apertura e il riutilizzo dei
 dati territoriali si applicano le indicazioni e i requisiti generali
