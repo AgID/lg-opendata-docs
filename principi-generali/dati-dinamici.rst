@@ -4,9 +4,9 @@ Dati dinamici
 ~~~~~~~~~~~~~
 
 Il Decreto definisce, all’art. 2 comma 1 lettera c-sexies), **i “dati
-dinamici” come “\ documenti informatici, soggetti ad aggiornamenti
+dinamici”** come “\ *documenti informatici, soggetti ad aggiornamenti
 frequenti o in tempo reale, in particolare a causa della loro volatilità
-o rapida obsolescenza\ ”**. La Direttiva ribadisce, inoltre, che “\ *i
+o rapida obsolescenza*\ ”. La Direttiva ribadisce, inoltre, che “\ *i
 dati generati da sensori sono solitamente considerati dati dinamici*\ ”.
 Esempi di dati dinamici sono, quindi, i dati
 ambientali, relativi al traffico, satellitari o meteorologici.
