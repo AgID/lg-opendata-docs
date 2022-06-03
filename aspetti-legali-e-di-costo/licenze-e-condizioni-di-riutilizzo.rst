@@ -112,7 +112,7 @@ tre gruppi:
       richiamo di fonte, copyright etc nella misura richiamata dal
       licenziante e può essere assolta in ogni forma “ragionevole”.
       Vieta inoltre l’apposizione di restrizioni ulteriori, anche di
-      natura tecnologica e richiede indicazione delle modifiche
+      natura tecnologica e richiede indicazione delle modifiche;
 
    -  **CDLA-permissiva 1.0** : consente al licenziatario di condividere
       e modificare, con la sola attribuzione al licenziante e citazione
@@ -121,14 +121,14 @@ tre gruppi:
       vincoli con i dati di provenienza. Non impone obblighi o
       restrizioni ai dati “migliorati” (derivato e/o di mashup) e
       contiene il concetto di “risultato” - non condizionato - proprio
-      delle elaborazioni algoritmiche
+      delle elaborazioni algoritmiche;
 
    -  **IODL 2.0**: consente al licenziatario di condividere e
       modificare, per qualsiasi finalità, con la sola restrizione
       dell’attribuzione al licenziante, comprensiva del nome del
       soggetto che fornisce il dato, includendo, se possibile, il link
       alla licenza. Contiene riferimento alla normativa nazionale sul
-      diritto d’autore e sui dati personali.
+      diritto d’autore e sui dati personali;
 
    -  **ODC-BY**: consente al licenziatario di condividere e modificare,
       per qualsiasi finalità, con la sola restrizione dell’attribuzione
@@ -143,7 +143,7 @@ tre gruppi:
       dell’attribuzione al licenziante e della redistribuzione del
       prodotto derivato con la stessa licenza dell’originale (o versione
       successiva). Vieta l’apposizione di restrizioni ulteriori, anche
-      di natura tecnologica.
+      di natura tecnologica;
 
    -  **CDLA - Condivisione 1.0**: consente al licenziatario di
       utilizzare e pubblicare i dati per il riutilizzo, con la duplice
@@ -152,14 +152,14 @@ tre gruppi:
       miglioramento dei dati e la produzione di opere derivate/mashup,
       senza creare vincoli con i dati di provenienza. Impone ai dati
       “migliorati” (derivati e/o di mashup) l’uso della stessa licenza,
-      ma conserva la libertà d’uso incondizionata dei “risultati”.
+      ma conserva la libertà d’uso incondizionata dei “risultati";
 
    -  **IODL 1.0**: consente al licenziatario di condividere e
       modificare, per qualsiasi finalità, con la duplice restrizione
       dell’attribuzione al licenziante, - comprensiva del nome del
       soggetto che fornisce il dato, includendo, se possibile, il link
       alla licenza, e della condivisione del prodotto derivato o di
-      mashup con la stessa licenza.
+      mashup con la stessa licenza;
 
    -  **OdBl**: specifica per i database, consente al licenziatario di
       utilizzare, condividere, modificare, integrare e redistribuire il
@@ -236,7 +236,7 @@ delle principali licenze).
 
 Si ricorda, a riguardo, che le basi di dati godono di una duplice tutela
 ai sensi della normativa nazionale e comunitaria, ovvero la tutela quale
-opera creativa, ove ne ricorrano i presupposti, e la tutela del cd
+opera creativa, ove ne ricorrano i presupposti, e la tutela del cosiddetto
 “diritto sui generis”, che tutela “l’effort” di costituzione di una
 banca dati, anche magari non creativa, da una estrazione totale o
 sostanziale.
