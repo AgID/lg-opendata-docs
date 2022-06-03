@@ -34,7 +34,7 @@ I requisiti, inoltre, saranno rappresentati nel modo seguente:
 
 .. admonition:: must
 
-   **REQUISITO x**: dlgs36-2006/opendata/req/xxx/yyy
+   **REQUISITO x**: dlgs36-2006/opendata/req/<conformance-class-id>/<req-id>
 
     Testo del requisito.
 
@@ -42,7 +42,7 @@ mentre le raccomandazioni nel modo seguente:
 
 .. admonition:: should
 
-   **Raccomandazione x**: dlgs36-2006/opendata/rec/xxx/yyy
+   **Raccomandazione x**: dlgs36-2006/opendata/rec/<conformance-class-id>/<rec-id>
 
     Testo della raccomandazione.
 
