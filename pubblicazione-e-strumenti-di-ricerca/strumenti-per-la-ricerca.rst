@@ -27,7 +27,7 @@ indicato al par. :ref:`par-4-6`.
     Le amministrazioni sono tenute a inserire e a mantenere aggiornati nel portale dati.gov.it, attraverso le modalità di alimentazione previste dal catalogo, i metadati dei dati, ad esclusione di quelli territoriali.
 
 
-I dati primari, il cui riferimento è pubblicato sul portale nazionale,
+I dati, il cui riferimento è pubblicato sul portale nazionale,
 rimangono presso il titolare del dato che conserva la responsabilità
 della loro correttezza, tenuta, gestione, aggiornamento e divulgazione a
 livello nazionale.
