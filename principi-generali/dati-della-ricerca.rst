@@ -3,12 +3,12 @@
 Dati della ricerca
 ~~~~~~~~~~~~~~~~~~
 
-I **dati della ricerca** sono definiti dal Decreto come **“\ documenti
+I **dati della ricerca** sono definiti dal Decreto come “\ documenti
 informatici, diversi dalle pubblicazioni scientifiche, raccolti o
 prodotti nel corso della ricerca scientifica e utilizzati come elementi
 di prova nel processo di ricerca, o comunemente accettati nella comunità
 di ricerca come necessari per convalidare le conclusioni e i risultati
-della ricerca\ ”**.
+della ricerca\ ”.
 
 Esempi di tale tipologia di dati sono forniti nella Direttiva:
 statistiche, risultati di esperimenti, misurazioni, osservazioni
@@ -103,7 +103,7 @@ riutilizzo è consentito.
       -	rendere disponibili dati accurati e ben descritti con molti attributi pertinenti;
       -	assegnare ai dati una licenza d’uso chiara e accessibile secondo il Requisito 20 e il Requisito 21;
       -	rendere chiaro come, perché, quando e da chi i dati sono stati creati e processati;
-      -	seguire i pertinenti standard di dominio per dati e metadati (v. Requisito 15 e Requisito 16).
+      -	seguire i pertinenti standard di dominio per dati e metadati (v., per questi ultimi, Requisito 15 e Requisito 16).
 
 
 La necessità che i dati della ricerca seguano e siano conformi ai
