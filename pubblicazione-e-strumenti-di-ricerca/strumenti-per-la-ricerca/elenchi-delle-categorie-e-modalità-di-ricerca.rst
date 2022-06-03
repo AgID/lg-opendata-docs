@@ -26,7 +26,7 @@ aperti dati.gov.it, **si può pubblicare sul proprio sito istituzionale,
 eventualmente in una sezione dedicata agli open data**, anche al fine di
 evitare eventuali duplicazioni, **un collegamento ipertestuale (anche
 sfruttando le API disponibili sul portale nazionale), per ciascuna
-categoria tematica** (con riferimento ai temi DCAT-AP [1]_), ai propri
+categoria tematica** (facendo riferimento ai temi DCAT-AP [1]_), ai propri
 dataset pubblicati nel portale nazionale. Un esempio di URL da inserire
 nel proprio sito istituzionale è il seguente:
 
