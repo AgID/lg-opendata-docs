@@ -4,16 +4,16 @@ Serie di dati di elevato valore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La Direttiva e, quindi, il Decreto hanno introdotto la tipologia di
-**serie di dati denominati “di elevato valore” definiti come quei
+**serie di dati denominati “di elevato valore”** definiti come quei
 “\ documenti il cui riutilizzo è associato a importanti benefici per la
 società, l’ambiente e l’economia, in considerazione della loro idoneità
 per la creazione di servizi, applicazioni a valore aggiunto e nuovi
 posti di lavoro, nonché del numero dei potenziali beneficiari dei
 servizi e delle applicazioni a valore aggiunto basati su tali serie di
-dati\ ”**.
+dati\ ”.
 
 I criteri per l’identificazione di tale tipologia di dati sono indicati
-all’art. 14 c. 2 della Direttiva, secondo cui si deve valutare la loro
+all’art. 14 c. 2 della Direttiva, secondo cui deve essere valutata la loro
 potenzialità:
 
 a) nell’apportare importanti benefici socio-economici o ambientali e
@@ -33,7 +33,7 @@ attraverso specifici atti di esecuzione di competenza della Commissione
 Europea.
 
 Le serie di dati di elevato valore individuate dalla Commissione
-appartengono alle **categorie tematiche indicate nell’Allegato I della
+fanno riferimento alle **categorie tematiche indicate nell’Allegato I della
 Direttiva**, ovvero:
 
 1. Dati geospaziali
@@ -59,17 +59,17 @@ i formati dei dati e dei metadati e le modalità tecniche di diffusione.
 
 Nel momento in cui è stata completata la redazione delle presenti linee
 guida, è stata avviata dalla Commissione Europea la consultazione
-pubblica sugli atti di esecuzione di sua competenza [1]_. Visto che non si
+pubblica sugli atti di esecuzione (Regolamento) di sua competenza [1]_. Visto che non si
 può fare riferimento ancora ad atti adottati ufficialmente ed entrati in
 vigore, vengono di seguito definiti requisiti e raccomandazioni sulla
 base delle prescrizioni più generali presenti nel Decreto e nella bozza
-degli atti in consultazione. Tali requisiti e raccomandazioni dovranno
+del Regolamento in consultazione. Tali requisiti e raccomandazioni dovranno
 essere applicati dopo l’entrata in vigore degli atti di esecuzione della
 Commissione Europea insieme alle specifiche indicazioni che in quegli
 atti sono riportate.
 
-Nel caso in cui gli atti di esecuzione di cui sopra dovessero essere
-emanati prima dell’adozione delle presenti Linee Guida, questo paragrafo
+Nel caso in cui il Regolamento di cui sopra dovesse essere
+emanato prima dell’adozione delle presenti Linee Guida, questo paragrafo
 sarà modificato e aggiornato sulla base del contenuto degli atti della
 Commissione Europea nella versione ufficiale. In ogni caso, ove si
 ritenga opportuno o necessario anche per definire ulteriori indicazioni
@@ -114,7 +114,7 @@ disposizione saranno fornite nelle guide operative relative ai profili
 nazionali di metadati (v. par. :ref:`par-4-6`). Ulteriori indicazioni sui
 metadati saranno fornite nelle guide operative di cui sopra per
 adempiere a quanto previsto per i differenti set di dati di elevato
-valore nell’Allegato alla bozza di Regolamento.
+valore di cui all’Allegato alla bozza di Regolamento.
 
 Con riferimento al **Requisito 7**, la bozza di Regolamento precisa che
 i dati detenuti dalle imprese pubbliche non rientrano nell’ambito di
