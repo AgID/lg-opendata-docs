@@ -162,9 +162,7 @@ In entrambe le tabelle 2 e 3 (come da legenda in calce) si è provato a dettagli
 Si fa riferimento, a titolo di esempio:
 
 
-   -  al rischio di cumulo delle attribuzioni (cd. “stack of attribution”), presente anche nelle licenze solo “permissive” (mera attribuzione), ma diverse tra loro, le
-   quali presentano, a volte, specifiche diverse, in merito alle modalità con cui assolvere all’obbligo di "attribution". Tali specifiche possono rendere complessa la 
-   gestione delle licenze (si pensi, per esempio, ai dati geografici, per i quali l’uso di fonti diverse e ricorsive può rendere difficile detto governo);
+   -  al rischio di cumulo delle attribuzioni (cd. “stack of attribution”), presente anche nelle licenze solo “permissive” (mera attribuzione), ma diverse tra loro, le quali presentano, a volte, specifiche diverse, in merito alle modalità con cui assolvere all’obbligo di "attribution". Tali specifiche possono rendere complessa la gestione delle licenze (si pensi, per esempio, ai dati geografici, per i quali l’uso di fonti diverse e ricorsive può rendere difficile detto governo);
 
 -  ai limiti all’apponibilità di misure tecnologiche di protezione, in quanto alcune licenze (ad esempio, la CC-BY 4.0) contengono un divieto di apporre tali soluzioni, senza eccezioni; altre licenze non contemplano detto profilo (come la IODL); altre ancora contemplano tale divieto, individuando, tuttavia, soluzioni alternative (es. l’OdBL, che prevede il divieto, ma anche la possibilità alternativa di apporre dette misure, a condizione che una copia del database rimanga accessibile senza restrizioni);
 
