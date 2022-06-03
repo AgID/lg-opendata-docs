@@ -4,7 +4,7 @@ Non discriminazione
 ~~~~~~~~~~~~~~~~~~~
 
 Il Decreto stabilisce che le condizioni poste per il riutilizzo (v. par.
-:ref:`par-6-1`) non devono comportare discriminazioni per categorie analoghe di
+:ref:`par-6-1`) non debbano comportare discriminazioni per categorie analoghe di
 riutilizzo, compreso il riutilizzo transfrontaliero. A tale riguardo, il
 divieto di discriminazioni, per esempio, non deve impedire lo scambio di
 informazioni tra enti pubblici a titolo gratuito nell’ambito dei loro
