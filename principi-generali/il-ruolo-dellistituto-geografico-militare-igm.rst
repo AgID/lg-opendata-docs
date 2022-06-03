@@ -23,8 +23,7 @@ diverse da quelle eventualmente indicate negli atti di esecuzione della
 Commissione Europea, l’IGM contribuisce alla validazione del contenuto.
 
 Ai fini della produzione dei documenti cartografici dello Stato ai sensi
-della legge 2 febbraio 1960 n. 68 e dichiarati ufficiali dallo stesso
-Istituto, il Decreto stabilisce che l’IGM acquisisce documenti
+della legge 2 febbraio 1960 n. 68 e dichiarati ufficiali dall'Istituto, il Decreto stabilisce che l’IGM acquisisce documenti
 cartografici o dati geospaziali d’interesse nazionale resi disponibili
 dagli organismi di diritto pubblico elencati nel paragrafo :ref:`par-1-3`, titolari
 e responsabili della validazione dei dati originali.
