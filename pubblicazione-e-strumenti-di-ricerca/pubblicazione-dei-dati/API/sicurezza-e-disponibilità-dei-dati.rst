@@ -22,7 +22,7 @@ L’implementazione di API coerenti con il Requisito 27, pertanto,
 assicura il rispetto degli adempimenti e la conformità al citato art. 51
 del **CAD**.
 
-Nell’ambito della Strategia Cloud Italia, inoltre, al fine di
+Nell’ambito della Strategia Cloud Italia, a cui si rimanda, inoltre, al fine di
 regolamentare l’offerta di servizi cloud disponibili sul mercato per
 mitigare i rischi sistemici di sicurezza e affidabilità, è stata
 definita una classificazione dei dati e dei servizi allo scopo di
