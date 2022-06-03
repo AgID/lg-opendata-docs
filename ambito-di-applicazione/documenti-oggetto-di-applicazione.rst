@@ -5,8 +5,8 @@ Documenti oggetto di applicazione
 
 **Le presenti Linee Guida si applicano**:
 
--  a tutti i documenti contenenti dati pubblici detenuti dalle pubbliche
-   amministrazioni e dagli organismi di diritto pubblico e dalle imprese
+-  a tutti i documenti contenenti dati pubblici detenuti da pubbliche
+   amministrazioni, organismi di diritto pubblico, imprese
    pubbliche e private, ad eccezione di quelli indicati nel par.
    :ref:`par-1-2`;
 
