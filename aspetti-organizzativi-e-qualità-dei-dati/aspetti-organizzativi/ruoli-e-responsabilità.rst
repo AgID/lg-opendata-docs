@@ -83,11 +83,11 @@ del dato dal punto di vista IT.
 
 È altresì importante garantire il **raccordo e la consultazione con le
 altre figure coinvolte nel processo di digitalizzazione della pubblica
-amministrazione** (responsabile per la conservazione documentale,
+amministrazione**, ovveroresponsabile per la conservazione documentale,
 responsabile per la prevenzione della corruzione e la trasparenza,
 responsabile per la protezione dei dati personali, responsabile dei
 sistemi informativi (se non coincide con il RTD), responsabile per la
-sicurezza).
+sicurezza.
 
 L’azione di raccordo e consultazione di cui sopra può essere
 espletata dal RTD a cui, sulla base della Circolare n. 3/2018 citata
