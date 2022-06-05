@@ -678,8 +678,17 @@ Requisiti
 |                 | compatibile, o  |                 |                 |
 |                 | meglio un       |                 |                 |
 |                 | “waiwer”, come  |                 |                 |
-|                 | la CC0.         |                 |                 |
-|                 |                 |                 |                 |
+|                 | la CC0, o       |                 |                 |
+|                 |qualsiasi altra  |                 |                 |
+|                 |licenza aperta   |                 |                 |
+|                 |equivalente o    |                 |                 |
+|                 |meno restrittiva,|                 |                 | 
+|                 |che consenta il  |                 |                 |
+|                 |riutilizzo salvo |                 |                 |
+|                 |obbligo di       |                 |                 |
+|                 |attribuzione,    |                 |                 |
+|                 |dando credito al |                 |                 |
+|                 |concedente.      |                 |                 |
 |                 | L’adozione di   |                 |                 |
 |                 | una licenza     |                 |                 |
 |                 | diversa da      |                 |                 |
