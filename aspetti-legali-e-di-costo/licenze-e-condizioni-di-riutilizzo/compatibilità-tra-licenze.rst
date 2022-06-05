@@ -64,9 +64,9 @@ Questi ultimi aspetti sono peculiari ed esulano dalla necessaria semplificazione
 .. table:: Compatibilità tra licenze - Condizioni da osservare / specifiche di applicazione
    :name: compatibilità-licenze
 
-+-------+----------------------------+-------------------+--------------+--------------+-------+------------+-----------+-------+
-| Cod.  | Condizioni da osservare/   | Licenze impattate |              |              |       |            |           |       |
-|       | specifiche di applicazione |                   |              |              |       |            |           |       |
++-------+----------------------------+------------------------------------------------------------------------------------------+
+| Cod.  | Condizioni da osservare/   | Licenze impattate                                                                        |   
+|       | specifiche di applicazione |                                                                                          |           
 +=======+============================+===================+==============+==============+=======+============+===========+=======+
 | A     | segnalazione modifica      | CDLA 1 perm       | CDLA 1 shar  |              | CC-BY |            |           |       |
 |       | cambiamenti                |                   |              |              |       |            |           |       |
