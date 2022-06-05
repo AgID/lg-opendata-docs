@@ -53,8 +53,6 @@ Si fa riferimento, a titolo di esempio:
 
 Questi ultimi aspetti sono peculiari ed esulano dalla necessaria semplificazione funzionale alle tabelle sottese; SI RACCOMANDA, pertanto, di fare comunque riferimento, per eventuali approfondimenti, alla serie di risorse utili indicate nel box, svolgendo, ove necessario, specifiche verifiche.
 
-
-
 **Legenda:**
 
 .. figure:: /media/licenze-legenda.png
