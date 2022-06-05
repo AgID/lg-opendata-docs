@@ -273,7 +273,7 @@ attribuire la paternità dei dataset (attribuire la fonte).**
 
     **REQUISITO 21**: dlgs36-2006/opendata/req/conditions/no-ccby4
 
-    L’adozione, qualora possibile e/o previsto, di una licenza diversa dalla CC-BY 4.0 DEVE essere formalmente motivata, anche alla luce dei principi espressi dalla Direttiva, salvo che sia stata adottata una licenza altrettanto compatibile come la CDLA 2.0 permissive e/o una licenza universalmente compatibile, o meglio un “waiwer”, come la CC0.
+    L’adozione, qualora possibile e/o previsto, di una licenza diversa dalla CC-BY 4.0 DEVE essere formalmente motivata, anche alla luce dei principi espressi dalla Direttiva, salvo che sia stata adottata una licenza altrettanto compatibile come la CDLA 2.0 permissive e/o una licenza universalmente compatibile, o meglio un “waiwer”, come la CC0, o qualsiasi altra licenza aperta equivalente o meno restrittiva, che consenta il riutilizzo salvo obbligo di attribuzione, dando credito al concedente.
     L’adozione di una licenza diversa da CC-BY 4.0, CC0 o altra altrettanto compatibile non è applicabile per le serie di dati di elevato valore.
 
 
