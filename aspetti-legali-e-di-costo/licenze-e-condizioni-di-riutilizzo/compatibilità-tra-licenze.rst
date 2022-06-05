@@ -13,71 +13,13 @@ Sul tema della compatibilità, infine, si ritiene opportuno distinguere l’ipot
 
 a) **evoluzione di una fonte terza (opera “derivata”)**
 
-In questo caso, la licenziabilità della soluzione e le relative condizioni saranno influenzate solo dalla licenza originaria: la tabella che segue è relativa alla possibilità di produrre un dataset “derivato”, in linea con le indicazioni fornite con le presenti Linee Guida ovvero, in CC-BY 4.0 o, in subordine, CC0 o CDLA 2.0 permissive (v. Tabella 2).
+In questo caso, la licenziabilità della soluzione e le relative condizioni saranno influenzate solo dalla licenza originaria: la tabella che segue è relativa alla possibilità di produrre un dataset “derivato”, in linea con le indicazioni fornite con le presenti Linee Guida ovvero, in CC-BY 4.0 o, in subordine, CC0 o CDLA 2.0 permissive (v. Figura che segue).
 
+.. figure:: /media/licenze-opera-derivata.png
+   :name: licenze-opera-derivata
+   :alt: La figura mostra le licenze applicabili all’opera derivata in funzione della licenza originaria.
 
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **lic | **CC0 | **CC- | **CC- | **IOD | **ODb | **CDL | **CDL | **CDL |
-| enza  | **    | BY    | BY-SA | L     | L**   | A     | A     | A     |
-| opera |       | 4.0** | 4.0** | 2.0** |       | 1.0   | 1.0   | 2.0   |
-| “deri |       |       |       |       |       | perm* | shar* | perm* |
-| vata” |       |       |       |       |       | *     | *     | *     |
-| **    |       |       |       |       |       |       |       |       |
-+=======+=======+=======+=======+=======+=======+=======+=======+=======+
-| **lic |       |       |       |       |       |       |       |       |
-| enza  |       |       |       |       |       |       |       |       |
-| opera |       |       |       |       |       |       |       |       |
-| origi |       |       |       |       |       |       |       |       |
-| naria |       |       |       |       |       |       |       |       |
-| **    |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **CC0 |       | **[A- |       |       |       |       |       |       |
-| **    |       | B-C]* |       |       |       |       |       |       |
-|       |       | *     |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **CC- |       | **[A- | **[A- | **[A- | **\*[ | **[A- | **[A- | **[A- |
-| BY    |       | B-C]* | B-C]* | B-C]* | A-B-C | B-C]* | B-C]* | B-C]* |
-| 4.0** |       | *     | *     | *     | ]**   | *     | *     | *     |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **CC- |       |       | **[A- |       |       |       |       |       |
-| BY-SA |       |       | B-C]* |       |       |       |       |       |
-| 4.0** |       |       | *     |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **IOD |       | **[B- | **[B- | **[B- | **[B- | **[B- | **[B- | **[B- |
-| L     |       | C]**  | C]**  | C]**  | C]**  | C]**  | C]**  | C]**  |
-| 2.0** |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **IOD |       |       |       |       | **[B- |       |       |       |
-| L     |       |       |       |       | C]**  |       |       |       |
-| 1.0** |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **ODb | **[D] | **[D] | **\*[ | **[D] | **[(A | **[D] |       | **[D] |
-| L**   | **    | **    | D]**  | **    | )     | **    |       | **    |
-|       |       |       |       |       | B-C-D |       |       |       |
-|       |       |       |       |       | -F-G] |       |       |       |
-|       |       |       |       |       | **    |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **CDL | **[E] | **[A- | **[A- | **[A- | **[A- | **[A- | **[A- | **[A- |
-| A     | **    | B-C-E | B-C-E | B-C-E | B-C-E | B-C-E | B-C-E | B-C-E |
-| 1.0   |       | ]**   | ]**   | ]**   | ]**   | ]**   | ]**   | ]**   |
-| perm* |       |       |       |       |       |       |       |       |
-| *     |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **CDL | **[E] | **[E] | **[E] | **[E] | **[E] | **[E] | **[A- | **[E] |
-| A     | **    | **    | **    | **    | **    | **    | B-C-E | **    |
-| 1.0   |       |       |       |       |       |       | ]**   |       |
-| shar* |       |       |       |       |       |       |       |       |
-| *     |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| **CDL | **[B- | **[B- | **[B- | **[B- | **[B- | **[B- | **[B- | **[B- |
-| A     | E]**  | E]**  | E]**  | E]**  | E]**  | E]**  | E]**  | E]**  |
-| 2.0   |       |       |       |       |       |       |       |       |
-| perm* |       |       |       |       |       |       |       |       |
-| *     |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-
-**Tabella** **2** – Licenze applicabili all’opera derivata in funzione
-della licenza originaria
+   Licenze applicabili all’opera derivata in funzione della licenza originaria
 
 ** il sito della CDLA (v. box infra) ritiene compatibile la CC BY 4.0 con il rilascio in CDLA 2.0 permissive, a condizione di rispettare l’attribution originale (anche se non raccomandato, per non creare “strati” di attribuzione”, come da wiki delle CC di cui al link nel box “Risorse utili, par. “Adapter’s license chart”). Analogo ragionamento a fortiori parrebbe essere applicabile per la IODL 2.0.
 
@@ -87,77 +29,18 @@ Sempre come esempio, se si elabora un db rilasciato originariamente in CC BY SA,
 b) **sviluppo di un nuovo dataset/database tramite unione/riutilizzo in
    tutto o in parte di dataset/database terzi diversi**
 
-In questo caso, è necessario verificare che le licenze originarie non risultino incompatibili con la pubblicazione (v. Tabella 3 seguente) relative alle peculiarità del caso.
+In questo caso, è necessario verificare che le licenze originarie non risultino incompatibili con la pubblicazione (v. Figura seguente) relative alle peculiarità del caso.
+
+.. figure:: /media/licenze-opera-mashup.png
+   :name: licenze-opera-mashup
+   :alt: La figura mostra la matrice di compatibilità tra licenze.
+
+   Matrice di compatibilità tra licenze
 
 
-+------+------+------+------+------+------+------+------+------+------+
-| **li | **CC | **CC | **CC | **IO | **IO | **OD | **CD | **CD | **CD |
-| cenz | 0**  | -BY  | -BY- | DL   | DL   | bL** | LA   | LA   | LA   |
-| a    |      | 4.0* | SA   | 1.0* | 2.0* |      | 1.0  | 1.0  | 2.0  |
-| oper |      | *    | 4.0* | *    | *    |      | perm | shar | perm |
-| a    |      |      | *    |      |      |      | **   | **   | **   |
-| 1**  |      |      |      |      |      |      |      |      |      |
-+======+======+======+======+======+======+======+======+======+======+
-| **li |      |      |      |      |      |      |      |      |      |
-| cenz |      |      |      |      |      |      |      |      |      |
-| a    |      |      |      |      |      |      |      |      |      |
-| oper |      |      |      |      |      |      |      |      |      |
-| a    |      |      |      |      |      |      |      |      |      |
-| 2**  |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **CC |      |      |      |      |      |      |      |      |      |
-| 0**  |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **CC |      |      | CC   | \*   |      | \*[D |      | \*   |      |
-| -BY  |      |      | BY   | IODL |      | ]    |      | CDLA |      |
-| 4.0* |      |      | SA   | 1.0  |      |      |      | 1sha |      |
-| *    |      |      |      |      |      |      |      | r    |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **CC | CC   | CC   | CC   |      | CC   |      | CC   |      | CC   |
-| -BY- | BY   | BY   | BY   |      | BY   |      | BY   |      | BY   |
-| SA   | SA   | SA   | SA   |      | SA   |      | SA   |      | SA   |
-| 4.0* |      |      |      |      |      |      |      |      |      |
-| *    |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **IO |      |      | CC   | IODL |      | OdBL |      | CDLA |      |
-| DL   |      |      | BY   | 1.0  |      |      |      | 1    |      |
-| 2.0* |      |      | SA   |      |      |      |      | shar |      |
-| *    |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **IO | IODL | \*   | CC   | IODL | IODL | OdBL | IODL |      | IODL |
-| DL   | 1.0  | IODL | BY   | 1.0  | 1.0  |      | 1.0  |      | 1.0  |
-| 1.0* |      | 1.0  | SA   |      |      |      |      |      |      |
-| *    |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **OD | OdBL | \*   |      | OdBL | OdBL | OdBL | OdBL |      | OdBL |
-| bL** |      | [D]  |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **CD |      |      | CC   | IODL |      |      |      | CDLA |      |
-| LA   |      |      | BY   | 1.0  |      |      |      | 1    |      |
-| 1.0  |      |      | SA   |      |      |      |      | shar |      |
-| perm |      |      |      |      |      |      |      |      |      |
-| **   |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **CD | CDLA | \*   |      | [E]  | CDLA |      | CDLA | CDLA | CDLA |
-| LA   | 1    | CDLA |      |      | 1sha |      | 1sha | 1sha | 1sha |
-| 1.0  | shar | 1sha |      |      | r    |      | r    | r    | r    |
-| shar |      | r    |      |      |      |      |      |      |      |
-| ing* |      |      |      |      |      |      |      |      |      |
-| *    |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
-| **CD |      |      | CC   | IODL |      | OdBL |      | CDLA |      |
-| LA   |      |      | BY   | 1.0  |      |      |      | 1    |      |
-| 2.0  |      |      | SA   |      |      |      |      | shar |      |
-| perm |      |      |      |      |      |      |      |      |      |
-| **   |      |      |      |      |      |      |      |      |      |
-+------+------+------+------+------+------+------+------+------+------+
+Quest’ultima figura espone, quindi, una matrice di compatibilità - necessariamente limitata alle principali licenze standard - che distingue i casi in cui la combinazione delle fonti permetta di licenziare la soluzione come da indicazioni (verde), comunque aperta (giallo) o produca un blocco (rosso).
 
-**Tabella** **3** - Matrice di compatibilità tra licenze
-
-
-Quest’ultima tabella espone, quindi, una matrice di compatibilità - necessariamente limitata alle principali licenze standard - che distingue i casi in cui la combinazione delle fonti permetta di licenziare la soluzione come da indicazioni (verde), comunque aperta (giallo) o produca un blocco (rosso).
-
-In entrambe le tabelle 2 e 3 (come da legenda in calce) si è provato a dettagliare meglio alcuni aspetti che, pur non impedendo il riutilizzo, sono da considerarsi punti di attenzione.
+In entrambe le fidure (come da legenda in calce) si è provato a dettagliare meglio alcuni aspetti che, pur non impedendo il riutilizzo, sono da considerarsi punti di attenzione.
 
 Si fa riferimento, a titolo di esempio:
 
@@ -174,26 +57,11 @@ Questi ultimi aspetti sono peculiari ed esulano dalla necessaria semplificazione
 
 **Legenda:**
 
-+-----------------------------------+-----------------------------------+
-|                                   | pubblicabile, ma con licenza      |
-|                                   | diversa da CC BY / CC0 / CDLA     |
-|                                   | permissive                        |
-+===================================+===================================+
-|                                   | non ripubblicabile                |
-+-----------------------------------+-----------------------------------+
-|                                   | pubblicabile con licenza CC BY    |
-|                                   | 4.0, CC0 o CDLA permissive        |
-+-----------------------------------+-----------------------------------+
-| \*                                | verificare gestibilità            |
-|                                   | attribution e DRM                 |
-+-----------------------------------+-----------------------------------+
-|                                   | compatibilità espressamente messa |
-|                                   | in discussione [2]_               |
-+-----------------------------------+-----------------------------------+
-|                                   | compatibilità richiamata da una   |
-|                                   | delle licenze (es. IODL 1.0       |
-|                                   | rispetto a CC BY SA)              |
-+-----------------------------------+-----------------------------------+
+.. figure:: /media/licenze-legenda.png
+   :name: licenze-legenda
+   :alt: La figura mostra la legenda delle figure di cui sopra.
+
+   Legenda
 
 .. table:: Compatibilità tra licenze - Condizioni da osservare / specifiche di applicazione
    :name: compatibilità-licenze
