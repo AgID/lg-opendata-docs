@@ -717,3 +717,10 @@ sull’informazione di base, dalle norme o dalle policy in atto.
 .. [4] https://github.com/italia/daf-ontologie-vocabolari-controllati. Tale risorsa confluirà nel Catalogo Nazionale Dati per l’interoperabilità semantica, il cui rilascio, secondo quanto indicato nel Piano Triennale 2021-2023, è previsto per l’anno corrente.
 
 .. [5] Definizioni riportate nel documento “Methodology for data validation 1.1” (v. https://ec.europa.eu/eurostat/cros/system/files/ess_handbook_-_methodology_for_data_validation_v1.1_-_rev2018_0.pdf)
+
+
+
+
+.. forum_italia::
+   :topic_id: 29830
+   :scope: document
