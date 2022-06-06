@@ -82,3 +82,9 @@ particolare:
    conclusi da imprese pubbliche cessano alla scadenza del contratto e
    comunque il 17 luglio 2049, ove la scadenza del contratto sia
    successiva a tale data.
+
+
+
+.. forum_italia::
+   :topic_id: 29836
+   :scope: document
