@@ -117,3 +117,9 @@ requisiti di cui al paragrafo :ref:`par-4-4`.
 
 .. [13]
    https://geodati.gov.it/geoportale/images/PELL-IP_versione-2.0-20210325.pdf
+   
+   
+   
+.. forum_italia::
+   :topic_id: 29828
+   :scope: document
