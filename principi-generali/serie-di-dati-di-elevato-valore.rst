@@ -199,6 +199,10 @@ cartografiche e dei dati geospaziali d’interesse, e rilascia la relativa
 attestazione di consegna.
 
 
-.. [1]
-    v.
-   https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12111-Open-data-availability-of-public-datasets_en
+.. [1] https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12111-Open-data-availability-of-public-datasets_en
+
+
+
+.. forum_italia::
+   :topic_id: 29826
+   :scope: document
