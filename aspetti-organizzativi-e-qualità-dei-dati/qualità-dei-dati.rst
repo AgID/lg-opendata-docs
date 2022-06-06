@@ -77,7 +77,7 @@ amministrazioni.
 |                       | un’entità presenta    | completezza:          |
 |                       | valori per tutti gli  |                       |
 |                       | attributi attesi e    | 1. completezza di     |
-|                       | relative istanze in   | schema: 1)            |
+|                       | relative istanze in   | schema:               |
 |                       | un certo contesto.    | percentuale di valori |
 |                       |                       | nulli per concetti e  |
 |                       |                       | proprietà rispetto al |
@@ -85,7 +85,7 @@ amministrazioni.
 |                       |                       | valori attesi;        |
 |                       |                       |                       |
 |                       |                       | 2. completezza dei    |
-|                       |                       | record: 2) numero di  |
+|                       |                       | record: numero di     |
 |                       |                       | dati elementari       |
 |                       |                       | associati a un valore |
 |                       |                       | non nullo in un       |
@@ -198,7 +198,7 @@ amministrazioni.
 |                       |                       | 1. dati con           |
 |                       |                       | periodicità di        |
 |                       |                       | aggiornamento nota:   |
-|                       |                       | in questo caso 1) è   |
+|                       |                       | in questo caso è      |
 |                       |                       | possibile calcolare   |
 |                       |                       | la tempestività in    |
 |                       |                       | maniera esatta        |
