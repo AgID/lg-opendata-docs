@@ -541,3 +541,9 @@ dati.
 .. [2] https://blog.openstreetmap.org/2017/03/17/use-of-cc-by-data/
 
 .. [3] https://indicepa.gov.it
+
+
+
+.. forum_italia::
+   :topic_id: 29833
+   :scope: document
