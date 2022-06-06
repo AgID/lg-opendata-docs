@@ -588,3 +588,9 @@ giuridici. Nel 2017 è diventato una specifica OASIS.
     Tratte dal documento “data.europa.eu – Data quality guidelines”,
    indicato nel box “Risorse utili”, a cui si rimanda per ulteriori
    approfondimenti.
+
+
+
+.. forum_italia::
+   :topic_id: 29849
+   :scope: document
