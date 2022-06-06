@@ -58,5 +58,10 @@ con il Regolamento (CE) n. 1205/2008 relativo ai metadati.
   - :mimetype:`application/pdf` `Guida operativa per la compilazione dei metadati RNDT <https://geodati.gov.it/geoportale/images/struttura/documenti/Manuale-RNDT_2-guida-operativa-compilazione-metadati_v3.0.pdf>`_
 
 
-.. [1]
-   https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html
+.. [1] https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html
+
+
+
+.. forum_italia::
+   :topic_id: 29829
+   :scope: document
