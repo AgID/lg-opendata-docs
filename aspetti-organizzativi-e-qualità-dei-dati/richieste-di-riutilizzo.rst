@@ -128,4 +128,10 @@ procedura definita.
    comprese quelle universitarie, i musei e gli archivi.
 
 
-.. [1] v. https://indicepa.gov.it/ipa-portale/consultazione/responsabile-transizione-digitale/ricerca-responsabile-transizione-digitale
+.. [1] https://indicepa.gov.it/ipa-portale/consultazione/responsabile-transizione-digitale/ricerca-responsabile-transizione-digitale
+
+
+
+.. forum_italia::
+   :topic_id: 29831
+   :scope: document
