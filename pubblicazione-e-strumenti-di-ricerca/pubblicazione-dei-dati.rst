@@ -330,3 +330,9 @@ una pagina web informativa) di una risorsa.
 .. [1] https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123008_725_1.html
 
 .. [2] https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_123064_725_1.html
+
+
+
+.. forum_italia::
+   :topic_id: 29837
+   :scope: document
