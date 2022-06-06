@@ -69,3 +69,9 @@ Anche ai fini del calcolo dell’indicatore per la misurazione del risultato att
  - :mimetype:`text/html` `Webinar “Real-time Data”, data.europa.eu Academy, 2022 <https://data.europa.eu/en/academy/real-time-data>`_
 
  - :mimetype:`text/html` `OGC SensorThings API as an INSPIRE download service <https://inspire.ec.europa.eu/good-practice/ogc-sensorthings-api-inspire-download-service>`_
+ 
+ 
+ 
+.. forum_italia::
+   :topic_id: 29824
+   :scope: document
