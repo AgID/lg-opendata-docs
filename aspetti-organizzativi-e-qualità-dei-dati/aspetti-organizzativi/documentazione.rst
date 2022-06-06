@@ -110,9 +110,4 @@ per il riutilizzo secondo quanto previsto dall’articolo 44 del **CAD**.
 
 
 
-.. [1]
-   v. https://github.com/italia/daf-ontologie-vocabolari-controllati.
-   Tale risorsa confluirà nel Catalogo Nazionale Dati per
-   l’interoperabilità semantica, il cui rilascio, secondo quanto
-   indicato nel Piano Triennale 2021-2023, è previsto per l’anno
-   corrente.
+.. [1] v. https://github.com/italia/daf-ontologie-vocabolari-controllati. Tale risorsa confluirà nel Catalogo Nazionale Dati per l’interoperabilità semantica, il cui rilascio, secondo quanto indicato nel Piano Triennale 2021-2023, è previsto per l’anno corrente.
