@@ -1,8 +1,8 @@
 **Allegato B** - Standard di riferimento e formati aperti
 ---------------------------------------------------------
 
-1. Standard di riferimento
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Standard di riferimento
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Come già indicato per i principi FAIR (v. par. :ref:`par-4-4`), per assicurare
 l’interoperabilità e consentire che dati e metadati possano essere
@@ -220,14 +220,14 @@ indicati nel cap. :ref:`cap-2`.
   - :mimetype:`application/pdf` `Architectures and Standards for Spatial Data Infrastructures and Digital Government, JRC Technical Report, 2020 <https://joinup.ec.europa.eu/sites/default/files/document/2020-09/jrc121025_jrc121025_architectures_and_standards_for_sdis_and_digital_government.pdf>`_
 
 
-2. Formati aperti per dati e documenti
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Formati aperti per dati e documenti
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-2.1 Formati aperti per i dati
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Formati aperti per i dati
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**2.1.1 CSV (Comma Separated Values)**
-''''''''''''''''''''''''''''''''''''''
+**CSV (Comma Separated Values)**
+''''''''''''''''''''''''''''''''
 
 È un formato di file testuale utilizzato per rappresentare informazioni
 con struttura tabellare. Le righe delle tabelle corrispondono a righe
@@ -282,8 +282,8 @@ un’opportuna intestazione e non inserire l’unità insieme al valore
 stesso. Per le unità dovrebbero essere utilizzati i codici (URI)
 derivati da un vocabolario controllato.
 
-**2.1.2 JSON (JavaScript Object Notation)**
-'''''''''''''''''''''''''''''''''''''''''''
+**JSON (JavaScript Object Notation)**
+'''''''''''''''''''''''''''''''''''''
 
 È un formato aperto per la rappresentazione e lo scambio di dati
 semi-strutturati, leggibile anche dagli utenti e che mantiene, rispetto
@@ -327,8 +327,8 @@ dovrebbero essere raggruppati semanticamente. Ciò migliora la
 leggibilità da parte degli esseri umani e può migliorare le prestazioni
 durante l’elaborazione del file.
 
-**2.1.3 XML (eXtensible Markup Language)**
-''''''''''''''''''''''''''''''''''''''''''
+**XML (eXtensible Markup Language)**
+''''''''''''''''''''''''''''''''''''
 
 È un linguaggio di marcatura standardizzato dal W3C usato per
 l’annotazione di documenti e per la costruzione di altri linguaggi più
@@ -374,8 +374,8 @@ da programmi o strumenti specifici utilizzati per l’elaborazione dei
 file. Questo permette all’utente di scegliere lo strumento che
 preferisce per il trattamento dei dati senza doverlo prima bonificare.
 
-**2.1.4 Serializzazioni RDF**
-'''''''''''''''''''''''''''''
+**Serializzazioni RDF**
+'''''''''''''''''''''''
 
 **N-triples**
 
@@ -433,8 +433,8 @@ l’elaborazione di RDF, riducono la verbosità e le dimensioni del file.
 2.2. Formati aperti più diffusi per i dati geografici
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**2.2.1 Shapefile**
-'''''''''''''''''''
+**Shapefile**
+'''''''''''''
 
 È il formato standard de-facto per la rappresentazione dei dati dei
 sistemi informativi geografici (GIS). I dati sono di tipo vettoriale. Lo
@@ -455,8 +455,8 @@ documento. Tenuto conto dell’ampio uso di tale formato per la
 rappresentazione dei dati geografici si ritiene opportuno includerlo
 comunque in questo elenco.
 
-**2.2.2 KML**
-'''''''''''''
+**KML**
+'''''''
 
 È un formato basato su XML per rappresentare dati geografici. Nato con
 Google, è diventato poi uno standard OGC. Le specifiche della versione
@@ -472,8 +472,8 @@ prestando attenzione o, eventualmente, accompagnando il dataset assieme
 ad un altro formato aperto per i dati geografici (ad esempio, .shp,
 .geojson).
 
-**2.2.3 GeoJSON**
-'''''''''''''''''
+**GeoJSON**
+'''''''''''
 
 È un formato aperto per la rappresentazione e l’interscambio dei dati
 territoriali in forma vettoriale, basato su JSON. Ogni dato è codificato
@@ -498,8 +498,8 @@ dati siano memorizzati con un sistema di riferimento di coordinate
 geografiche WGS 84, in latitudine e longitudine, nello stesso stile dei
 dati GPS.
 
-**2.2.4 GML (Geography Markup Language)**
-'''''''''''''''''''''''''''''''''''''''''
+**GML (Geography Markup Language)**
+'''''''''''''''''''''''''''''''''''
 
 È una grammatica XML che rappresenta un formato di scambio aperto per i
 dati territoriali. Definita originariamente da OGC, e diventata poi lo
@@ -509,8 +509,8 @@ delle classi concettuali definite in diversi Standard ISO della serie
 di misura, tipi di base, riferimenti temporali, caratteristiche, sistemi
 di riferimento, copertura.
 
-**2.2.5 GeoPackage**
-''''''''''''''''''''
+**GeoPackage**
+''''''''''''''
 
 È un formato aperto per la rappresentazione di dati geografici e può
 essere un’alternativa al suddetto formato shapefile. Esso supporta
@@ -520,11 +520,11 @@ un unico file diversi dati geografici, sia di tipo vettoriale che
 raster, che possono essere gestiti anche tramite apposite interrogazioni
 SQL. Lo standard è riconosciuto dall’Open Geospatial Consortium.
 
-2.3. Formati aperti per i documenti
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Formati aperti per i documenti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**2.3.1 ODF (Open Document Format)**
-''''''''''''''''''''''''''''''''''''
+**ODF (Open Document Format)**
+''''''''''''''''''''''''''''''
 
 È uno standard dell’OASIS che specifica le caratteristiche di un formato
 per documenti digitali basato su XML, indipendente dall’applicazione e
@@ -548,8 +548,8 @@ di presentazione in alcune suite per l’automazione d’ufficio come
 OpenOffice.org e LibreOffice; è supportato da altre come Microsoft
 Office, Google Drive e IBM Lotus.
 
-**2.3.2 PDF**
-'''''''''''''
+**PDF**
+'''''''
 
 È un formato aperto creato da Adobe per la rappresentazione di documenti
 contenenti testo e immagini che sia indipendente dalla piattaforma di
@@ -563,8 +563,8 @@ umano richiesto per la loro elaborazione è molto elevato (dati
 rilasciati in formato PDF con una licenza aperta rappresentano solo il
 primo livello del modello dei dati aperti).
 
-**2.3.3 Akoma Ntoso**
-'''''''''''''''''''''
+**Akoma Ntoso**
+'''''''''''''''
 
 È un linguaggio basato su XML per la rappresentazione di documenti
 giuridici. Nel 2017 è diventato una specifica OASIS.
