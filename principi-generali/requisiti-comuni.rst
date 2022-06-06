@@ -164,3 +164,9 @@ supplementari in attuazione di quanto disposto dal Decreto.
 
 
 .. [1] Publications Office of the European Union, *Data.europa.eu - Data Quality Guidelines*, 2021 disponibile al seguente link: https://op.europa.eu/it/publication-detail/-/publication/023ce8e4-50c8-11ec-91ac-01aa75ed71a1/language-en
+
+
+
+.. forum_italia::
+   :topic_id: 29812
+   :scope: document
