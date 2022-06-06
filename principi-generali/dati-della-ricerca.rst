@@ -107,7 +107,7 @@ riutilizzo è consentito.
 
 
 La necessità che i dati della ricerca seguano e siano conformi ai
-principi FAIR è ribadita anche dal Piano nazionale per la ricerca (PNR)
+principi FAIR è ribadita anche dal Programma nazionale per la ricerca (PNR)
 2021-2027 [5]_, che considera tale conformità come uno degli “strumenti”
 per l’attuazione della scienza aperta. Si legge: “\ *I dati come tutti i
 risultati della ricerca devono innanzitutto essere conformi ai criteri
@@ -166,26 +166,20 @@ dati della ricerca da rendere disponibili per il riutilizzo.
   - :mimetype:`application/pdf` `Piano Nazionale Infrastrutture di Ricerca (PNIR) 2021 – 2027 <https://www.mur.gov.it/it/atti-e-normativa/decreto-ministeriale-n1082-del-10-09-2021>`_
 
 
-.. [1]
-   v. legge 22 aprile 1941, n. 633
+.. [1] v. legge 22 aprile 1941, n. 633
 
-.. [2]
-   v. decreto legislativo 10 febbraio 2005, n. 30
+.. [2] v. decreto legislativo 10 febbraio 2005, n. 30
 
-.. [3]
-   https://force11.org/info/the-fair-data-principles/
+.. [3] https://force11.org/info/the-fair-data-principles/
 
-.. [4]
-   Nella definizione dei requisiti, si è fatto riferimento alla guida
+.. [4] Nella definizione dei requisiti, si è fatto riferimento alla guida
    “How to make your data FAIR” pubblicata nell’ambito dell’iniziativa
    OpenAIRE (v. https://www.openaire.eu/how-to-make-your-data-fair) e la
    checklist “How fair are your data?” creata da Sarah Jones e Marjan
    Grootveld (v. https://zenodo.org/record/5111307#.YhEfAd_SKCQ).
 
-.. [5]
-   https://www.mur.gov.it/sites/default/files/2021-01/Pnr2021-27.pdf
+.. [5] https://www.mur.gov.it/sites/default/files/2021-01/Pnr2021-27.pdf
 
-.. [6]
-   Piano Nazionale per le Infrastrutture di Ricerca 2021-2027 adottato
+.. [6] Piano Nazionale per le Infrastrutture di Ricerca 2021-2027 adottato
    con DM n. 1082 del 10/09/2021 (v.
    https://www.mur.gov.it/it/atti-e-normativa/decreto-ministeriale-n1082-del-10-09-2021).
