@@ -183,3 +183,9 @@ dati della ricerca da rendere disponibili per il riutilizzo.
 .. [6] Piano Nazionale per le Infrastrutture di Ricerca 2021-2027 adottato
    con DM n. 1082 del 10/09/2021 (v.
    https://www.mur.gov.it/it/atti-e-normativa/decreto-ministeriale-n1082-del-10-09-2021).
+   
+   
+   
+.. forum_italia::
+   :topic_id: 29827
+   :scope: document
