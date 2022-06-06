@@ -99,3 +99,9 @@ il numero di stelle raggiungibile.
    dati.
 
 .. [1] Rivisitazione della `figura disponibile sul web <http://5stardata.info/en/>`__
+
+
+
+.. forum_italia::
+   :topic_id: 29848
+   :scope: document
