@@ -430,8 +430,8 @@ reperibilità.
 Sebbene gli spazi dei nomi non siano necessari per
 l’elaborazione di RDF, riducono la verbosità e le dimensioni del file.
 
-2.2. Formati aperti più diffusi per i dati geografici
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Formati aperti più diffusi per i dati geografici
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Shapefile**
 '''''''''''''
