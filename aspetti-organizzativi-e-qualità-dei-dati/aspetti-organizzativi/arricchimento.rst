@@ -100,8 +100,4 @@ semantico per poter governare i processi di gestione dei dati.
 
 
 
-.. [1]
-    Tale risorsa confluirà nel Catalogo Nazionale
-   Dati per l’interoperabilità semantica, il cui rilascio, secondo
-   quanto indicato nel Piano Triennale 2021-2023, è previsto nell’anno
-   corrente.
+.. [1] Tale risorsa confluirà nel Catalogo Nazionale Dati per l’interoperabilità semantica, il cui rilascio, secondo quanto indicato nel Piano Triennale 2021-2023, è previsto nell’anno corrente.
