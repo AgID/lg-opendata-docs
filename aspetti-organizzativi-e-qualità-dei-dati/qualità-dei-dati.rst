@@ -238,3 +238,9 @@ citate innanzi.
 .. [1] https://www.agid.gov.it/sites/default/files/repository_files/circolari/dt_cs_n.68_-_2013dig_-regole_tecniche_basi_dati_critiche_art_2bis_dl_179-2012_sito.pdf
 
 .. [2] https://inspire.ec.europa.eu/Technical-Guidelines/Data-Specifications/2892
+
+
+
+.. forum_italia::
+   :topic_id: 29832
+   :scope: document
