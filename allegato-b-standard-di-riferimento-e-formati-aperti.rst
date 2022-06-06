@@ -25,7 +25,6 @@ principali standard di riferimento. In aggiunta a quelli riportati, sono
 da considerare i documenti tecnici (come, per es., le Linee Guida)
 indicati nel cap. :ref:`cap-2`.
 
--
 
 +-------------+-------------+-------------+-------------+-------------+
 | Acronimo/   | Titolo      | Organismo   | URL         | Note        |
