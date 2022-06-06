@@ -161,6 +161,10 @@ nel Requisito 7, e nel caso dei **dati della ricerca** (v. par.
  - :mimetype:`application/pdf` `Linee Guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale, Ministero della Cultura (in fase di pubblicazione)`_
 
 
-.. [1]
-    v.
-   https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52014XC0724(01)&from=PT
+.. [1] https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52014XC0724(01)&from=PT
+
+
+
+.. forum_italia::
+   :topic_id: 29834
+   :scope: document
