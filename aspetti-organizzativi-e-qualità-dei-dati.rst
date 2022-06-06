@@ -20,16 +20,7 @@ art. 5), nella nuova formulazione introdotta con **D-LGS-200-2021**.
   :caption: Indice dei contenuti
 
   aspetti-organizzativi-e-qualità-dei-dati/aspetti-organizzativi.rst
-  aspetti-organizzativi-e-qualità-dei-dati/ruoli-e-responsabilità.rst
-  aspetti-organizzativi-e-qualità-dei-dati/individuazione-e-selezione.rst
-  aspetti-organizzativi-e-qualità-dei-dati/analisi.rst
-  aspetti-organizzativi-e-qualità-dei-dati/arricchimento.rst
-  aspetti-organizzativi-e-qualità-dei-dati/documentazione.rst
-  aspetti-organizzativi-e-qualità-dei-dati/validazione.rst
-  aspetti-organizzativi-e-qualità-dei-dati/pubblicazione.rst
   aspetti-organizzativi-e-qualità-dei-dati/richieste-di-riutilizzo.rst
   aspetti-organizzativi-e-qualità-dei-dati/qualità-dei-dati.rst
 
-.. [1]
-
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html
+.. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html
