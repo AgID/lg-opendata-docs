@@ -12,8 +12,8 @@ fornisce una scala per misurare l’apertura dei dati.
    Modello a cinque stelle per i dati aperti [1]_
 
 
-1. I livelli del modello per i dati aperti
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I livelli del modello per i dati aperti
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per ciascun livello, di seguito vengono indicate le caratteristiche
 principali in termini di informazione, accesso e servizi.
@@ -21,8 +21,8 @@ principali in termini di informazione, accesso e servizi.
 La :ref:`Figura <formati-dati-aperti>` riportata al par. :ref:`par-4-1`, indica, per ciascun formato,
 il numero di stelle raggiungibile.
 
-1.1 **Livello 1 (1 stella)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Livello 1 (1 stella)**
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  **Informazione**: Dati disponibili tramite una licenza aperta e
    inclusi in documenti leggibili e interpretabili solo grazie a un
@@ -35,8 +35,8 @@ il numero di stelle raggiungibile.
    elaborazione dei possibili dati consentono di sviluppare servizi con
    l’informazione disponibile in questo livello;
 
-1.2 **Livello 2 (2 stelle)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Livello 2 (2 stelle)**
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  **Informazione:** Dati disponibili in forma strutturata e con licenza
    aperta. Tuttavia, i formati sono proprietari (per es., Excel) e un
@@ -50,8 +50,8 @@ il numero di stelle raggiungibile.
 -  **Servizi:** Servizi ad-hoc che devono incorporare i dati per
    consentire un accesso diretto via Web agli stessi;
 
-1.3 **Livello 3 (3 stelle)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Livello 3 (3 stelle)**
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  **Informazione**: Dati con caratteristiche del livello precedente ma
    in un formato non proprietario (per es., CSV, JSON, geoJSON). I dati
@@ -65,8 +65,8 @@ il numero di stelle raggiungibile.
 -  **Servizi**: Servizi ad-hoc che devono incorporare i dati per
    consentire un accesso diretto via Web agli stessi;
 
-1.4 **Livello 4 (4 stelle)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Livello 4 (4 stelle)**
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  **Informazione**: Dati con caratteristiche del livello precedente ma
    esposti usando standard W3C quali RDF e SPARQL I dati sono descritti
@@ -79,8 +79,8 @@ il numero di stelle raggiungibile.
 -  **Servizi**: Servizi, anche per dispositivi mobili, che sfruttano
    accessi diretti a Web per reperire i dati di interesse;
 
-1.5 **Livello 5 (5 stelle)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Livello 5 (5 stelle)**
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  **Informazione**: Dati con caratteristiche del livello precedente ma
    collegati a quelli esposti da altre fonti (i.e., Linked Open Data). I
