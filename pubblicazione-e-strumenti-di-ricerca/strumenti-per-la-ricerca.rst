@@ -198,4 +198,4 @@ sono disponibili in modalità «\ *as a service*\ ».
 
 .. [4] Decisione di esecuzione (UE) 2019/1372 della Commissione del 19 agosto 2019 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda il monitoraggio e la comunicazione
 
-.. [5] v. https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/data-theme
+.. [5] https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/data-theme
