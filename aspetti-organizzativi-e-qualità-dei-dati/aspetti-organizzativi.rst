@@ -13,10 +13,10 @@ alle diverse realtà amministrative.
 
 La rappresentazione di tale percorso è un adattamento dell’analogo
 processo definito nel documento “\ *Data quality guidelines*\ ”
-dell’Ufficio delle Pubblicazioni della Commissione Europea [1]_. Uno
+dell’Ufficio delle Pubblicazioni della Commissione Europea. Uno
 schema analogo, sebbene riferito ai linked open data, è definito anche
 nelle *Linee Guida per l’interoperabilità semantica attraverso i Linked
-Open Data*\  [2]_. A tale proposito, **si raccomanda di seguire le
+Open Data*\  [1]_. A tale proposito, **si raccomanda di seguire le
 suddette Linee Guida per il processo di produzione di Linked Open
 Data**.
 
@@ -55,11 +55,6 @@ ottimizzazione dei dati basata sulle effettive esigenze degli utenti.
   aspetti-organizzativi/documentazione.rst
   aspetti-organizzativi/validazione.rst
   aspetti-organizzativi/pubblicazione.rst
+  
 
-
-.. [1]
-    v. nota 2
-
-.. [2]
-    v.
-   https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf
+.. [1] v. https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf
