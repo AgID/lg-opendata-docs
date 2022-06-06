@@ -22,3 +22,9 @@ applicate agli altri soggetti che riutilizzano quei documenti.
 La Direttiva suggerisce altresì che può essere anche seguita una
 **politica di tariffe differenziate** per il riutilizzo a fini
 commerciali e non commerciali.
+
+
+
+.. forum_italia::
+   :topic_id: 29835
+   :scope: document
