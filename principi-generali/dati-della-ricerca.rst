@@ -166,9 +166,9 @@ dati della ricerca da rendere disponibili per il riutilizzo.
   - :mimetype:`application/pdf` `Piano Nazionale Infrastrutture di Ricerca (PNIR) 2021 – 2027 <https://www.mur.gov.it/it/atti-e-normativa/decreto-ministeriale-n1082-del-10-09-2021>`_
 
 
-.. [1] v. legge 22 aprile 1941, n. 633
+.. [1] legge 22 aprile 1941, n. 633
 
-.. [2] v. decreto legislativo 10 febbraio 2005, n. 30
+.. [2] decreto legislativo 10 febbraio 2005, n. 30
 
 .. [3] https://force11.org/info/the-fair-data-principles/
 
