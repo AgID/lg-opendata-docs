@@ -569,25 +569,13 @@ primo livello del modello dei dati aperti).
 È un linguaggio basato su XML per la rappresentazione di documenti
 giuridici. Nel 2017 è diventato una specifica OASIS.
 
-.. [1]
-    Tratte dal documento “data.europa.eu – Data quality guidelines”,
-   indicato nel box “Risorse utili”, a cui si rimanda per ulteriori
-   approfondimenti.
+.. [1] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
 
-.. [2]
-    Tratte dal documento “data.europa.eu – Data quality guidelines”,
-   indicato nel box “Risorse utili”, a cui si rimanda per ulteriori
-   approfondimenti.
+.. [2] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
 
-.. [3]
-    Tratte dal documento “data.europa.eu – Data quality guidelines”,
-   indicato nel box “Risorse utili”, a cui si rimanda per ulteriori
-   approfondimenti.
+.. [3] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
 
-.. [4]
-    Tratte dal documento “data.europa.eu – Data quality guidelines”,
-   indicato nel box “Risorse utili”, a cui si rimanda per ulteriori
-   approfondimenti.
+.. [4] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
 
 
 
