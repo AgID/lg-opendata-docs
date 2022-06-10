@@ -518,12 +518,14 @@ primo livello del modello dei dati aperti).
 È un linguaggio basato su XML per la rappresentazione di documenti
 giuridici. Nel 2017 è diventato una specifica OASIS.
 
+
 Altri formati per i dati di elevato valore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Per le serie di dati di elevato valore, la bozza di Regolamento UE dispone che, in generale, si debba utilizzare un formato aperto e leggibile meccanicamente riconosciuto nell’Unione o a livello internazionale, indicazione che può trovare attuazione seguendo il REQUISITO 2 e quanto riportato innanzi nel presente allegato.
 
 Per alcune categorie tematiche, il predetto Regolamento indica la possibilità di utilizzare anche alcuni formati specifici che sono riportati di seguito.
+
 
 Formati per dati meteorologici
 ''''''''''''''''''''''''''''''
@@ -539,13 +541,27 @@ Per i **dati climatici**, possono essere utilizzati i formati **NetCDF** e **JSO
 
 Per gli **avvisi meteo** possono essere utilizzati i seguenti formati:
 
-  -	**CAP (Common Alerting Protocol)**, formato di dati basato su XML per lo scambio di avvisi pubblici ed emergenze tra tecnologie di allerta;
+  -	**CAP (Common Alerting Protocol)**, formato di dati basato su XML per lo scambio di avvisi pubblici ed emergenze tra tecnologie di allerta [8]_;
   
-  -	**RSS (Really Simple Syndication)/Atom**, formati di dati basati su XML per distribuire contenuti come elenchi di informazioni conosciuti come “feed”.
+  -	**RSS (Really Simple Syndication)/Atom**, formati di dati basati su XML per distribuire contenuti come elenchi di informazioni conosciuti come “feed” [9]_.
   
-Per i **dati radar**, oltre al **JSON**, può essere utilizzato il formato **HDF5 (Hierarchical Data Format)**, progettato per archiviare e organizzare grandi quantità di dati.
+Per i **dati radar**, oltre al **JSON**, può essere utilizzato il formato **HDF5 (Hierarchical Data Format)**, progettato per archiviare e organizzare grandi quantità di dati [10]_.
 
-Per i **dati del modello NWP (Numerical weather prediction)**, oltre al **JSON** e a **NetCDF**, si può utilizzare il formato **GRIB (General Representation of fields In Binary)**, rappresentazione binaria di dati risultanti da un’osservazione o da una simulazione su modello numerico di una proprietà osservabile in un dominio spaziale e temporale su un sistema di riferimento geospaziale o celeste .
+Per i **dati del modello NWP (Numerical weather prediction)**, oltre al **JSON** e a **NetCDF**, si può utilizzare il formato **GRIB (General Representation of fields In Binary)**, rappresentazione binaria di dati risultanti da un’osservazione o da una simulazione su modello numerico di una proprietà osservabile in un dominio spaziale e temporale su un sistema di riferimento geospaziale o celeste [11]_.
+
+
+Formati per dati statistici
+'''''''''''''''''''''''''''
+
+Per i **dati statistici** il Regolamento indica che, oltre a **CSV**, **JSON** e qualsiasi altro formato aperto e leggibile meccanicamente, si può utilizzare anche **SDMX (Statistical Data and Metadata eXchange)**, uno standard ISO progettato per descrivere dati statistici e relativi metadati, normalizzare il loro scambio e migliorare la loro condivisione tra organizzazioni statistiche e simili [12]_.
+
+
+Formati per i dati relativi alle imprese e alla proprietà delle imprese
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Oltre all’indicazione di utilizzare qualsiasi formato che sia aperto e leggibile meccanicamente, per i documenti che rientrano nel campo di applicazione del Regolamento Delegato (UE) 2018/81579 della Commissione il Regolamento indica di utilizzare il formato **XHTML (Xtensible HyperText Markup Language)**, un linguaggio di marcatura per creare pagine web che utilizza la sintassi XML [13]_.
+
+
 
 
 .. [1] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
@@ -560,7 +576,19 @@ Per i **dati del modello NWP (Numerical weather prediction)**, oltre al **JSON**
 
 .. [6] https://www.unidata.ucar.edu/software/netcdf/
 
-..[7
+.. [7] https://datatracker.ietf.org/doc/html/rfc20 
+
+.. [8] http://docs.oasis-open.org/emergency/cap/v1.2/CAP-v1.2-os.pdf
+
+.. [9] Per RSS v. https://www.rssboard.org/rss-2-0-1, per Atom v. https://datatracker.ietf.org/doc/html/rfc4287
+
+.. [10] https://www.hdfgroup.org/solutions/hdf5/
+
+.. [11] https://old.wmo.int/extranet/pages/prog/www/WMOCodes/ManualonCodes.html#Codes
+
+.. [12] https://sdmx.org/?page_id=5008
+
+.. [13] https://www.w3.org/TR/2018/SPSD-xhtml-basic-20180327/
 
 
 
