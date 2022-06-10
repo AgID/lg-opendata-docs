@@ -152,7 +152,21 @@ Requisiti
 |                 | del titolare          |                 |                 |
 |                 | dei dati.             |                 |                 |
 +-----------------+-----------------------+-----------------+-----------------+
-| 7               | Le serie di           | Pubbliche       | Art. 12-bis c.  |
+| 7               | Le serie di           | Pubbliche       | Art. 6 c. 8     |
+|                 | dati di elevato       | Amministrazioni |                 |
+|                 | valore devono         |                 | Art. 12-bis c.  |
+|                 | essere messe a        | Organismi di    | 1               |
+|                 | disposizione          | diritto         |                 |
+|                 | per il                | pubblico        |                 |
+|                 | riutilizzo            |                 |                 |
+|                 | attraverso API        | Imprese         |                 |
+|                 | coerenti con il       | pubbliche       |                 |
+|                 | Requisito 27 e        |                 |                 |
+|                 | attraverso            |                 |                 |
+|                 | download in           |                 |                 |
+|                 | blocco.               |                 |                 |
++-----------------+-----------------------+-----------------+-----------------+
+| 8               | Le serie di           | Pubbliche       | Art. 12-bis c.  |
 |                 | dati di elevato       | Amministrazioni | 1               |
 |                 | valore,               |                 |                 |
 |                 | individuate da        | Organismi di    |                 |
@@ -248,20 +262,6 @@ Requisiti
 |                 |   della               |                 |                 |
 |                 |   Commissione         |                 |                 |
 |                 |   Europea.            |                 |                 |
-+-----------------+-----------------------+-----------------+-----------------+
-| 8               | Le serie di           | Pubbliche       | Art. 6 c. 8     |
-|                 | dati di elevato       | Amministrazioni |                 |
-|                 | valore devono         |                 | Art. 12-bis c.  |
-|                 | essere messe a        | Organismi di    | 1               |
-|                 | disposizione          | diritto         |                 |
-|                 | per il                | pubblico        |                 |
-|                 | riutilizzo            |                 |                 |
-|                 | attraverso API        | Imprese         |                 |
-|                 | coerenti con il       | pubbliche       |                 |
-|                 | Requisito 27 e        |                 |                 |
-|                 | attraverso            |                 |                 |
-|                 | download in           |                 |                 |
-|                 | blocco.               |                 |                 |
 +-----------------+-----------------------+-----------------+-----------------+
 | 9               | I dati della          | Pubbliche       | Art. 7 c. 9-bis |
 |                 | ricerca DEVONO        | Amministrazioni |                 |
