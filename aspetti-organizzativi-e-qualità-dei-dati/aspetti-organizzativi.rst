@@ -454,6 +454,8 @@ per i titolari di dati. Considerato, inoltre, che gli URI possono essere
 deferenziati (v. par. :ref:`par-7-1-3`), ciò consente di risolvere l’etichetta
 in qualsiasi lingua supportata dal vocabolario controllato.
 
+In caso di dati di elevato valore (v. par. :ref:`par-4-3`), per specifiche categorie tematiche (ovvero osservazione della terra e ambiente, statistica, imprese e proprietà delle imprese, mobilità) la bozza di Regolamento UE indica esplicitamente che i set di dati devono utilizzare, ove possibile, vocabolari controllati e tassonomie documentati pubblicamente e riconosciuti nell’Unione o a livello internazionale.
+
 AgID rende disponibili i vocabolari controllati definiti nell’ambito
 della rete Ontopia [3]_ e, per i dati territoriali, del Sistema di
 Registri INSPIRE Italia (v. box “Risorse utili”).
@@ -604,6 +606,8 @@ adottati, specie se in ambito europeo. Solo in caso contrario, l’ente
 che pubblica i dati può definire e pubblicare il proprio modello dati,
 ontologia o vocabolario controllato al fine di definire concetti che non
 sono stati specificati altrove.
+
+In caso di dati di elevato valore (v. par. :ref:`par-4-3`), per tutte le categorie tematiche tranne quella relativa ai dati geospaziali (per la quale si applicano i modelli dati INSPIRE), la bozza di Regolamento UE indica esplicitamente che i set di dati devono essere descritti in una documentazione online completa e pubblicamente disponibile che contenga almeno la definizione della struttura e della semantica dei dati.
 
 **Conservazione e storicizzazione** - I dataset rilasciati costituiscono
 non solo una risorsa per la collettività, ma un prezioso patrimonio
