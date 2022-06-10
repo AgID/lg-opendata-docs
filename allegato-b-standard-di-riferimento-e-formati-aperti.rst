@@ -518,6 +518,36 @@ primo livello del modello dei dati aperti).
 È un linguaggio basato su XML per la rappresentazione di documenti
 giuridici. Nel 2017 è diventato una specifica OASIS.
 
+Altri formati per i dati di elevato valore
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Per le serie di dati di elevato valore, la bozza di Regolamento UE dispone che, in generale, si debba utilizzare un formato aperto e leggibile meccanicamente riconosciuto nell’Unione o a livello internazionale, indicazione che può trovare attuazione seguendo il REQUISITO 2 e quanto riportato innanzi nel presente allegato.
+
+Per alcune categorie tematiche, il predetto Regolamento indica la possibilità di utilizzare anche alcuni formati specifici che sono riportati di seguito.
+
+Formati per dati meteorologici
+''''''''''''''''''''''''''''''
+
+Per i **dati di osservazione misurati dalle stazioni meteorologiche**, oltre al **JSON** da utilizzare per dati orari, possono essere utilizzati i seguenti formati:
+  -	**BUFR (Binary Universal Form for the Representation of meteorological data)**, formato di dati gestito dall’Organizzazione Meteorologica Mondiale (WMO – World   Meteorological Organization) [5]_;
+  
+  -	**NetCDF (Network Common Data Form)**, insieme di librerie software e formati di dati indipendenti dalla macchina che supportano la creazione, l’accesso e la condivisione di dati scientifici *array-oriented* [6]_;
+  
+  -	**ASCII (American Standard Code for Information Interchange)**, codice per la codifica dei caratteri da utilizzare per lo scambio generale di informazioni tra sistemi di elaborazione e comunicazione [7]_.
+  
+Per i **dati climatici**, possono essere utilizzati i formati **NetCDF** e **JSON**.
+
+Per gli **avvisi meteo** possono essere utilizzati i seguenti formati:
+
+  -	**CAP (Common Alerting Protocol)**, formato di dati basato su XML per lo scambio di avvisi pubblici ed emergenze tra tecnologie di allerta;
+  
+  -	**RSS (Really Simple Syndication)/Atom**, formati di dati basati su XML per distribuire contenuti come elenchi di informazioni conosciuti come “feed”.
+  
+Per i **dati radar**, oltre al **JSON**, può essere utilizzato il formato **HDF5 (Hierarchical Data Format)**, progettato per archiviare e organizzare grandi quantità di dati.
+
+Per i **dati del modello NWP (Numerical weather prediction)**, oltre al **JSON** e a **NetCDF**, si può utilizzare il formato **GRIB (General Representation of fields In Binary)**, rappresentazione binaria di dati risultanti da un’osservazione o da una simulazione su modello numerico di una proprietà osservabile in un dominio spaziale e temporale su un sistema di riferimento geospaziale o celeste .
+
+
 .. [1] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
 
 .. [2] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
@@ -525,6 +555,12 @@ giuridici. Nel 2017 è diventato una specifica OASIS.
 .. [3] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
 
 .. [4] Tratte dal documento “data.europa.eu – Data quality guidelines”, indicato nel box “Risorse utili”, a cui si rimanda per ulteriori approfondimenti.
+
+.. [5] https://community.wmo.int/activity-areas/wmo-codes/manual-codes/bufr-edition-3-and-crex-edition-1
+
+.. [6] https://www.unidata.ucar.edu/software/netcdf/
+
+..[7
 
 
 
