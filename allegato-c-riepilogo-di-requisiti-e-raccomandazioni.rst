@@ -188,68 +188,66 @@ Requisiti
 |                 |    di cui       |                 |                 |
 |                 |    sopra;       |                 |                 |
 |                 |                 |                 |                 |
-|                 | -  in possesso  |                 |                 |
-|                 |    di           |                 |                 |
-|                 |    biblioteche, |                 |                 |
-|                 |    comprese le  |                 |                 |
-|                 |    biblioteche  |                 |                 |
-|                 |    universitari |                 |                 |
-|                 | e,              |                 |                 |
-|                 |    musei e      |                 |                 |
-|                 |    archivi;     |                 |                 |
+|                 | - in possesso   |                 |                 |
+|                 |   di            |                 |                 |
+|                 |   biblioteche,  |                 |                 |
+|                 |   comprese le   |                 |                 |
+|                 |   biblioteche   |                 |                 |
+|                 |   universitarie,|                 |                 |
+|                 |   musei e       |                 |                 |
+|                 |   archivi;      |                 |                 |
 |                 |                 |                 |                 |
-|                 | -  che, in      |                 |                 |
-|                 |    possesso     |                 |                 |
-|                 |    degli enti   |                 |                 |
-|                 |    pubblici,    |                 |                 |
-|                 |    generano     |                 |                 |
-|                 |    utili per    |                 |                 |
-|                 |    coprire una  |                 |                 |
-|                 |    parte        |                 |                 |
-|                 |    sostanziale  |                 |                 |
-|                 |    dei costi    |                 |                 |
-|                 |    inerenti     |                 |                 |
-|                 |    allo         |                 |                 |
-|                 |    svolgimento  |                 |                 |
-|                 |    dei compiti  |                 |                 |
-|                 |    di servizio  |                 |                 |
-|                 |    pubblico e   |                 |                 |
-|                 |    la loro      |                 |                 |
-|                 |    messa a      |                 |                 |
-|                 |    disposizione |                 |                 |
-|                 |    gratuita     |                 |                 |
-|                 |    avrebbe un   |                 |                 |
-|                 |    impatto      |                 |                 |
-|                 |    sostanziale  |                 |                 |
-|                 |    sul bilancio |                 |                 |
-|                 |    di tali      |                 |                 |
-|                 |    enti. In tal |                 |                 |
-|                 |    caso la      |                 |                 |
-|                 |    possibile    |                 |                 |
-|                 |    esenzione    |                 |                 |
-|                 |    dall’obbligo |                 |                 |
-|                 |    di mettere a |                 |                 |
-|                 |    disposizione |                 |                 |
-|                 |    gratuitament |                 |                 |
-|                 | e               |                 |                 |
-|                 |    le serie di  |                 |                 |
-|                 |    dati di      |                 |                 |
-|                 |    valore       |                 |                 |
-|                 |    elevato deve |                 |                 |
-|                 |    durare per   |                 |                 |
-|                 |    un periodo   |                 |                 |
-|                 |    non          |                 |                 |
-|                 |    superiore ai |                 |                 |
-|                 |    due anni     |                 |                 |
-|                 |    dall’entrata |                 |                 |
-|                 |    in vigore    |                 |                 |
-|                 |    del          |                 |                 |
-|                 |    pertinente   |                 |                 |
-|                 |    atto di      |                 |                 |
-|                 |    esecuzione   |                 |                 |
-|                 |    della        |                 |                 |
-|                 |    Commissione  |                 |                 |
-|                 |    Europea.     |                 |                 |
+|                 | - che, in       |                 |                 |
+|                 |   possesso      |                 |                 |
+|                 |   degli enti    |                 |                 |
+|                 |   pubblici,     |                 |                 |
+|                 |   generano      |                 |                 |
+|                 |   utili per     |                 |                 |
+|                 |   coprire una   |                 |                 |
+|                 |   parte         |                 |                 |
+|                 |   sostanziale   |                 |                 |
+|                 |   dei costi     |                 |                 |
+|                 |   inerenti      |                 |                 |
+|                 |   allo          |                 |                 |
+|                 |   svolgimento   |                 |                 |
+|                 |   dei compiti   |                 |                 |
+|                 |   di servizio   |                 |                 |
+|                 |   pubblico e    |                 |                 |
+|                 |   la loro       |                 |                 |
+|                 |   messa a       |                 |                 |
+|                 |   disposizione  |                 |                 |
+|                 |   gratuita      |                 |                 |
+|                 |   avrebbe un    |                 |                 |
+|                 |   impatto       |                 |                 |
+|                 |   sostanziale   |                 |                 |
+|                 |   sul bilancio  |                 |                 |
+|                 |   di tali       |                 |                 |
+|                 |   enti. In tal  |                 |                 |
+|                 |   caso la       |                 |                 |
+|                 |   possibile     |                 |                 |
+|                 |   esenzione     |                 |                 |
+|                 |   dall’obbligo  |                 |                 |
+|                 |   di mettere a  |                 |                 |
+|                 |   disposizione  |                 |                 |
+|                 |   gratuitamente |                 |                 |
+|                 |   le serie di   |                 |                 |
+|                 |   dati di       |                 |                 |
+|                 |   valore        |                 |                 |
+|                 |   elevato deve  |                 |                 |
+|                 |   durare per    |                 |                 |
+|                 |   un periodo    |                 |                 |
+|                 |   non           |                 |                 |
+|                 |   superiore ai  |                 |                 |
+|                 |   due anni      |                 |                 |
+|                 |   dall’entrata  |                 |                 |
+|                 |   in vigore     |                 |                 |
+|                 |   del           |                 |                 |
+|                 |   pertinente    |                 |                 |
+|                 |   atto di       |                 |                 |
+|                 |   esecuzione    |                 |                 |
+|                 |   della         |                 |                 |
+|                 |   Commissione   |                 |                 |
+|                 |   Europea.      |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | 8               | Le serie di     | Pubbliche       | Art. 6 c. 8     |
 |                 | dati di elevato | Amministrazioni |                 |
