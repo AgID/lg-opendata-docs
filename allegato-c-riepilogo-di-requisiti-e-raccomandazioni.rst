@@ -279,59 +279,57 @@ Requisiti
 |                 | dati reperibili | Amministrazioni |                 |
 |                 | è necessario:   |                 |                 |
 |                 |                 | Organismi di    |                 |
-|                 | -  documentare  | diritto         |                 |
-|                 |    i dati con   | pubblico        |                 |
-|                 |    metadati     |                 |                 |
-|                 |    dettagliati  | Imprese         |                 |
-|                 |    secondo il   | pubbliche       |                 |
-|                 |    Requisito 15 |                 |                 |
-|                 |    e il         |                 |                 |
-|                 |    Requisito    |                 |                 |
-|                 |    16;          |                 |                 |
+|                 | - documentare   | diritto         |                 |
+|                 |   i dati con    | pubblico        |                 |
+|                 |   metadati      |                 |                 |
+|                 |   dettagliati   | Imprese         |                 |
+|                 |   secondo il    | pubbliche       |                 |
+|                 |   Requisito 15  |                 |                 |
+|                 |   e il          |                 |                 |
+|                 |   Requisito     |                 |                 |
+|                 |   16;           |                 |                 |
 |                 |                 |                 |                 |
-|                 | -  assegnare a  |                 |                 |
-|                 |    dati e       |                 |                 |
-|                 |    metadati un  |                 |                 |
-|                 |    identificato |                 |                 |
-|                 | re              |                 |                 |
-|                 |    univoco e    |                 |                 |
-|                 |    persistente  |                 |                 |
-|                 |    (per es.     |                 |                 |
-|                 |    DOI);        |                 |                 |
+|                 | - assegnare a   |                 |                 |
+|                 |   dati e        |                 |                 |
+|                 |   metadati un   |                 |                 |
+|                 |   identificatore|                 |                 |
+|                 |   univoco e     |                 |                 |
+|                 |   persistente   |                 |                 |
+|                 |   (per es.      |                 |                 |
+|                 |   DOI);         |                 |                 |
 |                 |                 |                 |                 |
-|                 | -  rendere      |                 |                 |
-|                 |    disponibili  |                 |                 |
-|                 |    online i     |                 |                 |
-|                 |    metadati     |                 |                 |
-|                 |    attraverso   |                 |                 |
-|                 |    una risorsa  |                 |                 |
-|                 |    consultabile |                 |                 |
-|                 | ,               |                 |                 |
-|                 |    come per     |                 |                 |
-|                 |    esempio un   |                 |                 |
-|                 |    catalogo o   |                 |                 |
-|                 |    un           |                 |                 |
-|                 |    repository,  |                 |                 |
-|                 |    seguendo il  |                 |                 |
-|                 |    Requisito 29 |                 |                 |
-|                 |    e il         |                 |                 |
-|                 |    Requisito    |                 |                 |
-|                 |    30;          |                 |                 |
+|                 | - rendere       |                 |                 |
+|                 |   disponibili   |                 |                 |
+|                 |   online i      |                 |                 |
+|                 |   metadati      |                 |                 |
+|                 |   attraverso    |                 |                 |
+|                 |   una risorsa   |                 |                 |
+|                 |   consultabile, |                 |                 |
+|                 |   come per      |                 |                 |
+|                 |   esempio un    |                 |                 |
+|                 |   catalogo o    |                 |                 |
+|                 |   un            |                 |                 |
+|                 |   repository,   |                 |                 |
+|                 |   seguendo il   |                 |                 |
+|                 |   Requisito 29  |                 |                 |
+|                 |   e il          |                 |                 |
+|                 |   Requisito     |                 |                 |
+|                 |   30;           |                 |                 |
 |                 |                 |                 |                 |
-|                 | -  specificare  |                 |                 |
-|                 |    l’identifica |                 |                 |
-|                 | tore            |                 |                 |
-|                 |    del dato nei |                 |                 |
-|                 |    metadati     |                 |                 |
-|                 |    seguendo le  |                 |                 |
-|                 |    indicazioni  |                 |                 |
-|                 |    presenti nei |                 |                 |
-|                 |    documenti di |                 |                 |
-|                 |    cui al       |                 |                 |
-|                 |    Requisito 15 |                 |                 |
-|                 |    e al         |                 |                 |
-|                 |    Requisito    |                 |                 |
-|                 |    16.          |                 |                 |
+|                 | - specificare   |                 |                 |
+|                 |   l’identificato|                 |                 |
+|                 |   re            |                 |                 |
+|                 |   del dato nei  |                 |                 |
+|                 |   metadati      |                 |                 |
+|                 |   seguendo le   |                 |                 |
+|                 |   indicazioni   |                 |                 |
+|                 |   presenti nei  |                 |                 |
+|                 |   documenti di  |                 |                 |
+|                 |   cui al        |                 |                 |
+|                 |   Requisito 15  |                 |                 |
+|                 |   e al          |                 |                 |
+|                 |   Requisito     |                 |                 |
+|                 |   16.           |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | 11              | Per rendere i   | Pubbliche       | Art. 9-bis c. 3 |
 |                 | dati            | Amministrazioni |                 |
