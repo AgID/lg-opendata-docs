@@ -147,7 +147,7 @@ provvedimento del direttore dell’Agenzia delle Entrate.
 
 Il riutilizzo deve essere **sempre gratuito** nel caso delle **serie di
 dati di elevato valore** (v. par. :ref:`par-4-3`), con le esclusioni indicate
-nel Requisito 7, e nel caso dei **dati della ricerca** (v. par.
+nel Requisito 8, e nel caso dei **dati della ricerca** (v. par.
 :ref:`par-4-4`).
 
 
