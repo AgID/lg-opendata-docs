@@ -532,19 +532,19 @@ Formati per dati meteorologici
 
 Per i **dati di osservazione misurati dalle stazioni meteorologiche**, oltre al **JSON** da utilizzare per dati orari, possono essere utilizzati i seguenti formati:
 
-  -	**BUFR (Binary Universal Form for the Representation of meteorological data)**, formato di dati gestito dall’Organizzazione Meteorologica Mondiale (WMO – World   Meteorological Organization) [5]_;
+ - **BUFR (Binary Universal Form for the Representation of meteorological data)**, formato di dati gestito dall’Organizzazione Meteorologica Mondiale (WMO – World   Meteorological Organization) [5]_;
   
-  -	**NetCDF (Network Common Data Form)**, insieme di librerie software e formati di dati indipendenti dalla macchina che supportano la creazione, l’accesso e la condivisione di dati scientifici *array-oriented* [6]_;
+ - **NetCDF (Network Common Data Form)**, insieme di librerie software e formati di dati indipendenti dalla macchina che supportano la creazione, l’accesso e la condivisione di dati scientifici *array-oriented* [6]_;
   
-  -	**ASCII (American Standard Code for Information Interchange)**, codice per la codifica dei caratteri da utilizzare per lo scambio generale di informazioni tra sistemi di elaborazione e comunicazione [7]_.
+ - **ASCII (American Standard Code for Information Interchange)**, codice per la codifica dei caratteri da utilizzare per lo scambio generale di informazioni tra sistemi di elaborazione e comunicazione [7]_.
   
 Per i **dati climatici**, possono essere utilizzati i formati **NetCDF** e **JSON**.
 
 Per gli **avvisi meteo** possono essere utilizzati i seguenti formati:
 
-  - **CAP (Common Alerting Protocol)**, formato di dati basato su XML per lo scambio di avvisi pubblici ed emergenze tra tecnologie di allerta [8]_;
+ - **CAP (Common Alerting Protocol)**, formato di dati basato su XML per lo scambio di avvisi pubblici ed emergenze tra tecnologie di allerta [8]_;
   
-  -	**RSS (Really Simple Syndication)/Atom**, formati di dati basati su XML per distribuire contenuti come elenchi di informazioni conosciuti come “feed” [9]_.
+ - **RSS (Really Simple Syndication)/Atom**, formati di dati basati su XML per distribuire contenuti come elenchi di informazioni conosciuti come “feed” [9]_.
   
 Per i **dati radar**, oltre al **JSON**, può essere utilizzato il formato **HDF5 (Hierarchical Data Format)**, progettato per archiviare e organizzare grandi quantità di dati [10]_.
 
