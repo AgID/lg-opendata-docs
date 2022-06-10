@@ -188,25 +188,25 @@ Nella tabella che segue sono riportate le disposizioni di pubblicazione e riutil
 | all’ambiente          | riutilizzo:           |                       |
 |                       |                       | REQUISITO 2           |
 |                       | - alle condizioni     |                       |
-|                       | della licenza         | REQUISITO 3           |
-|                       | Creative Commons BY   |                       |
-|                       | 4.0 o di qualsiasi    | REQUISITO 7           |
-|                       | licenza aperta        |                       |
-|                       | equivalente o meno    | REQUISITO 27          |
-|                       | restrittiva;          |                       |
+|                       |   della licenza       | REQUISITO 3           |
+|                       |   Creative Commons BY |                       |
+|                       |   4.0 o di qualsiasi  | REQUISITO 7           |
+|                       |   licenza aperta      |                       |
+|                       |   equivalente o meno  | REQUISITO 27          |
+|                       |   restrittiva;        |                       |
 |                       |                       |                       |
 |                       | - in un formato       |                       |
-|                       | aperto e leggibile    |                       |
-|                       | meccanicamente,       |                       |
-|                       | documentato           |                       |
-|                       | pubblicamente,        |                       |
-|                       | riconosciuto          |                       |
-|                       | nell’Unione o a       |                       |
-|                       | livello               |                       |
-|                       | internazionale;       |                       |
+|                       |   aperto e leggibile  |                       |
+|                       |   meccanicamente,     |                       |
+|                       |   documentato         |                       |
+|                       |   pubblicamente,      |                       |
+|                       |   riconosciuto        |                       |
+|                       |   nell’Unione o a     |                       |
+|                       |   livello             |                       |
+|                       |   internazionale;     |                       |
 |                       |                       |                       |
 |                       | - tramite API e       |                       |
-|                       | download in blocco.   |                       |
+|                       |   download in blocco. |                       |
 +-----------------------+-----------------------+-----------------------+
 |                       | I metadati che        | REQUISITO 16          |
 |                       | descrivono i dati     |                       |
