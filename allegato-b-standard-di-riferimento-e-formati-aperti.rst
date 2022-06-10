@@ -54,15 +54,15 @@ indicati nel cap. :ref:`cap-2`.
 | DCMI        | Dublin Core  | Dublin Core | http://dubl | DCMI è anche disponibile come Standard ISO.  |
 |             | Metadata     |             | incore.org/ | In particolare:                              |
 |             | Initiative   |             | documents/d | -  ISO15836-1:2017                           |
-|             |              |             | cmi-terms/  |    *Information and documentation            |
-|             |              |             |             |    — The Dublin Core metadata element set -  |
-|             |              |             |             |    Part 1: Core elements*                    |
+|             |              |             | cmi-terms/  |    Information and documentation  -          |
+|             |              |             |             |    The Dublin Core metadata element set -    |
+|             |              |             |             |    Part 1: Core elements                     |
 |             |              |             |             |    (https://www.iso.org/standard/71339.html);|
 |             |              |             |             |                                              |
 |             |              |             |             | -  ISO 15836-2:2019                          |
-|             |              |             |             |    *Information and documentation            |
-|             |              |             |             |    — The Dublin Core metadata element set -  |
-|             |              |             |             |    Part 2: DCMI Properties and classes*      |
+|             |              |             |             |    Information and documentation -           |
+|             |              |             |             |    The Dublin Core metadata element set -    |
+|             |              |             |             |    Part 2: DCMI Properties and classes       |
 |             |              |             |             |    (https://www.iso.org/standard/71341.html) |
 +-------------+--------------+-------------+-------------+----------------------------------------------+
 | EU          | Risorse      | Commissione | https://op. |                                              |
@@ -151,7 +151,7 @@ indicati nel cap. :ref:`cap-2`.
 +-------------+--------------+-------------+-------------+----------------------------------------------+
 | SDMX        | Statistical  | SDMX        | https://sdm | SDMX è anche uno Standard ISO                |
 |             | Data and     | community   | x.org/?page | - ISO 17369:2013                             |
-|             | Metadata     |             | _id=5008    | https://www.iso.org/standard/52500.html      |
+|             | Metadata     |             | _id=5008    | (https://www.iso.org/standard/52500.html)    |
 |             | eXchange     |             |             |                                              |
 +-------------+--------------+-------------+-------------+----------------------------------------------+
 | SPARQL      | SPARQL       | W3C         | https://www |                                              |
