@@ -554,7 +554,7 @@ Per i **dati del modello NWP (Numerical weather prediction)**, oltre al **JSON**
 Formati per dati statistici
 '''''''''''''''''''''''''''
 
-Per i **dati statistici** il Regolamento indica che, oltre a **CSV**, **JSON** e qualsiasi altro formato aperto e leggibile meccanicamente, si può utilizzare anche **SDMX (Statistical Data and Metadata eXchange)**, uno standard ISO progettato per descrivere dati statistici e relativi metadati, normalizzare il loro scambio e migliorare la loro condivisione tra organizzazioni statistiche e simili [12]_.
+Per i **dati statistici** il Regolamento indica che, oltre a **CSV**, **JSON** e qualsiasi altro formato aperto e leggibile meccanicamente, si può utilizzare anche il formato XML con riferimento a **SDMX (Statistical Data and Metadata eXchange)**, uno standard ISO progettato per descrivere dati statistici e relativi metadati, normalizzare il loro scambio e migliorare la loro condivisione tra organizzazioni statistiche e simili [12]_.
 
 
 Formati per i dati relativi alle imprese e alla proprietà delle imprese
