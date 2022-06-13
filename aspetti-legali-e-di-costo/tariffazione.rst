@@ -104,20 +104,12 @@ Il Decreto specifica anche che, rispetto a quanto indicato innanzi, sono
 fatte salve specifiche disposizioni normative relative, in particolare,
 alla riutilizzazione commerciale di documenti, dati e informazioni
 catastali ed ipotecari, di cui all’art. 1 commi 370, 371 e 372 della
-legge 30 dicembre 2004 n. 311, e alla circolazione delle informazioni
+legge 30 dicembre 2004 n. 311 e s.m.i., e alla circolazione delle informazioni
 concernenti gli immobili di cui all’art. 5 comma 4-bis del decreto-legge
 13 maggio 2011, n. 70, convertito, con modificazioni, dalla legge 12
 luglio 2011, n. 106.
 
-Per quanto riguarda le attività di riutilizzazione commerciale di
-documenti, dati e informazioni catastali ed ipotecari, tali attività
-sono consentite previo il pagamento di tributi speciali catastali e
-tasse ipotecarie, nella misura prevista per l’acquisizione, anche
-telematica, direttamente dagli uffici dell’Agenzia delle Entrate e
-comunque solo se regolamentate da specifiche convenzioni stipulate con
-l’Agenzia delle Entrate, che disciplinino modalità e termini della
-raccolta, della conservazione, della elaborazione dei dati, nonché il
-controllo del limite di riutilizzo consentito.
+Per quanto riguarda le attività di riutilizzazione commerciale di documenti, dati e informazioni catastali ed ipotecari, tali attività sono consentite nel rispetto della normativa in materia di protezione dei dati personali. La norma differenzia tra acquisizione originaria di documenti, dati ed informazioni catastali e acquisizione originaria di documenti, dati ed informazioni ipotecarie. Nel primo caso, i riutilizzatori commerciali autorizzati devono corrispondere un importo fisso annuale determinato con decreto del Ministro dell’economia e delle finanze, mentre nel secondo caso devono corrispondere i tributi previsti maggiorati nella misura del 20 per cento. L’importo fisso annuale e la percentuale di aumento possono comunque essere rideterminati annualmente con decreto del Ministro dell’economia e delle finanze anche tenendo conto dei costi complessivi di raccolta, produzione e diffusione di dati e documenti sostenuti dall’Agenzia delle Entrate, maggiorati di un adeguato rendimento degli investimenti e dell’andamento delle relative riscossioni. Con decreto del Ministro dell’economia e delle finanze sono individuate le categorie di ulteriori servizi telematici che possono essere forniti dall’Agenzia delle Entrate esclusivamente ai riutilizzatori commerciali autorizzati a fronte del pagamento di un corrispettivo da determinare con lo stesso decreto.
 
 Ricordiamo che, per agevolare la circolazione delle informazioni
 concernenti gli immobili, è abolito il divieto di riutilizzazione
