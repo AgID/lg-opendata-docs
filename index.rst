@@ -8,7 +8,7 @@ Le presenti Linee Guida, emesse ai sensi dell'art. 12 del decreto legislativo n.
 
    Questo documento raccoglie il testo delle **Linee Guida recanti regole tecniche per l’attuazione del decreto legislativo 24 gennaio 2006, n. 36 e s.m.i. relativo all’apertura dei dati e al riutilizzo dell’informazione del settore pubblico**.
 
-   Le linee guida sono in consultazione **dal 6 giugno all'8 luglio 2022.**
+   Le linee guida sono in consultazione **dal 16 giugno al 17 luglio 2022.**
 
 
 .. toctree::
