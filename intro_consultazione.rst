@@ -25,7 +25,7 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte, redatte in moda
 
 **Come partecipare**
 
-Le Linee Guida sono pubblicate su Docs Italia ed è possibile commentarle fino all'8 luglio 2022 su
+Le Linee Guida sono pubblicate su `Docs Italia <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs>`_ ed è possibile commentarle fino al 17 luglio 2022 su
 - `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione/linee-guida-open-data/86>`_
 - `ParteciPA <https://partecipa.gov.it/processes/linee-guida-open-data>`_
 - `dati.gov.it <https://dati.gov.it>`_ attraverso il template ISO.
