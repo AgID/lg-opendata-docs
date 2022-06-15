@@ -4,9 +4,9 @@ Requisiti comuni
 ~~~~~~~~~~~~~~~~
 
 Sulla base dell’art. 1 del Decreto, le presenti linee guida si applicano
-ai “*documenti contenenti dati
-pubblici nella **disponibilità delle pubbliche amministrazioni**, degli **organismi di diritto pubblico** e
-delle **imprese pubbliche e private***”, con esclusione dei casi
+ai “**documenti contenenti dati
+pubblici nella disponibilità delle pubbliche amministrazioni, degli organismi di diritto pubblico e
+delle imprese pubbliche e private**”, con esclusione dei casi
 riportati al par. :ref:`par-1-2`.
 
 Il Decreto, così come la Direttiva, utilizza il termine “documento”
