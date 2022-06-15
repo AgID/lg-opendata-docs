@@ -199,7 +199,7 @@ Tutte le ulteriori licenze Creative Commons sono classificabili come:
     -	utilizzare licenze di tipo proprietario.
 
 
-La maggior parte delle licenze suindicate sono raffigurate nella Figura
+Le licenze suindicate sono raffigurate nella Figura
 seguente.
 
 .. figure:: ../media/licenze.png
