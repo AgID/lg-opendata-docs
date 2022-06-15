@@ -5,7 +5,7 @@ Introduzione per la consultazione pubblica
 **Informazioni sulla consultazione**
 
 
-- **Durata della consultazione:** dal 6 giugno 2022 all'8 luglio 2022.
+- **Durata della consultazione:** dal 16 giugno 2022 al 17 luglio 2022.
 
 
 - **Settore:** Open Data
