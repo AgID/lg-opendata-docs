@@ -56,6 +56,7 @@ identificatore persistente a dati e metadati.
      **REQUISITO 10**: dlgs36-2006/opendata/req/research/findable
 
       Per rendere i dati reperibili è necessario:
+      
       - documentare i dati con metadati dettagliati secondo il Requisito 15 e il Requisito 16;
       - assegnare a dati e metadati un identificatore univoco e persistente (per es. DOI);
       - rendere disponibili online i metadati attraverso una risorsa consultabile, come per esempio un catalogo o un repository, seguendo il Requisito 29 e il Requisito 30;
@@ -70,6 +71,7 @@ macchine accedere ai dati attraverso protocolli standard e aperti.
       **REQUISITO 11**: dlgs36-2006/opendata/req/research/accessible
 
       Per rendere i dati accessibili è necessario:
+      
       - consentire l’accesso a dati e metadati a partire dall’identificatore univoco e persistente assegnato;
       - utilizzare protocolli standardizzati e aperti (per es. https);
       - rendere sempre disponibili i metadati anche quando i dati non sono accessibili (o perché sono applicati meccanismi di autenticazione e autorizzazione all’accesso o perché non più disponibili).
@@ -83,6 +85,7 @@ essere conformi a formati e standard riconosciuti.
     **REQUISITO 12**: dlgs36-2006/opendata/req/research/interoperable
 
       Per rendere i dati interoperabili è necessario:
+      
       - fornire i dati in formato aperto secondo i requisiti definiti nelle presenti Linee Guida;
       - utilizzare gli standard pertinenti per i metadati coerentemente con il Requisito 15 e il Requisito 16;
       - utilizzare, ove possibile, vocabolari controllati, parole chiave, thesauri e ontologie;
@@ -100,6 +103,7 @@ riutilizzo è consentito.
     **REQUISITO 13**: dlgs36-2006/opendata/req/research/reusable
 
       Per rendere i dati riusabili è necessario:
+      
       - rendere disponibili dati accurati e ben descritti con molti attributi pertinenti;
       - assegnare ai dati una licenza d’uso chiara e accessibile secondo il Requisito 20 e il Requisito 21;
       - rendere chiaro come, perché, quando e da chi i dati sono stati creati e processati;
