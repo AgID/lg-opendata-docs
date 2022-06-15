@@ -56,10 +56,10 @@ identificatore persistente a dati e metadati.
      **REQUISITO 10**: dlgs36-2006/opendata/req/research/findable
 
       Per rendere i dati reperibili è necessario:
-     -	documentare i dati con metadati dettagliati secondo il Requisito 15 e il Requisito 16;
-     -	assegnare a dati e metadati un identificatore univoco e persistente (per es. DOI);
-     -	rendere disponibili online i metadati attraverso una risorsa consultabile, come per esempio un catalogo o un repository, seguendo il Requisito 29 e il Requisito 30;
-     - 	specificare l’identificatore del dato nei metadati seguendo le indicazioni presenti nei documenti di cui al Requisito 15 e al Requisito 16.
+      -	documentare i dati con metadati dettagliati secondo il Requisito 15 e il Requisito 16;
+      -	assegnare a dati e metadati un identificatore univoco e persistente (per es. DOI);
+      -	rendere disponibili online i metadati attraverso una risorsa consultabile, come per esempio un catalogo o un repository, seguendo il Requisito 29 e il Requisito 30;
+      - 	specificare l’identificatore del dato nei metadati seguendo le indicazioni presenti nei documenti di cui al Requisito 15 e al Requisito 16.
 
 
 **Accessible** (Accessibile) - Deve essere possibile per essere umani e
