@@ -1,6 +1,5 @@
-**Allegato D**
-Elenco analitico dei documenti
-------------------------------
+**Allegato D** - Elenco analitico dei documenti
+-----------------------------------------------
 
 Di seguito l’elenco dei documenti citati nelle presenti Linee Guida come
 risorse utili. In corrispondenza di ciascun documento vengono indicate
