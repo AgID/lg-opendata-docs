@@ -90,9 +90,9 @@ necessario, anche **attraverso download in blocco**.
     **REQUISITO 8**: dlgs36-2006/opendata/req/hvd/free
 
     Le serie di dati di elevato valore, individuate da specifici atti di esecuzione della Commissione Europea, devono essere messe a disposizione gratuitamente ad eccezione di quelle:
-    -	in possesso delle imprese pubbliche qualora ciò determini una distorsione della concorrenza nei pertinenti mercati, se così previsto dagli atti di esecuzione di cui sopra;
-    - in possesso di biblioteche, comprese le biblioteche universitarie, musei e archivi;
-    -	che, in possesso degli enti pubblici, generano utili per coprire una parte sostanziale dei costi inerenti allo svolgimento dei compiti di servizio pubblico e la loro messa a disposizione gratuita avrebbe un impatto sostanziale sul bilancio di tali enti. In tal caso la possibile esenzione dall’obbligo di mettere a disposizione gratuitamente le serie di dati di valore elevato deve durare per un periodo non superiore ai due anni dall’entrata in vigore del pertinente atto di esecuzione della Commissione Europea.
+ -	in possesso delle imprese pubbliche qualora ciò determini una distorsione della concorrenza nei pertinenti mercati, se così previsto dagli atti di esecuzione di cui sopra;
+ - in possesso di biblioteche, comprese le biblioteche universitarie, musei e archivi;
+ -	che, in possesso degli enti pubblici, generano utili per coprire una parte sostanziale dei costi inerenti allo svolgimento dei compiti di servizio pubblico e la loro messa a disposizione gratuita avrebbe un impatto sostanziale sul bilancio di tali enti. In tal caso la possibile esenzione dall’obbligo di mettere a disposizione gratuitamente le serie di dati di valore elevato deve durare per un periodo non superiore ai due anni dall’entrata in vigore del pertinente atto di esecuzione della Commissione Europea.
 
 L’art. 3 della bozza di Regolamento definisce le disposizioni per la pubblicazione applicabili a tutte le categorie di set di dati di alto valore. Il rispetto dei REQUISITI 1, 7 e 27 definiti nelle presenti Linee Guida assicura l’adempimento dei paragrafi (1), (2) e (3) del citato articolo.
 
