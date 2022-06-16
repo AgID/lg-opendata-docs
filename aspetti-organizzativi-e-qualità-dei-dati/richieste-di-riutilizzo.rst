@@ -58,10 +58,9 @@ l’evasione delle stesse.
    altrimenti al Gruppo di Lavoro Open Data, se costituito, altrimenti
    infine all’unità organizzativa responsabile della gestione e del
    trattamento dei dati o documenti di cui è richiesto il riutilizzo.
-
-Nel caso esista una procedura già definita dall’Amministrazione (v.
-punto 2), la richiesta deve essere inoltrata secondo quanto prevede la
-procedura definita.
+   Nel caso esista una procedura già definita dall’Amministrazione (v.
+   punto 2), la richiesta deve essere inoltrata secondo quanto prevede la
+   procedura definita.
 
 4. L’ufficio responsabile esamina le richieste formulando una
    **decisione entro 30 giorni**. A supporto di tale attività può essere
