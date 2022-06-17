@@ -184,7 +184,7 @@ nel file di testo CSV e i valori delle celle sono divisi da un carattere
 separatore, che, come indica il nome stesso, dovrebbe essere la virgola. Il
 CSV non è uno standard vero e proprio ma la sua modalità d’uso è
 descritta nell’RFC 4180. Nel rilascio di dati secondo il formato CSV,
-per agevolare i riutilizzatoti, si raccomanda di dichiarare almeno 1) il
+per agevolare i riutilizzatori, si raccomanda di dichiarare almeno 1) il
 separatore di campo utilizzato (e.g, virgola, punto e virgola); 2) se è
 stato usato un carattere per delimitare i campi di testo.
 
