@@ -128,7 +128,7 @@ del dato dal punto di vista IT.
 
 È altresì importante garantire il **raccordo e la consultazione con le
 altre figure coinvolte nel processo di digitalizzazione della pubblica
-amministrazione**, ovveroresponsabile per la conservazione documentale,
+amministrazione**, ovvero responsabile per la conservazione documentale,
 responsabile per la prevenzione della corruzione e la trasparenza,
 responsabile per la protezione dei dati personali, responsabile dei
 sistemi informativi (se non coincide con il RTD), responsabile per la
