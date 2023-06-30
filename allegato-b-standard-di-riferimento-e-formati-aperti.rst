@@ -26,139 +26,131 @@ da considerare i documenti tecnici (come, per es., le Linee Guida)
 indicati nel cap. :ref:`cap-2`.
 
 
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| Acronimo/   | Titolo       | Organismo   | URL         | Note                                         |
-|             |              | di          |             |                                              |
-| abbreviazio |              | standardizz |             |                                              |
-| ne          |              | azione      |             |                                              |
-+=============+==============+=============+=============+==============================================+
-| DataCube    | The RDF      | W3C         | https://www |                                              |
-|             | Data Cube    |             | .w3.org/TR/ |                                              |
-|             | Vocabulary   |             | vocab-data- |                                              |
-|             |              |             | cube/       |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| DCAT        | Data         | W3C         | http://www. |                                              |
-|             | Catalog      |             | w3.org/TR/v |                                              |
-|             | Vocabulary   |             | ocab-dcat/  |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| DCAT-AP_IT  | DCAT         | AgID        | https://doc |                                              |
-|             | Application  |             | s.italia.it |                                              |
-|             | Profile      |             | /italia/daf |                                              |
-|             | (Italia)     |             | /linee-guid |                                              |
-|             |              |             | a-cataloghi |                                              |
-|             |              |             | -dati-dcat- |                                              |
-|             |              |             | ap-it/it/st |                                              |
-|             |              |             | abile/dcat- |                                              |
-|             |              |             | ap_it.html  |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| DCMI        | Dublin Core  | Dublin Core | http://dubl | DCMI è anche disponibile come Standard ISO.  |
-|             | Metadata     |             | incore.org/ | In particolare:                              |
-|             | Initiative   |             | documents/d | -  ISO15836-1:2017                           |
-|             |              |             | cmi-terms/  |    Information and documentation  -          |
-|             |              |             |             |    The Dublin Core metadata element set -    |
-|             |              |             |             |    Part 1: Core elements                     |
-|             |              |             |             |    (https://www.iso.org/standard/71339.html);|
-|             |              |             |             |                                              |
-|             |              |             |             | -  ISO 15836-2:2019                          |
-|             |              |             |             |    Information and documentation -           |
-|             |              |             |             |    The Dublin Core metadata element set -    |
-|             |              |             |             |    Part 2: DCMI Properties and classes       |
-|             |              |             |             |    (https://www.iso.org/standard/71341.html) |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| EU          | Risorse      | Commissione | https://op. |                                              |
-| vocabularies| (vocabolari  | Europea     | europa.eu/e |                                              |
-|             | controllati, |             | n/web/eu-vo |                                              |
-|             | modelli,     |             | cabularies/ |                                              |
-|             | schemi e     |             | home        |                                              |
-|             | ontologie)   |             |             |                                              |
-|             | rese         |             |             |                                              |
-|             | disponibili  |             |             |                                              |
-|             | dall’Ufficio |             |             |                                              |
-|             | delle        |             |             |                                              |
-|             | Pubblicazioni|             |             |                                              |
-|             | dell’Unione  |             |             |                                              |
-|             | Europea      |             |             |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| INSPIRE     | Infrastruct  | Commissione | http://insp |                                              |
-|             | ure          | Europea     | ire.ec.euro |                                              |
-|             | for Spatial  |             | pa.eu/      |                                              |
-|             | Information  |             |             |                                              |
-|             | in the       |             |             |                                              |
-|             | European     |             |             |                                              |
-|             | Community    |             |             |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| ISO 19100   | Serie 19100  | ISO         | https://www |                                              |
-|             | “Geographic  |             | .iso.org/co |                                              |
-|             | Information” |             | mmittee/549 |                                              |
-|             |              |             | 04/x/catalo |                                              |
-|             |              |             | gue/        |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| ISO 639     | Language     | ISO         | http://www. |                                              |
-|             | codes        |             | iso.org/iso |                                              |
-|             |              |             | /home/stand |                                              |
-|             |              |             | ards/langua |                                              |
-|             |              |             |             |                                              |
-|             |              |             | ge_codes.ht |                                              |
-|             |              |             | m           |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| ISO 8601    | Date and     | ISO         | http://www. |                                              |
-|             | time format  |             | iso.org/iso |                                              |
-|             |              |             | /home/stand |                                              |
-|             |              |             | ards/iso860 |                                              |
-|             |              |             | 1.htm       |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| NUTS        | Nomenclature | Commissione | https://ec. |                                              |
-|             | of           | Europea     | europa.eu/e |                                              |
-|             | territorial  |             | urostat/web |                                              |
-|             | units for    |             | /nuts/backg |                                              |
-|             | statistics   |             | round       |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| ONTOPIA     | Rete         | AgID        | https://git |                                              |
-|             | italiana     |             | hub.com/ita |                                              |
-|             | ontologie e  |             | lia/daf-ont |                                              |
-|             | vocabolari   |             | ologie-voca |                                              |
-|             | controllati  |             | bolari-cont |                                              |
-|             |              |             | rollati     |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| OWL         | Ontology     | W3C         | https://www |                                              |
-|             | Web          |             | .w3.org/TR/ |                                              |
-|             | Language     |             | owl-feature |                                              |
-|             |              |             | s/          |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| RDF         | Resource     | W3C         | https://www |                                              |
-|             | Description  |             | .w3.org/TR/ |                                              |
-|             | Framework    |             | rdf11-prime |                                              |
-|             |              |             | r/          |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| RDFS        | RDF Schema   | W3C         | https://www |                                              |
-|             |              |             | .w3.org/TR/ |                                              |
-|             |              |             | rdf-schema/ |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-|             | Regole       | Governo     | https://geo |                                              |
-|             | tecniche     | italiano /  | dati.gov.it |                                              |
-|             | dati         | AgID        | /geoportale |                                              |
-|             | territoriali |             | /datiterrit |                                              |
-|             |              |             | oriali/rego |                                              |
-|             |              |             | le-tecniche |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| RNDT        | Profilo      | AgID        | https://agi |                                              |
-|             | italiano di  |             | d.github.io |                                              |
-|             | metadati     |             | /geodocs/rn |                                              |
-|             | per i dati   |             | dt-lg/2.0.1 |                                              |
-|             | territoriali |             | /           |                                              |
-|             | e relativi   |             |             |                                              |
-|             | servizi      |             |             |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| SDMX        | Statistical  | SDMX        | https://sdm | SDMX è anche uno Standard ISO                |
-|             | Data and     | community   | x.org/?page | - ISO 17369:2013                             |
-|             | Metadata     |             | _id=5008    | (https://www.iso.org/standard/52500.html)    |
-|             | eXchange     |             |             |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
-| SPARQL      | SPARQL       | W3C         | https://www |                                              |
-|             | Protocol     |             | .w3.org/TR/ |                                              |
-|             | for RDF      |             | rdf-sparql- |                                              |
-|             |              |             | protocol/   |                                              |
-+-------------+--------------+-------------+-------------+----------------------------------------------+
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| Acronimo/   | Titolo       | Organismo   |                                URL                                     | Note                       |
+|             |              | di          |                                                                        |                            |
+| abbreviazio |              | standardizz |                                                                        |                            |
+| ne          |              | azione      |                                                                        |                            |
++=============+==============+=============+========================================================================+============================+
+| DataCube    | The RDF      | W3C         | https://www.w3.org/TR/vocab-data-cube/                                 |                            |
+|             | Data Cube    |             |                                                                        |                            |
+|             | Vocabulary   |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| DCAT        | Data         | W3C         | http://www.w3.org/TR/vocab-dcat/                                       |                            |
+|             | Catalog      |             |                                                                        |                            |
+|             | Vocabulary   |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| DCAT-AP_IT  | DCAT         | AgID        |https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/|                            |
+|             | Application  |             |                                                                        |                            |
+|             | Profile      |             |                                                                        |                            |
+|             | (Italia)     |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| DCMI        | Dublin Core  | Dublin Core | http://dublincore.org/documents/dcmi-terms/                            | DCMI è anche disponibile   |
+|             | Metadata     |             |                                                                        | come Standard ISO. In      |
+|             | Initiative   |             |                                                                        | particolare:               |
+|             |              |             |                                                                        | ISO 15836-1:2017 e         |
+|             |              |             |                                                                        | ISO 15836-2:2019           |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| EU          | Risorse      | Commissione | https://op.europa.eu/en/web/eu-vocabularies/home                       |                            |
+| vocabularies| (vocabolari  | Europea     |                                                                        |                            |
+|             | controllati, |             |                                                                        |                            |
+|             | modelli,     |             |                                                                        |                            |
+|             | schemi e     |             |                                                                        |                            |
+|             | ontologie)   |             |                                                                        |                            |
+|             | rese         |             |                                                                        |                            |
+|             | disponibili  |             |                                                                        |                            |
+|             | dall’Ufficio |             |                                                                        |                            |
+|             | delle        |             |                                                                        |                            |
+|             | Pubblicazioni|             |                                                                        |                            |
+|             | dell’Unione  |             |                                                                        |                            |
+|             | Europea      |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| INSPIRE     | Infrastruct  | Commissione | http://inspire.ec.europa.eu/                                           |                            |
+|             | ure          | Europea     |                                                                        |                            |
+|             | for Spatial  |             |                                                                        |                            |
+|             | Information  |             |                                                                        |                            |
+|             | in the       |             |                                                                        |                            |
+|             | European     |             |                                                                        |                            |
+|             | Community    |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| ISO 19100   | Serie 19100  | ISO         | https://www.iso.org/committee/54904/x/catalogue/                       |                            |
+|             | “Geographic  |             |                                                                        |                            |
+|             | Information” |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| ISO 639     | Language     | ISO         | http://www.iso.org/iso/home/standards/language_codes.htm               |                            |
+|             | codes        |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| ISO 8601    | Date and     | ISO         | http://www.iso.org/iso/home/standards/iso8601.htm                      |                            |
+|             | time format  |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| NUTS        | Nomenclature | Commissione | https://ec.europa.eu/eurostat/web/nuts/background                      |                            |
+|             | of           | Europea     |                                                                        |                            |
+|             | territorial  |             |                                                                        |                            |
+|             | units for    |             |                                                                        |                            |
+|             | statistics   |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| ONTOPIA     | Rete         | AgID        | https://github.com/italia/daf-ontologie-vocabolari-controllati         |                            |
+|             | italiana     |             |                                                                        |                            |
+|             | ontologie e  |             |                                                                        |                            |
+|             | vocabolari   |             |                                                                        |                            |
+|             | controllati  |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| OWL         | Ontology     | W3C         | https://www.w3.org/TR/owl-features/                                    |                            |
+|             | Web          |             |                                                                        |                            |
+|             | Language     |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| RDF         | Resource     | W3C         | https://www.w3.org/TR/rdf11-primer/                                    |                            |
+|             | Description  |             |                                                                        |                            |
+|             | Framework    |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| RDFS        | RDF Schema   | W3C         | https://www.w3.org/TR/rdf-schema/                                      |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+|             | Regole       | Governo     | https://geodati.gov.it/geoportale/datiterritoriali/regole-tecniche     |                            |
+|             | tecniche     | italiano /  |                                                                        |                            |
+|             | dati         | AgID        |                                                                        |                            |
+|             | territoriali |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| RNDT        | Profilo      | AgID        | https://agid.github.io/geodocs/rndt-lg/2.0.1/                          |                            |
+|             | italiano di  |             |                                                                        |                            |
+|             | metadati     |             |                                                                        |                            |
+|             | per i dati   |             |                                                                        |                            |
+|             | territoriali |             |                                                                        |                            |
+|             | e relativi   |             |                                                                        |                            |
+|             | servizi      |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| SDMX        | Statistical  | SDMX        | https://sdmx.org/?page_id=5008                                         | SDMX è anche Standard      |
+|             | Data and     | community   |                                                                        | ISO 17369:2013             |
+|             | Metadata     |             |                                                                        |                            |
+|             | eXchange     |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
+| SPARQL      | SPARQL       | W3C         | https://www.w3.org/TR/rdf-sparql-protocol/                             |                            |
+|             | Protocol     |             |                                                                        |                            |
+|             | for RDF      |             |                                                                        |                            |
+|             |              |             |                                                                        |                            |
++-------------+--------------+-------------+------------------------------------------------------------------------+----------------------------+
 
 
 .. topic:: Risorse utili
